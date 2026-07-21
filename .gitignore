@@ -1,0 +1,51 @@
+# Datos personales, encuestas y bases de trabajo
+datos_trabajo/
+encuestas/
+respuestas/
+contactos/
+padron/
+voluntarios/
+segmentacion/
+microtargeting/
+exportaciones/
+backups/
+backup/
+
+# Archivos de datos y análisis que requieren revisión previa
+*.csv
+*.xlsx
+*.xls
+*.pbix
+*.gpkg
+*.geojson
+*.shp
+*.dbf
+*.sqlite
+*.sql
+*.sav
+
+# Documentos, medios y comprimidos
+*.pdf
+*.doc
+*.docx
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.mov
+*.zip
+*.7z
+*.rar
+
+# Secretos y configuración
+.env
+.env.*
+credentials*
+secrets*
+*.pem
+*.key
+
+# Sistema
+Thumbs.db
+.DS_Store
+~$*
