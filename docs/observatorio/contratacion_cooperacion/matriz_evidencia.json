@@ -1,0 +1,292 @@
+{
+  "corte": "2026-11-23",
+  "metodo": "Muestra dirigida a obras, agua, estudios, residuos y cooperación, contrastada con la matriz anterior. Identidad compradora SERCOP: RUC 0460000640001, identificador 21655. No es un censo: las búsquedas API anuales 2023–2026 devolvieron HTTP 429. Se accedió a seis fichas OCDS y dos necesidades de ínfima cuantía. Dos enlaces de contrato remitidos por LOTAIP no mostraron contenido utilizable. La falta de acceso no indica inexistencia de contrato.",
+  "criterio": "La percepción de bajo cumplimiento no se usa como prueba. Se registra tanto evidencia favorable como pendientes. Contrato, recepción, funcionamiento y resultado son niveles diferentes. Para cooperación se separan proyecto territorial, convenio con el GAD, vigencia jurídica y ejecución financiera. No se calcula un porcentaje global.",
+  "contratos": [
+    {
+      "id": "SC01",
+      "codigo": "MCO-GAD-MM-2025-003",
+      "ocid": "ocds-5wno2w-MCO-GAD-MM-2025-003-21655",
+      "tipo": "Obra",
+      "objeto": "ADECENTAMIENTO DEL CENTRO DE MOVILIDAD SAN GABRIEL",
+      "referencial": 61249.38,
+      "contrato": 61249.38,
+      "moneda": "USD",
+      "proveedor": "Proveedor persona natural · consultar registro oficial",
+      "firma": "2025-05-06",
+      "inicio": "2025-05-26",
+      "fin_programado": "2025-07-25",
+      "estado_original": "terminated",
+      "fecha_registro": "2025-06-21",
+      "fecha_consulta": "2026-11-23",
+      "nivel": "Contrato registrado en SERCOP",
+      "recepcion": "No acreditada con los documentos examinados",
+      "operacion": "No acreditada con los documentos examinados",
+      "lectura": "Contrato registrado; no basta para concluir recepción satisfactoria y servicio en funcionamiento.",
+      "vinculo": [
+        "L18"
+      ],
+      "refs": [
+        "SC01"
+      ]
+    },
+    {
+      "id": "SC02",
+      "codigo": "MCO-GAD-MM-2025-013",
+      "ocid": "ocds-5wno2w-MCO-GAD-MM-2025-013-21655",
+      "tipo": "Obra",
+      "objeto": "Adoquinado Y Cambio De Red De Alcantarillado Y Agua Potable De Las Calles Circundantes Del Parque Central De Chitan De Queles",
+      "referencial": 57826.89,
+      "contrato": 57826.89,
+      "moneda": "USD",
+      "proveedor": "Proveedor persona natural · consultar registro oficial",
+      "firma": "2025-09-15",
+      "inicio": "2025-10-15",
+      "fin_programado": "2026-01-13",
+      "estado_original": "terminated",
+      "fecha_registro": "2025-11-06",
+      "fecha_consulta": "2026-11-23",
+      "nivel": "Contrato registrado en SERCOP",
+      "recepcion": "No acreditada con los documentos examinados",
+      "operacion": "No acreditada con los documentos examinados",
+      "lectura": "Contrato registrado; no basta para concluir recepción satisfactoria y servicio en funcionamiento.",
+      "vinculo": [
+        "L05",
+        "L14"
+      ],
+      "refs": [
+        "SC02"
+      ]
+    },
+    {
+      "id": "SC03",
+      "codigo": "CDC-GAD-MM-2025-002",
+      "ocid": "ocds-5wno2w-CDC-GAD-MM-2025-002-21655",
+      "tipo": "Estudio",
+      "objeto": "ESTUDIOS Y DISEÑOS DEFINITIVOS DEL SISTEMA DE AGUA POTABLE DE CHUTÁN BAJO Y SISTEMAS DE AGUA POTABLE Y ALCANTARILLADO DE LA COMUNIDAD DE EL CAPULÍ",
+      "referencial": 51211.4,
+      "contrato": 51211.4,
+      "moneda": "USD",
+      "proveedor": "Proveedor persona natural · consultar registro oficial",
+      "firma": "2025-04-25",
+      "inicio": "2025-05-19",
+      "fin_programado": "2025-08-17",
+      "estado_original": "terminated",
+      "fecha_registro": "2026-03-04",
+      "fecha_consulta": "2026-11-23",
+      "nivel": "Contrato registrado en SERCOP",
+      "recepcion": "No acreditada con los documentos examinados",
+      "operacion": "No acreditada con los documentos examinados",
+      "lectura": "Estudio contratado; no equivale a construcción ni acredita entrega de diseños.",
+      "vinculo": [
+        "L06"
+      ],
+      "refs": [
+        "SC03"
+      ]
+    },
+    {
+      "id": "SC04",
+      "codigo": "CDC-GAD-MM-2025-008",
+      "ocid": "ocds-5wno2w-CDC-GAD-MM-2025-008-21655",
+      "tipo": "Estudio",
+      "objeto": "ESTUDIOS DE ADOQUINADOS Y ALCANTARILLADOS DE LOS EJES VIALES DEL CANTÓN MONTÚFAR",
+      "referencial": 39560.33,
+      "contrato": 39560.33,
+      "moneda": "USD",
+      "proveedor": "Proveedor persona natural · consultar registro oficial",
+      "firma": "2025-08-05",
+      "inicio": "2025-08-19",
+      "fin_programado": "2025-10-18",
+      "estado_original": "terminated",
+      "fecha_registro": "2025-12-08",
+      "fecha_consulta": "2026-11-23",
+      "nivel": "Contrato registrado en SERCOP",
+      "recepcion": "No acreditada con los documentos examinados",
+      "operacion": "No acreditada con los documentos examinados",
+      "lectura": "Estudio contratado; no equivale a construcción ni acredita entrega de diseños.",
+      "vinculo": [
+        "L14"
+      ],
+      "refs": [
+        "SC04"
+      ]
+    },
+    {
+      "id": "SC05",
+      "codigo": "LICO-GAD-MM-2025-012",
+      "ocid": "ocds-5wno2w-LICO-GAD-MM-2025-012-21655",
+      "tipo": "Obra",
+      "objeto": "CAMBIO DE REDES DE AGUA POTABLE Y ALCANTARILLADO DE LA COOPERATIVA UNIÓN MONTUFAREÑA",
+      "referencial": 49998.82,
+      "contrato": 44998.3,
+      "moneda": "USD",
+      "proveedor": "Proveedor persona natural · consultar registro oficial",
+      "firma": "2026-03-19",
+      "inicio": "2026-06-03",
+      "fin_programado": "2026-08-02",
+      "estado_original": "terminated",
+      "fecha_registro": "2026-06-04",
+      "fecha_consulta": "2026-11-23",
+      "nivel": "Contrato registrado en SERCOP",
+      "recepcion": "No acreditada con los documentos examinados",
+      "operacion": "No acreditada con los documentos examinados",
+      "lectura": "Contrato registrado; no basta para concluir recepción satisfactoria y servicio en funcionamiento.",
+      "vinculo": [
+        "L05"
+      ],
+      "refs": [
+        "SC05"
+      ]
+    },
+    {
+      "id": "SC06",
+      "codigo": "SIE-GAD-MM-2025-010",
+      "ocid": "ocds-5wno2w-SIE-GAD-MM-2025-010-21655",
+      "tipo": "Bien",
+      "objeto": "ADQUISICION DE RECOLECTOR DE 20 YARDAS",
+      "referencial": null,
+      "contrato": 188000,
+      "moneda": "USD",
+      "proveedor": "INDUSTRIA METAL MECANICA MALIZA S.A.S.",
+      "firma": "2025-12-19",
+      "inicio": "2026-01-15",
+      "fin_programado": "2026-03-16",
+      "estado_original": "terminated",
+      "fecha_registro": "2026-06-03",
+      "fecha_consulta": "2026-11-23",
+      "nivel": "Contrato registrado en SERCOP",
+      "recepcion": "No acreditada con los documentos examinados",
+      "operacion": "No acreditada con los documentos examinados",
+      "lectura": "Contrato registrado; no basta para concluir recepción satisfactoria y servicio en funcionamiento.",
+      "vinculo": [
+        "L10"
+      ],
+      "refs": [
+        "SC06"
+      ]
+    }
+  ],
+  "cooperacion": [
+    {
+      "id": "CO01",
+      "titulo": "ECOGOBTUR · turismo sostenible y gobernanza",
+      "socios": "Unión Europea; Ayuntamiento de La Palma del Condado; GAD Carchi, Mira y Montúfar; FAMSI",
+      "estado": "Plazo documentado finalizado; prórroga por verificar",
+      "periodo": "15-I-2021 a 15-VII-2026 según pliego oficial de febrero 2026",
+      "objeto": "Gobernanza local, ecologización, turismo, formación e iniciativas comunitarias.",
+      "finanzas": "Convenio original: EUR 2.905.484,94 para el proyecto global, UE EUR 2.760.210,00; contraparte pactada Montúfar EUR 19.328,49. No equivalen a ingreso o ejecución municipal confirmados. La evaluación se contrató por EUR 13.800 sin IVA, por el Ayuntamiento.",
+      "evidencia": "Convenio municipal y contrato español de evaluación final verificados. FAMSI registra actividades en abril 2026. Se acredita origen anterior a 2023 y continuidad durante la actual administración, sin atribuirle la captación inicial.",
+      "limite": "No se identificó prórroga posterior al 15-VII-2026 ni informe final entregado. Actividades POA y sitio web activo no prueban vigencia actual. La fecha 23-VI-2021 en LOTAIP difiere de la firma 19-X-2021 visible en la copia del convenio.",
+      "falta": "Apéndices y prórrogas, desglose actualizado de asignación a Montúfar, desembolsos, contrapartidas pagadas, liquidación e informe de evaluación final con resultados por cantón.",
+      "refs": [
+        "EC01 · p. PDF 3",
+        "EC02 · pp. PDF 1 y 5",
+        "EC03 · pp. PDF 7 y 17",
+        "EC04",
+        "CV01"
+      ]
+    },
+    {
+      "id": "CO02",
+      "titulo": "PMA · Comedor San Vicente de Paúl",
+      "socios": "Programa Mundial de Alimentos y GAD Montúfar / Comedor San Vicente de Paúl",
+      "estado": "Plazo documentado finalizado; renovación por verificar",
+      "periodo": "Acuerdo 24-VI-2024, enmienda 31-VII-2024; vigencia hasta 30-VI-2025, cláusula 2.2, PDF p. 7",
+      "objeto": "Asistencia alimentaria mediante comidas calientes; no confundir con alimentación escolar.",
+      "finanzas": "Existe presupuesto anexo al acuerdo; no se suma a la financiación escolar ni se asume transferencia de una cartera nacional al Municipio.",
+      "evidencia": "Registro LOTAIP y convenio íntegro descargado con acuerdo/enmienda. Se acredita relación institucional documentada, sin que la publicación mensual renueve el plazo.",
+      "limite": "El acuerdo fija cierre al 30-VI-2025. La enmienda de 31-VII-2024 modifica presupuesto y mantiene las demás disposiciones. El CSV publicado en 2026 describe un año, pero no acredita renovación; prevalece la revisión del instrumento.",
+      "falta": "Renovación o nuevo acuerdo vigente en 2026, transferencias, raciones servidas y liquidación por período.",
+      "refs": [
+        "PM01 · pp. PDF 1–2 y 7",
+        "CV01",
+        "CV02"
+      ]
+    },
+    {
+      "id": "CO03",
+      "titulo": "Charity Anywhere · ayuda humanitaria y equipamiento",
+      "socios": "GAD Montúfar y Fundación Charity Anywhere",
+      "estado": "Actividad 2026 reportada; vigencia contractual por verificar",
+      "periodo": "Publicaciones institucionales 2026; sin plazo contractual verificable en la nota",
+      "objeto": "Ayudas técnicas, equipamiento e insumos de salud y logística internacional.",
+      "finanzas": "El GAD anuncia USD 55.000 de contraparte logística; el monto no es una donación de USD 55.000 al Municipio. La noticia sobre Chután Bajo distingue obra municipal y equipo donado.",
+      "evidencia": "El Municipio reporta 31 sillas de ruedas, equipamiento y nuevo contenedor. Fuente primaria municipal, todavía sin contraste de la entrega mediante actas.",
+      "limite": "No se obtuvo convenio íntegro firmado y vigente, avalúo o inventario conciliado. No duplicar equipos de distintas publicaciones como donaciones adicionales.",
+      "falta": "Convenio y adendas, comprobante de contraparte, documentos de importación, valoración, inventario y actas anonimizadas de entrega y uso.",
+      "refs": [
+        "CH01",
+        "CH02"
+      ]
+    },
+    {
+      "id": "CO04",
+      "titulo": "ACNUR / HIAS · protección y apoyo psicosocial",
+      "socios": "ACNUR, HIAS y actores locales del territorio",
+      "estado": "Actividad territorial corroborada; convenio municipal no acreditado",
+      "periodo": "Marzo–abril 2026; sin plazo de convenio municipal identificado",
+      "objeto": "Apoyo entre pares de adolescentes y formación en protección.",
+      "finanzas": "Sin monto municipal individualizado en estos informes. No se infiere financiación transferida al GAD.",
+      "evidencia": "ACNUR informa cinco sesiones de HIAS con el Club de Adolescentes Montúfar; otro informe describe capacitación a equipos locales.",
+      "limite": "La fuente es otra institución participante. La acción ocurre en el cantón, pero no identifica al GAD como contratante o ejecutor de todas sus actividades.",
+      "falta": "Convenio directo con el Municipio si existe, obligaciones de cada socio, participantes anonimizados, aportes y continuidad posterior.",
+      "refs": [
+        "AC01 · p. PDF 4",
+        "AC02 · p. PDF 4"
+      ]
+    },
+    {
+      "id": "CO05",
+      "titulo": "BIAN · Biocorredor Andes Norte",
+      "socios": "FIEDS, COSPE, Ecolex, GAD provinciales Carchi/Imbabura/Pichincha y Congope",
+      "estado": "Antecedente territorial; vigencia 2026 no acreditada",
+      "periodo": "Convenio del financiador anunciado 30-III-2022; fecha final por verificar",
+      "objeto": "Conectividad y resiliencia de paisajes andinos; Montúfar entre los cantones incluidos.",
+      "finanzas": "USD 2.033.486,41 de proyecto global, de los cuales USD 1.749.086,41 del FIEDS. No es asignación exclusiva a Montúfar ni ingreso municipal acreditado.",
+      "evidencia": "El fondo binacional identifica ejecutor, socios, territorio y financiación. Antecedente anterior a la administración actual.",
+      "limite": "No prueba que el GAD municipal sea receptor directo, cuánto se ejecutó en el cantón o que el convenio siga abierto hoy.",
+      "falta": "Convenio completo, fechas de cierre/prórroga, actividades y valores por cantón, liquidación e instrumentos específicos con el GAD.",
+      "refs": [
+        "BI01"
+      ]
+    }
+  ],
+  "necesidades": [
+    {
+      "id": "SN01",
+      "codigo": "NIC-0460000640001-2026-00102",
+      "objeto": "Adecuación del cerramiento y trabajos complementarios de cancha Cucher",
+      "publicacion": "2026-10-06",
+      "estado": "Finalizada (necesidad de proformas)",
+      "lectura": "Se verificaron ficha y anexos preparatorios. El estado no prueba entrega de obra. LOTAIP declara adjudicación por USD 9.584,83, sin acta examinada.",
+      "refs": [
+        "SN01",
+        "SA01",
+        "SA02",
+        "SA03",
+        "LT8"
+      ]
+    },
+    {
+      "id": "SN02",
+      "codigo": "NIC-0460000640001-2026-00109",
+      "objeto": "Repuestos de diferencial y turbocargador de volquetas municipales",
+      "publicacion": "2026-10-20",
+      "estado": "Finalizada (necesidad de proformas)",
+      "lectura": "Se verificó la necesidad. El anexo de proyecto de orden es una plantilla con campos por completar; no se presenta como orden emitida. LOTAIP declara adjudicación, pero faltan orden final y recepción.",
+      "refs": [
+        "SN02",
+        "SA04",
+        "LT8"
+      ]
+    }
+  ],
+  "pendientes": [
+    "Completar extracción SERCOP 2023–2026 por RUC, incluyendo ínfimas cuantías, cancelados y desiertos. Registrar cobertura y deduplicar OCID/contrato.",
+    "Obtener contratos firmados, actas de recepción, planillas y liquidación de la muestra; cotejar con POA, pagos y ubicación. No usar la fecha de actualización de la ficha como fecha de entrega.",
+    "Solicitar cartera oficial de cooperación vigente al corte: convenios, adendas, plazo, receptor, aportes, desembolsos, metas y liquidación por proyecto.",
+    "Solicitar prórroga posterior al 15-VII-2026 e informe final de ECOGOBTUR; renovación PMA y convenio/actas de Charity Anywhere.",
+    "Separar resultados atribuibles a gestión municipal, parroquial, provincial y al cooperante. No sumar el presupuesto completo de un proyecto regional como recursos captados por Montúfar."
+  ]
+}

@@ -1,0 +1,679 @@
+{
+  "fecha": "2026-11-23",
+  "version": "1.10",
+  "alcance": "Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub.",
+  "fuentes": [
+    {
+      "id": "P",
+      "titulo": "Plan de Trabajo (Andrés Ponce), período 2027–2031",
+      "url": "https://drive.google.com/file/d/12EKwNOYpqEv92-yrVMnfqMjDACATWN6J/view",
+      "estado": "Leído: texto completo extraído; matriz y viabilidad examinadas",
+      "detalle": "35 páginas según numeración impresa 0–34. Referencias a páginas impresas. Se analiza la copia recibida; no se certifica que sea la versión registrada ante el CNE."
+    },
+    {
+      "id": "C",
+      "titulo": "COOTAD compilado aportado por el usuario, corte 23-II-2026",
+      "url": "https://drive.google.com/file/d/1VpcyN1QS8X0LyaY__zEQJmdSoX5KOiYs/view",
+      "estado": "Leído; revisar notas de vigencia de cada artículo",
+      "detalle": "Incluye notas sobre artículos afectados por sentencias. La presencia de un artículo en una compilación no garantiza que siga vigente."
+    },
+    {
+      "id": "R",
+      "titulo": "Ley reformatoria COOTAD, RO 229, sexto suplemento, 23-II-2026",
+      "url": "https://drive.google.com/file/d/1ElVd1i_NjbxyfR0FPfddLZ9oHAbuhA1-/view",
+      "estado": "Leída y contrastada con copia oficial en Asamblea Nacional",
+      "detalle": "Artículos operativos y disposiciones transitorias, pp. 13–19. Ver fuente RO para contraste."
+    },
+    {
+      "id": "RO",
+      "titulo": "Registro Oficial 229 · copia alojada por Asamblea Nacional",
+      "url": "https://www.asambleanacional.gob.ec/kichwa/system/files/ro_22.pdf",
+      "estado": "Fuente pública primaria consultada",
+      "detalle": "Corrobora publicación de la ley de febrero de 2026."
+    },
+    {
+      "id": "M",
+      "titulo": "Ordenanza sustitutiva PDOT/PUGS Montúfar, mayo 2025",
+      "url": "https://drive.google.com/file/d/1nQANQx4Whal6Xsfda-cFffnj-hpGhNFR/view",
+      "estado": "Copia institucional difundida por AUCM; artículos relevantes leídos",
+      "detalle": "Texto de 372 páginas. Arts. 2, 5, 7–8, 13–17, 24 y 27. No se certifica compilación municipal vigente ni se auditan todos los anexos."
+    },
+    {
+      "id": "B",
+      "titulo": "Ordenanza de presupuesto GAD Montúfar 2026",
+      "url": "https://drive.google.com/file/d/1KsJuasf1kNF8HtIo680Kt5ogsL24gSLG/view",
+      "estado": "12 páginas leídas; anexos numéricos no incluidos",
+      "detalle": "Arts. 3, 15–17, 20 y 23. Texto aprobado el 3-XII-2025. Algunas fórmulas de sanción dicen 2025 pese al objeto 2026; solicitar copia certificada con anexos y reformas."
+    },
+    {
+      "id": "L",
+      "titulo": "Liquidación presupuestaria municipal 2025",
+      "url": "https://drive.google.com/file/d/17pdWe7HhXcc788MH6bznGHgptHr9AXp0/view",
+      "estado": "Informe financiero leído; antecedente histórico",
+      "detalle": "Memorando 0022-GADMM-DF-JH-2026-M, 22-I-2026. Tablas de ingresos y gastos. No es auditoría externa ni estado de caja actual."
+    },
+    {
+      "id": "A",
+      "titulo": "AUCM · publicación que enlaza las tres copias municipales",
+      "url": "https://asambleamontufar.blogspot.com/2026/08/textos-de-plan-de-desarrollo-y-ot-y.html?m=0",
+      "estado": "Ruta de localización; no sustituye al emisor municipal",
+      "detalle": "Publicación 28-VIII-2026. Advierte que no incorpora posibles reformas de 2026."
+    },
+    {
+      "id": "F",
+      "titulo": "Acuerdo MEF-MEF-2026-0012-A · anexos de regla fiscal",
+      "url": "https://www.economicoproductivo.gob.ec/wp-content/uploads/2026/05/MEF-MEF-2026-0012-A-LINEAMIENTOS.pdf",
+      "estado": "Documento primario consultado",
+      "detalle": "Arts. 3–8: anexos A–E, cédulas de respaldo y determinación del denominador y gasto computable. Arts. 13 y 16: seguimiento preventivo y cierre."
+    },
+    {
+      "id": "CC",
+      "titulo": "RO · sentencia 51-25-IN/25, Ley de Solidaridad Nacional",
+      "url": "https://www.registroficial.gob.ec/edicion-constitucional-no-96-4/",
+      "estado": "Publicación oficial consultada",
+      "detalle": "Inconstitucionalidad de la totalidad de la ley con efecto retroactivo. El art. 249.1 del COOTAD agregado por esa ley no se usa como habilitación en este análisis."
+    },
+    {
+      "id": "J",
+      "titulo": "Corte Constitucional · boletín de admisión, causa 25-26-IN",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/e2NhcnBldGE6J3B1YmxpY2FjaW9uJywgdXVpZDonZDYyMGMxYzctNDY4Yi00NTg4LTljZmUtYTdjMWNiMDYyMzIzLnBkZid9",
+      "estado": "Consta admisión y negativa de cautelar en el boletín consultado",
+      "detalle": "No equivale a sentencia de fondo. No se logró certificar el estado íntegro del expediente al 22-XI-2026; revisar antes de emitir dictamen o aprobar presupuesto."
+    },
+    {
+      "id": "IM",
+      "titulo": "RO · índice de legislación mayo 2026",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZWVmMDQ0ZjAtZWVlNy00NGQ4LTljNTUtZjI2MmRkYzJjYWU1LnBkZiJ9",
+      "estado": "Publicación identificada; no sustituye textos íntegros",
+      "detalle": "Identifica Decreto 392, RO 291-4S de 26-V-2026, y ordenanza de alineación PDOT/PUGS de Montúfar, EE 1341 de 7-V-2026. El texto completo de ambos queda pendiente de revisión."
+    },
+    {
+      "id": "D",
+      "titulo": "Código de la Democracia · compilación publicada por CNE",
+      "url": "https://votoenelexterior.cne.gob.ec/wp-content/uploads/2026/01/CODIGO-DE-LA-DEMOCRACIA.pdf",
+      "estado": "Artículos pertinentes consultados; última reforma incorporada: 24-VII-2025",
+      "detalle": "Arts. 97 (pp. 39–40), 202–202.2 (pp. 73–75), 203–208 (pp. 75–78), 211–212 (pp. 79–80). La carpeta enero 2026 no significa reforma legal en enero 2026. No se certifica un inventario exhaustivo de modificaciones posteriores o sentencias."
+    },
+    {
+      "id": "DR",
+      "titulo": "Reforma electoral · RO 88, segundo suplemento, 24-VII-2025",
+      "url": "https://www.asambleanacional.gob.ec/es/system/files/ro_15.pdf",
+      "estado": "Fuente primaria localizada y disposiciones pertinentes contrastadas",
+      "detalle": "Reforma art. 1, numerales 19 (art. 202.2), 20 (art. 207) y 21 (art. 211.1). No se identifica en esta ley una sustitución del art. 97. Verificar siempre las resoluciones particulares del proceso."
+    },
+    {
+      "id": "DA",
+      "titulo": "Asamblea Nacional · catálogo de leyes electorales aprobadas",
+      "url": "https://www.asambleanacional.gob.ec/es/leyes-aprobadas?fecha=&leyes-aprobadas=All&title=electoral",
+      "estado": "Catálogo primario consultado",
+      "detalle": "Identifica reforma de 24-VII-2025 y antecedentes de 2020, 2012 y 2011. No equivale a certificación de vigencia judicial ni prueba por sí solo que no existan otras normas."
+    },
+    {
+      "id": "DG",
+      "titulo": "Instituto de la Democracia · guía de planes de trabajo, elecciones 2025",
+      "url": "https://institutodemocracia.gob.ec/wp-content/uploads/2024/08/Guia-Metodologica-para-Planes-de-Trabajo-de-Candidatas-y-Candidatos-a-Elecciones-2025.pdf",
+      "estado": "Guía metodológica oficial consultada; no reglamento particular de Montúfar",
+      "detalle": "Orienta la elaboración y revisión de planes según atribuciones de la dignidad y desarrolla los cuatro contenidos del art. 97. No sustituye la ley ni se considera convocatoria o formato obligatorio para este proceso local."
+    },
+    {
+      "id": "DE",
+      "titulo": "CNE · información institucional de debates electorales 2027",
+      "url": "https://www.cne.gob.ec/cne-habilita-encuesta-ciudadana-para-la-definicion-de-los-4-ejes-tematicos-de-los-debates-electorales-2027/",
+      "estado": "Publicación oficial consultada, 1-X-2026",
+      "detalle": "Distingue debates obligatorios en jurisdicciones con más de 100.000 electores. La noticia no acredita que el encuentro de Montúfar del 24-XI sea un debate obligatorio del CNE ni confirma su convocatoria. No se usa su calendario como versión definitiva."
+    },
+    {
+      "id": "RF",
+      "titulo": "Registro Oficial · publicación del Decreto Ejecutivo 392",
+      "url": "https://www.registroficial.gob.ec/cuarto-suplemento-no-291/",
+      "estado": "Publicación y texto reglamentario consultados",
+      "detalle": "Decreto 392, 22-V-2026; RO 291-4S, 26-V-2026. Se archivó texto oficial enlazado por el ministerio; ver N392. Vigencia judicial posterior no certificada."
+    },
+    {
+      "id": "RL",
+      "titulo": "Plan de Raúl Lucero 2023–2027 · copia publicada por el GAD",
+      "url": "https://gadmontufar.gob.ec/documents/PT-RAUL LUCERO.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Plan de 2022 para el período 2023–2027. PDF de 59 páginas: credencial inicial y plan con numeración propia. Matriz pp. PDF 37–54, rendición p. PDF 56. Copia municipal idéntica por SHA-256 al archivo local correspondiente al enlace facilitado. Leído mediante OCR y revisión de páginas; OCR sujeto a cotejo."
+    },
+    {
+      "id": "R23",
+      "titulo": "Rendición municipal 2023",
+      "url": "https://gadmontufar.gob.ec/documents/REVISTA RDC 2023.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Memoria institucional. Es año de transición: no atribuir automáticamente todo el ejercicio a la administración iniciada en 2023. Descargada; lectura contextual."
+    },
+    {
+      "id": "R24",
+      "titulo": "Rendición municipal 2024",
+      "url": "https://gadmontufar.gob.ec/documents/REVISTA RC 2024.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Memoria de gestión; cada página PDF contiene dos páginas impresas. Autorreporte, no auditoría. Se revisaron obras, agua, ambiente, cultura y participación."
+    },
+    {
+      "id": "R25",
+      "titulo": "Rendición municipal 2025 · revista",
+      "url": "https://gadmontufar.gob.ec/documents/Rendicion  2025.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Revista de gestión, 21 páginas PDF. Se citan páginas PDF, no las dos páginas impresas de cada pliego. Autorreporte con fotos y montos; no actas de recepción ni evaluación independiente."
+    },
+    {
+      "id": "CP25",
+      "titulo": "Formulario de rendición al CPCCS No. 20793 · 2025",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/rendicion_cuentas2025.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Informe institucional: oferta electoral pp. PDF 30–35; presupuesto p. 37; recomendaciones p. 49. Provee declaraciones explícitas de avance y de no ejecución; no certifica por sí mismo cumplimiento físico."
+    },
+    {
+      "id": "SG25",
+      "titulo": "SIGAD · programación y avance de metas 2025",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/TERRITORIAL/2025/Primer Trimestre/INFORME PDOT 2023-2027.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Reporte anual de 15 páginas, generado 28-V-2026; 31 metas y 32 proyectos, índice 1,00. Las copias enlazadas como primer, segundo y tercer trimestre son idénticas por SHA-256: una sola evidencia anual."
+    },
+    {
+      "id": "QG26",
+      "titulo": "Cédula de gastos · enero–marzo 2026",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/FINANCIERO/2026/Primer Trimestre/GASTOS 2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Corte explícito al 31-III-2026, 28 páginas. No representa el codificado ni la ejecución de noviembre. Total codificado USD 17.122.789,06; devengado USD 2.220.379,10."
+    },
+    {
+      "id": "LI25",
+      "titulo": "Liquidación presupuestaria 2025 · copia oficial",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/FINANCIERO/2025/Cuarto Trimestre/LIQUIDACION PRESUPUESTARIA 2025.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Cierre anual, fuente municipal directa. Corrobora tablas de la copia consultada anteriormente. Referencias a tablas de gastos, ingresos e indicadores."
+    },
+    {
+      "id": "LT6",
+      "titulo": "LOTAIP · presupuesto, archivo octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_6 oct2026.csv",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "CSV publicado en el bloque Noviembre del portal, correspondiente a octubre. Dos tablas, ingresos y gastos. Se verificaron sumas de detalle; la fila total de asignación inicial de gastos difiere del detalle. No se toma su porcentaje de ejecución como cifra conciliada."
+    },
+    {
+      "id": "LT7",
+      "titulo": "LOTAIP · auditorías, octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_7 oct2026.csv",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Identifica DPC-0001-2026 y período 1-VI-2020 a 30-VI-2025. No adjunta enlace directo al informe; el vínculo de seguimiento conduce al buscador general de Contraloría."
+    },
+    {
+      "id": "LT8",
+      "titulo": "LOTAIP · contratación pública, octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_8 oct2026.csv",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Cuatro registros no vacíos, todos como adjudicados. Incluye alcantarillado Cuesaquita, casa barrial San Andrés, cerramiento Cucher y repuestos. Adjudicación no demuestra recepción, calidad ni servicio en operación."
+    },
+    {
+      "id": "LT10",
+      "titulo": "LOTAIP · planes y programas, octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_10 oct2026.csv",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Sirvió para localizar POA y avances por dirección. Contiene enlace genérico de entidad.gob.ec como estado de un plan; ese enlace no se considera evidencia de avance municipal."
+    },
+    {
+      "id": "LT11",
+      "titulo": "LOTAIP · contratos de crédito, octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_11 oct2026.csv",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Registra crédito 41364, suscrito 22-XII-2020, y 41680, suscrito 23-XII-2022. Origen del financiamiento anterior a 2023; distinguir contratación, desembolso, ejecución y pago durante cada administración."
+    },
+    {
+      "id": "LT12",
+      "titulo": "LOTAIP · mecanismos de rendición, octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_12 oct2026.csv",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Identifica formulario 20793 del período 2025 y enlaza informe anual de transparencia. La publicación es verificable; no se certifica aquí el expediente completo de deliberación y aprobación."
+    },
+    {
+      "id": "AP26",
+      "titulo": "POA · avance de Planificación, octubre 2026",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/poa_avance_planificacion_oct2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Matriz de avance físico y pagos. P-011 Casa Violeta muestra 0%; P-052 bloque de bóvedas y P-053 locales del Mercado Amazonas, 100% reportado. Otras filas superan 100%; no se promedian para calificar la gestión."
+    },
+    {
+      "id": "AA26",
+      "titulo": "POA · avance de Agua y Alcantarillado, octubre 2026",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/poa_avance_agua_oct2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "APYA-018 macromedidores, 0% reportado; sistema de agua de Tanguis, 100% reportado; varias obras y estudios con cero o avance parcial. No mezclar porcentaje de actividad 2026 con avance acumulado del contrato histórico."
+    },
+    {
+      "id": "AO26",
+      "titulo": "POA · avance de Obras Públicas, octubre 2026",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/poa_avance_oopp_oct2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "OP-002, tres paradas de buses, 0% reportado; adoquinado de El Sixal, 100% reportado. Pago y avance físico son columnas diferentes; se revisaron filas, no se certifica el conjunto del informe."
+    },
+    {
+      "id": "AS26",
+      "titulo": "POA · avance de Desarrollo Social, octubre 2026",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/poa_avance_desasocial_oct2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "DS-003 ECOGOBTUR, 63% reportado, y DS-053 fortalecimiento turístico, 80%. Los porcentajes corresponden a actividades del POA, no al plan electoral completo."
+    },
+    {
+      "id": "AM26",
+      "titulo": "POA · avance de Protección Ambiental, octubre 2026",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/poa_avance_ambiente_oct2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Matriz de acciones ambientales y riesgos. Se revisaron entradas de servicios, tasas y gestión; una tasa pagada no demuestra calidad de agua, reducción de contaminación o prevención efectiva."
+    },
+    {
+      "id": "AC26",
+      "titulo": "POA · avance Administrativo, octubre 2026",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/poa_avance_admin_oct2026.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Informe descargado. No se ha identificado en los materiales examinados certificado ISO, alcance y vigencia suficientes para acreditar esa promesa."
+    },
+    {
+      "id": "CR1",
+      "titulo": "Contrato de crédito 41364 · alcantarillado",
+      "url": "https://www.gadmontufar.gob.ec/documents/link/fase1alcantarilladoSanGabriel.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Contrato archivado y contrastado con registro LOTAIP. No equivale a recepción de la obra ni certifica su avance actual."
+    },
+    {
+      "id": "CR2",
+      "titulo": "Contrato de crédito 41680 · adoquinados",
+      "url": "https://www.gadmontufar.gob.ec/documents/link/banco_desrrollo_adoquinados.pdf",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Contrato archivado y contrastado con registro LOTAIP. No se cuenta dos veces un mismo crédito como logro de gestiones diferentes."
+    },
+    {
+      "id": "PM",
+      "titulo": "Portal municipal · rendición de cuentas",
+      "url": "https://www.gadmontufar.gob.ec/rendicion-cuentas.php",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Se consultaron bloques 2023, 2024 y 2025 mediante los parámetros de lectura del portal; solicitudes y respuestas guardadas en el expediente."
+    },
+    {
+      "id": "PL",
+      "titulo": "Portal municipal · transparencia LOTAIP",
+      "url": "https://gadmontufar.gob.ec/lotaip.php",
+      "estado": "Consultado y archivado; ver alcance",
+      "detalle": "Bloque Noviembre 2026 consultado; archivos corresponden a octubre. La etiqueta de un bloque no demuestra que los contenidos hayan sido generados en ese mismo mes."
+    },
+    {
+      "id": "SC01",
+      "titulo": "SERCOP OCDS · MCO-GAD-MM-2025-003",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/ocds/ocds-5wno2w-MCO-GAD-MM-2025-003-21655",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Paquete JSON publicado dentro de window.ocds en la ficha oficial. Se verifican comprador, objeto, adjudicación, valor y fecha de contrato. No contiene actas ni sección implementation que acrediten recepción u operación."
+    },
+    {
+      "id": "SC02",
+      "titulo": "SERCOP OCDS · MCO-GAD-MM-2025-013",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/ocds/ocds-5wno2w-MCO-GAD-MM-2025-013-21655",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Paquete JSON publicado dentro de window.ocds en la ficha oficial. Se verifican comprador, objeto, adjudicación, valor y fecha de contrato. No contiene actas ni sección implementation que acrediten recepción u operación."
+    },
+    {
+      "id": "SC03",
+      "titulo": "SERCOP OCDS · CDC-GAD-MM-2025-002",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/ocds/ocds-5wno2w-CDC-GAD-MM-2025-002-21655",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Paquete JSON publicado dentro de window.ocds en la ficha oficial. Se verifican comprador, objeto, adjudicación, valor y fecha de contrato. No contiene actas ni sección implementation que acrediten recepción u operación."
+    },
+    {
+      "id": "SC04",
+      "titulo": "SERCOP OCDS · CDC-GAD-MM-2025-008",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/ocds/ocds-5wno2w-CDC-GAD-MM-2025-008-21655",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Paquete JSON publicado dentro de window.ocds en la ficha oficial. Se verifican comprador, objeto, adjudicación, valor y fecha de contrato. No contiene actas ni sección implementation que acrediten recepción u operación."
+    },
+    {
+      "id": "SC05",
+      "titulo": "SERCOP OCDS · LICO-GAD-MM-2025-012",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/ocds/ocds-5wno2w-LICO-GAD-MM-2025-012-21655",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Paquete JSON publicado dentro de window.ocds en la ficha oficial. Se verifican comprador, objeto, adjudicación, valor y fecha de contrato. No contiene actas ni sección implementation que acrediten recepción u operación."
+    },
+    {
+      "id": "SC06",
+      "titulo": "SERCOP OCDS · SIE-GAD-MM-2025-010",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/ocds/ocds-5wno2w-SIE-GAD-MM-2025-010-21655",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Paquete JSON publicado dentro de window.ocds en la ficha oficial. Se verifican comprador, objeto, adjudicación, valor y fecha de contrato. No contiene actas ni sección implementation que acrediten recepción u operación."
+    },
+    {
+      "id": "SN01",
+      "titulo": "SERCOP · necesidad NIC-0460000640001-2026-00102",
+      "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/NCO/NCORegistroDetalle.cpe?&id=0BLeS4ksBuRJ20u0SyRVMO46vaq3fi-OYT4YNIWAk4k,&op=1",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Ficha de necesidad Cucher, publicada 6-X-2026, estado Finalizada. Se descargan especificaciones, APU e informe de necesidad. La finalización de recepción de proformas no es entrega de la obra."
+    },
+    {
+      "id": "SN02",
+      "titulo": "SERCOP · necesidad NIC-0460000640001-2026-00109",
+      "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/NCO/NCORegistroDetalle.cpe?&id=CHXuP-DZJ67tPKQGkMPMJXW9-c2qoByfYsSo2jiRJuw,&op=1",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Repuestos, publicación 20-X-2026, estado Finalizada. Se descargan anexos. El enlace a proyecto de orden de compra conduce a una plantilla sin completar, no a una orden suscrita ni recepción."
+    },
+    {
+      "id": "SA01",
+      "titulo": "SERCOP · especificaciones de adecuación de cancha Cucher",
+      "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/GE/ExeGENBajarArchivoGeneral.cpe?Archivo=6pjyR2ZB1Z1Hg3cR31cove70DTerkQghNi2Np_BKgRY,&idPath=qt0O609kH4dndEdYHp2j9gVQoCHiVq9ZV3jE34-Q8xs,",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Anexo técnico preparatorio, no acta de recepción. Se conserva archivo original y extracción de texto."
+    },
+    {
+      "id": "SA02",
+      "titulo": "SERCOP · APU cancha Cucher",
+      "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/GE/ExeGENBajarArchivoGeneral.cpe?Archivo=uxlMxC6z0OVNjhCuR4s2Nupp6Vwz9r7fyiR1f0TUvyE,&idPath=XAe1JVvXF26HsU_-Sdq38CFZMkfIqybhsxL9ymaXGxc,",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Análisis de precios unitarios preparatorios. Cantidades previstas no son medición de obra ejecutada."
+    },
+    {
+      "id": "SA03",
+      "titulo": "SERCOP · informe de necesidad cancha Cucher",
+      "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/GE/ExeGENBajarArchivoGeneral.cpe?Archivo=24fR6cq3nQWJ6DOim6SS7Fw5SEkMt7ZNQZfjfUqaU8k,&idPath=jXGEnxV86O4hEdexiSZiiTEO_oHoQCmroHaF4DUhDYM,",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Documento de necesidad de contratación. No acredita obra terminada."
+    },
+    {
+      "id": "SA04",
+      "titulo": "SERCOP · anexo rotulado proyecto de orden de compra",
+      "url": "https://www.compraspublicas.gob.ec/ProcesoContratacion/compras/GE/ExeGENBajarArchivoGeneral.cpe?Archivo=nC4u5rzTkiVlTyB_2yEalnWlGmlzkGU2YVY6FswX2f0,&idPath=xdELLjVTvhGcknlDNsyalQlwd5V5OnbN2pnoz4ibiP8,",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Plantilla con proveedor y valores por completar. Presenta un objeto genérico distinto al título de la necesidad. No se usa para confirmar contratación, pago o entrega; pedir orden final correcta."
+    },
+    {
+      "id": "EC01",
+      "titulo": "Ayuntamiento de La Palma del Condado · pliego técnico ECOGOBTUR 2026",
+      "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=d/flH33f7Cd6fA%2BW/O2c31%2B20vLf6%2B0mbqjot7f%2BwJMMooiNYvD4Mirbc%2BBBAFvDPX3s%2BzAfQjXuAaRBmvcsiiHzzIUMvAx8d4BmkssBeQ61aXEvq3KHa/AEHgtDrQw0",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Expediente 180/2026, firmado 11-II-2026. PDF p. 3: inicio 15-I-2021, finalización 15-VII-2026, socios y cofinanciación europea 95%. El pliego de evaluación no es el informe de resultados; verificar prórroga posterior antes de llamar vigente al proyecto."
+    },
+    {
+      "id": "EC02",
+      "titulo": "PLACSP España · contrato de evaluación final ECOGOBTUR",
+      "url": "https://contrataciondelestado.es/FileSystem/servlet/GetDocumentByIdServlet?cifrado=QUC1GjXXSiLkydRHJBmbpw%3D%3D&DocumentIdParam=N1tHXN9fMsDHZ/GwGhkmTB981R7yWVoxjIxGdVdrcWOaF4QS04%2BZO34eZfhVsD4jUgCbgZBWEjej7oDYYKQWVUCnETl9ZzyX2Snpuf3FJZT3GVhXrFFqN7yFncy7YfRK",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Formalización 2026-0005 de 18-III-2026, 6 páginas. ICG Internacional de Cooperación y Gestión S.L.; EUR 13.800 sin IVA y 16.698 con IVA, p. 5. Es costo de evaluación, no aporte asignado a Montúfar. No se encontró el informe final entre los documentos revisados."
+    },
+    {
+      "id": "EC03",
+      "titulo": "GAD Montúfar · convenio ECOGOBTUR 2021-0027 y anexos",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/convenio_ayuntamiento_palma_condado_2021-0027.pdf",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Archivo de 384 páginas; se revisaron cláusulas principales, especialmente pp. PDF 1, 7 y 17. Fecha de firma visible 19-X-2021. Presupuesto global EUR 2.905.484,94; contraparte pactada Montúfar EUR 19.328,49. No es el dinero recibido por el Municipio; no se ha auditado la ejecución completa de anexos."
+    },
+    {
+      "id": "EC04",
+      "titulo": "FAMSI · foro ECOGOBTUR y agenda abril 2026",
+      "url": "https://andaluciasolidaria.org/tulcan-fue-sede-del-foro-para-el-impulso-del-turismo-sostenible-en-el-marco-del-proyecto-ecogobtur/",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Fuente del socio técnico, 20-IV-2026: identifica participación del GAD Montúfar y actividades vinculadas al Bosque de Arrayanes. Corroboración por otra institución participante, no inspección independiente ni liquidación."
+    },
+    {
+      "id": "EC05",
+      "titulo": "ECOGOBTUR · portal del proyecto",
+      "url": "https://ecogobtur.eu/el-proyecto/",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Sitio del proyecto; describe objetivos y socios. La permanencia del sitio en línea no acredita vigencia jurídica del convenio."
+    },
+    {
+      "id": "EC06",
+      "titulo": "GAD Mira · bases ECOGOBTUR para capital semilla",
+      "url": "https://www.mira.gob.ec/CapitalSemilla/BASESCAPITALSEMILLA.pdf",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Bases oficiales de selección. Prueban diseño de instrumento y socios, no desembolsos efectivos o resultados de emprendimientos de Montúfar."
+    },
+    {
+      "id": "PM01",
+      "titulo": "GAD Montúfar/PMA · acuerdo y enmienda de alimentación",
+      "url": "https://www.gadmontufar.gob.ec/documents/gadm/convenio_programa_mundial_alimentos.pdf",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "PDF escaneado, 18 páginas; lectura mediante OCR y cotejo visual. Incluye acuerdo 24-VI-2024 y enmienda 31-VII-2024. La cláusula 2.2, PDF p. 7, fija vigencia hasta 30-VI-2025; la enmienda no acredita extensión. Diferenciar este comedor de alimentación escolar."
+    },
+    {
+      "id": "AC01",
+      "titulo": "ACNUR · informe operacional abril 2026",
+      "url": "https://data.unhcr.org/ar/documents/download/122676",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Fuente oficial de Naciones Unidas. PDF p. 4: cinco sesiones de HIAS con Club de Adolescentes Montúfar en San Gabriel. Acredita actividad territorial reportada por el cooperante, sin demostrar por sí sola un convenio vigente con el GAD o financiación municipal."
+    },
+    {
+      "id": "AC02",
+      "titulo": "ACNUR · informe operacional marzo 2026",
+      "url": "https://data.unhcr.org/es/documents/download/122229",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "PDF p. 4: formación en prevención de explotación y abuso sexual a equipos de Prefectura, Fundación Luz y Vida y Casa de la Juventud en Montúfar. No atribuir automáticamente todo el programa al Municipio."
+    },
+    {
+      "id": "CH01",
+      "titulo": "GAD Montúfar · cooperación con Charity Anywhere",
+      "url": "https://www.gadmontufar.gob.ec/noticias.php?id=416",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Nota institucional sobre 31 sillas de ruedas y otros bienes; anuncia contraparte municipal USD 55.000 para logística de nuevo contenedor. La publicación no sustituye convenio íntegro, comprobante de transferencia, inventario o actas de entrega."
+    },
+    {
+      "id": "CH02",
+      "titulo": "GAD Montúfar · noticias de cooperación en 2026",
+      "url": "https://www.gadmontufar.gob.ec/index.php/inicio",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Página de noticias municipal consultada: Chután Bajo, equipo odontológico y asistencia humanitaria. Son declaraciones institucionales, no actas. No sumar automáticamente donación, costo logístico e inversión municipal como aporte externo recibido."
+    },
+    {
+      "id": "BI01",
+      "titulo": "FIEDS · convenio de financiación BIAN con COSPE",
+      "url": "https://fieds.org/fieds-y-cospe-suscriben-convenio-de-financiamiento-no-reembolsable/",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Publicación del fondo binacional, 30-III-2022. Montúfar está dentro del territorio del proyecto. Monto global USD 2.033.486,41, aporte FIEDS USD 1.749.086,41; ejecutor COSPE y socios provinciales. No acredita una transferencia de ese valor al GAD ni vigencia en noviembre 2026."
+    },
+    {
+      "id": "CV01",
+      "titulo": "LOTAIP · convenios marzo 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_18 mar2026.csv",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Registro municipal: PMA 31-VII-2024, un año; Ayuntamiento 23-VI-2021, 36 meses. Las fechas requieren cotejo con los convenios; la publicación en 2026 no renueva los plazos. Archivo repetido en otros meses."
+    },
+    {
+      "id": "CV02",
+      "titulo": "LOTAIP · convenios julio 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_18 jul2026.csv",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Mismo contenido de marzo–junio según SHA-256. No contar seis veces el mismo acuerdo ni asumir que se renovó por repetirse en publicaciones mensuales."
+    },
+    {
+      "id": "CV03",
+      "titulo": "LOTAIP · convenios octubre 2026",
+      "url": "https://gadmontufar.gob.ec/documents/conjunto_datos_numeral_18 oct2026.csv",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Fila NO APLICA en este mes. No demuestra inexistencia de acuerdos anteriores o actividades de cooperación. Se descargaron registros de enero a octubre para contraste."
+    },
+    {
+      "id": "SD01",
+      "titulo": "SERCOP · documentación de API OCDS",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/datos-abiertos/api",
+      "estado": "Consultado y archivado · revisión de alcance específico",
+      "detalle": "Explica búsqueda por año y OCID. Se intentaron búsquedas 2023–2026, que devolvieron HTTP 429; el alcance del informe es muestra dirigida, no censo exhaustivo."
+    },
+    {
+      "id": "N15",
+      "titulo": "COOTAD aportado · compilación enero 2015",
+      "url": "https://drive.google.com/file/d/1QSbLJTc8hOsHvNvaj3v2ftE5YxZcRBtz/view",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "La portada indica última modificación 16-I-2015. Se cotejó con la copia local de igual nombre y 885.392 bytes. Es antecedente histórico, no el texto inmediatamente anterior a febrero 2026 ni certificación de vigencia actual."
+    },
+    {
+      "id": "N26",
+      "titulo": "COOTAD aportado · compilación 23-II-2026",
+      "url": "https://drive.google.com/file/d/1VpcyN1QS8X0LyaY__zEQJmdSoX5KOiYs/view",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Copia del usuario archivada. Sirve para lectura de artículos y comparación con 2015; las notas editoriales no sustituyen Registro Oficial. No incorpora por sí sola posteriores reformas de 2026."
+    },
+    {
+      "id": "NF",
+      "titulo": "Reforma fiscal · RO 229, sexto suplemento, 23-II-2026",
+      "url": "https://www.registroficial.gob.ec/sexto-suplemento-no-229/",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Ley del usuario contrastada con copia oficial ya registrada como RO. Añade 198.1–198.6. Se integra su articulado operativo al lector local."
+    },
+    {
+      "id": "N392",
+      "titulo": "Decreto Ejecutivo 392 · reglamento fiscal 2026",
+      "url": "https://www.economicoproductivo.gob.ec/wp-content/uploads/2026/05/Decreto_Ejecutivo_No._392_20260422164638_20260422164642_20260422164643_20260422164646_20260422164648.pdf",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Fuente enlazada por el ministerio rector: 10 páginas escaneadas, OCR y cotejo de disposiciones relevantes. Decreto 22-V-2026, publicación RO 291-4S, 26-V-2026. Arts. 5–7 distinguen seguimiento de verificación definitiva; transitoria primera precisa junio–noviembre 2026."
+    },
+    {
+      "id": "NM",
+      "titulo": "Acuerdo MEF-MEF-2026-0012-A · anexos y cierre 2026",
+      "url": "https://www.economicoproductivo.gob.ec/wp-content/uploads/2026/05/MEF-MEF-2026-0012-A-LINEAMIENTOS.pdf",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Texto íntegro de 9 páginas: anexos A–E; transitoria única confirma evaluación de devengados 1-VI a 30-XI-2026 con umbral 65%. El presupuesto al 31-V no constituye esa evaluación de cumplimiento."
+    },
+    {
+      "id": "NN",
+      "titulo": "Asamblea Nacional · aprobación del proyecto 6-XI-2026",
+      "url": "https://www.asambleanacional.gob.ec/es/node/120655",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Noticia oficial: 83 votos, incluye 40 horas semanales, remisión al Ejecutivo para sanción. Acredita aprobación legislativa; no sustituye texto final sancionado y publicado. No se logró acreditar esa publicación en esta revisión."
+    },
+    {
+      "id": "NND",
+      "titulo": "Asamblea Nacional · remisión al Ejecutivo, 10-XI-2026",
+      "url": "https://www.asambleanacional.gob.ec/es/blogs/carlosgavilanez/120732-asambleista-carlos-gavilanez-intervino-en",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Publicación de asambleísta en dominio oficial que informa la remisión para sanción. Es comunicación institucional, no Registro Oficial ni certificado exhaustivo del trámite posterior."
+    },
+    {
+      "id": "NP",
+      "titulo": "Asamblea Participa · texto de proyecto sobre jornada",
+      "url": "https://participa.asambleanacional.gob.ec/legislation/processes/59/draft_versions/77",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Art. propuesto 58.2: mínimo cuarenta horas y funciones. Es una versión de proyecto; no se presenta como articulado final promulgado del paquete aprobado en noviembre. La consulta pública del expediente completo devolvió HTTP 403; no se accedió a áreas autenticadas."
+    },
+    {
+      "id": "NO97",
+      "titulo": "Montúfar · ordenanza de funcionamiento del Concejo, art. 97",
+      "url": "https://gadmontufar.gob.ec/documents/link/SEGUNDA_REFORMA_FUNCIONAMIENTO_CONCEJO_MUNICIPAL.pdf",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "PDF municipal de 34 páginas; artículo 97, p. PDF 30: jornada del alcalde y jornada especial de concejales. Publicación identificada en RO EE 1672, 14-IX-2021. No se certifica ausencia de reformas locales posteriores."
+    },
+    {
+      "id": "NRO97",
+      "titulo": "Registro Oficial · publicación de ordenanza del Concejo de Montúfar",
+      "url": "https://www.registroficial.gob.ec/edicion-especial-no-1672-3/",
+      "estado": "Fuente consultada · fecha y alcance indicados",
+      "detalle": "Edición Especial 1672, 14-IX-2021, identifica segunda reforma a ordenanza de organización y funcionamiento del Concejo. La reproducción de su sumario contiene la sigla GADMP; se coteja con PDF municipal para el articulado."
+    },
+    {
+      "id": "PF",
+      "titulo": "Plan de Fabián Robles · Alianza Renovación Montufareña · 2027–2031",
+      "url": "https://drive.google.com/file/d/1npx3LodHimevubFDDgJSyyO74yrEgrLg/view",
+      "estado": "Leído: 30 páginas escaneadas, OCR de apoyo y matriz revisada visualmente",
+      "detalle": "Copia facilitada por el usuario; no se certifica versión registrada en CNE. Referencias a páginas PDF. SHA-256 ce45897b3b2c0558b25661a0a7207cca746d98ee52cdf2a63cbd033f42e27600. Nueve programas, quince unidades analíticas; no ranking. Consulta 23-XI-2026."
+    },
+    {
+      "id": "CGE",
+      "titulo": "Contraloría · funciones constitucionales de control, arts. 211–212",
+      "url": "https://www.contraloria.gob.ec/WFDescarga.aspx?id=2771&tipo=doc",
+      "estado": "Fuente oficial consultada el 23-XI-2026",
+      "detalle": "Explica el papel de Contraloría y la dirección del sistema de control administrativo; sustenta la distinción entre revisión de gestión y auditoría. No acredita auditoría realizada por un candidato."
+    },
+    {
+      "id": "RC26",
+      "titulo": "CPCCS · proceso nacional de rendición de cuentas del período 2025",
+      "url": "https://www.cpccs.gob.ec/2026/02/rendicion-de-cuentas-periodo-2025/",
+      "estado": "Fuente oficial consultada el 23-XI-2026",
+      "detalle": "Proceso anual y fases para GAD ejecutadas en 2026. Los eventos semestrales propuestos no reemplazan las obligaciones legales; no se extrapolan fechas de 2026 al futuro gobierno."
+    },
+    {
+      "id": "PJ",
+      "titulo": "Plan de Javier Proaño · Movimiento Solidaridad y Trabajo, lista 105",
+      "url": "https://drive.google.com/file/d/1OWIwrFdY-hn4J3I51fq6vQSudz-ZqknU/view",
+      "estado": "Leído: texto, matrices y certificación interna revisados; versión CNE no verificada",
+      "detalle": "120 páginas. Ficha fechada 11-VIII-2026; certificación interna para elecciones 2027 en p. 120, frente a presentación 2023–2027 en p. 3. SHA-256 250987abe1514bbcc23a9751e8f93118d1bb1ceb1ca7a54af89a54f47ece8501. Copia coincidente con archivo local. Páginas PDF. Consulta 23-XI-2026."
+    },
+    {
+      "id": "TEL",
+      "titulo": "ARCOTEL · competencias oficiales en telecomunicaciones",
+      "url": "https://www.arcotel.gob.ec/competencias/",
+      "estado": "Fuente oficial consultada el 23-XI-2026",
+      "detalle": "Regulación, habilitación y control de redes y servicios; permite distinguir coordinación territorial municipal de las atribuciones del regulador. No acredita cobertura existente en Montúfar."
+    },
+    {
+      "id": "PC",
+      "titulo": "Plan de Rubén Castillo · Movimiento Social Conservador del Carchi · 2027–2031",
+      "url": "https://drive.google.com/file/d/1fGaWbPoUDkj8rrx3LsGq_Atd3dth9A78/view",
+      "estado": "Leído: 57 páginas escaneadas, OCR de apoyo y secciones operativas cotejadas visualmente",
+      "detalle": "Copia aportada por el usuario, coincidente con original descargado. SHA-256 c00cb48ad89aa635dedbd88f77c8173a8d31141cca499d9ea57f7b248769bcbf. Páginas PDF. Celdas pequeñas de baja legibilidad no se fuerzan. No se certifica registro ante CNE. Consulta 23-XI-2026."
+    },
+    {
+      "id": "NX26",
+      "titulo": "COOTAD · compilación de octubre alojada por TCE",
+      "url": "https://www.tce.gob.ec/wp-content/uploads/2026/10/Codigo-Organico-de-Organizacion-Territorial-COOTAD.pdf",
+      "estado": "Fuente oficial consultada el 23-XI-2026; ver alcance",
+      "detalle": "Referencia posterior a febrero; arts. 54 y 55 contrastados. No sustituye Registro Oficial ni certifica exhaustividad. La ley de origen de art. 54 w se identifica en notas de la compilación, pendiente de cotejo íntegro."
+    },
+    {
+      "id": "RT26",
+      "titulo": "Reforma de tránsito · RO 380, séptimo suplemento, 30-IX-2026",
+      "url": "https://www.asambleanacional.gob.ec/kichwa/system/files/ro_37.pdf",
+      "estado": "Fuente oficial consultada el 23-XI-2026; ver alcance",
+      "detalle": "Reformatorias primera y tercera, pp. PDF 103–105, revisadas visualmente: COOTAD 55 f y 130. Publicación cotejada; no certifica modelo operativo asumido por Montúfar."
+    },
+    {
+      "id": "EA26",
+      "titulo": "Educación ambiental · RO 375, tercer suplemento, 23-IX-2026",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZDBkYzAyYTEtODYzNS00MzYzLTk5MDItYzllNjFlYjMyMTZkLnBkZiJ9",
+      "estado": "Fuente oficial consultada el 23-XI-2026; ver alcance",
+      "detalle": "Art. 4 numeral dos, p. 21: sustituye COOTAD 54 x y agrega y. Complemento específico a las fuentes de febrero."
+    },
+    {
+      "id": "ARID26",
+      "titulo": "CNC · competencia de áridos y pétreos",
+      "url": "https://www.competencias.gob.ec/monitoreo-y-evaluacion-a-gobiernos-autonomos-descentralizados/estado-de-las-competencias/regular-autorizar-y-controlar-la-explotacion-de-materiales-aridos-y-petreos/",
+      "estado": "Fuente oficial consultada el 23-XI-2026; ver alcance",
+      "detalle": "Marco de regulación, autorización y control; resolución 0004-CNC-2014. No acredita permiso de explotación de un proyecto concreto."
+    },
+    {
+      "id": "PNL",
+      "titulo": "Raúl Lucero · nuevo plan electoral 2027–2031 · Centro Democrático, lista 1",
+      "url": "https://drive.google.com/file/d/138wlvnbadjTmXiYLVkLxDuDZjeemMS2H/view",
+      "estado": "Leído: 25 páginas; programación, indicadores y certificación interna cotejados visualmente",
+      "detalle": "Agosto 2026. Distinto del plan 2023–2027, fuente RL de la veeduría. No se certifica versión inscrita en CNE. Texto pp. 1–24, p. 25 escaneada. SHA-256 694688f0b8ef8eba3d8a3626e8b93f603d3b3eab19ec4a6f02e7228c0428928f. Coincide con copia local. Páginas PDF. Consulta 23-XI-2026."
+    },
+    {
+      "id": "PG",
+      "titulo": "Plan de Gabriel Jácome · ADN · 2027–2031",
+      "url": "https://drive.google.com/file/d/1rPAY_3W9ePDynrvZPmgqwJiGUlQmjPH9/view",
+      "estado": "Escaneo tenue de 10 páginas: cuerpo operativo cotejado visualmente; OCR bruto no fiable por sí solo",
+      "detalle": "Luis Gabriel Jácome Herrera según certificación interna p. 10. Copia Drive idéntica a local. SHA-256 8bb6dcdeee19b82a27a186d7146ae766d1a5c45012afbd315c0b54fcb051f923. Lectura revisada de propuestas separada de OCR y diagnóstico; no certifica CNE. Páginas PDF. Consulta 23-XI-2026."
+    },
+    {
+      "id": "CEP",
+      "titulo": "Constitución · art. 228 · copia alojada por Ministerio del Trabajo",
+      "url": "https://www.trabajo.gob.ec/wp-content/uploads/downloads/2024/01/CONSTITUCION_DE_LA_REPUBLICA_DEL_ECUADOR.pdf",
+      "estado": "Art. 228 contrastado en fuente oficial; consulta 23-XI-2026",
+      "detalle": "Regla de ingreso, ascenso y promoción en carrera mediante mérito/oposición y excepciones de elección popular o libre nombramiento/remoción. No se certifican aquí todas las normas secundarias de selección."
+    },
+    {
+      "id": "INPCG",
+      "titulo": "INPC · Plan de Gestión del Centro Histórico de San Gabriel, 2012",
+      "url": "https://www.patrimoniocultural.gob.ec/wp-content/uploads/2023/03/20_Plan_de_Gestion_Centro_Historico_San_Gabriel_2012.pdf",
+      "estado": "Fuente institucional de contraste histórico, no plan municipal vigente",
+      "detalle": "Identifica declaratoria como Patrimonio Cultural del Estado el 11-XI-1992. No se adopta su planificación de 2012 como vigente."
+    },
+    {
+      "id": "UNEG",
+      "titulo": "UNESCO · Ecuador, bienes inscritos en Patrimonio Mundial",
+      "url": "https://whc.unesco.org/en/statesparties/ec/",
+      "estado": "Lista oficial consultada el 23-XI-2026",
+      "detalle": "Permite distinguir inscripción internacional y declaratoria patrimonial nacional; no lista el centro histórico de San Gabriel como bien inscrito."
+    },
+    {
+      "id": "INEG",
+      "titulo": "INEC · resultados y documentación del Censo de Población y Vivienda",
+      "url": "https://www.ecuadorencifras.gob.ec/censo-de-poblacion-y-vivienda/",
+      "estado": "Fuente oficial consultada el 23-XI-2026",
+      "detalle": "Publica documentación y resultados del censo 2022, posteriores a 2010. No se calcula aquí nueva población cantonal a partir de cifras del plan."
+    }
+  ]
+}

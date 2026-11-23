@@ -1,0 +1,43 @@
+{
+  "fuente": "fuentes/lotaip_6_oct2026.csv",
+  "sha256": "c6e6cbd0bc3c3d63afa455e7e68ffb5dd19c2a62ada5d3335f14a32947c47175",
+  "metodo": "CSV cp1252; separador punto y coma; coma decimal; filas de detalle sin encabezados ni totales. Importes Decimal exactos. Índices base 0 después de quitar filas vacías.",
+  "ingresos_filas": "1 a 54",
+  "gastos_filas": "57 a 214",
+  "suma_detalle_ingresos": {
+    "Asignado": "17122789.06",
+    "Modificado": "50000",
+    "Codificado": "17172789.06",
+    "Monto certificado": "0.00",
+    "Comprometido": "0.00",
+    "Devengado": "9194537.08",
+    "Recaudado": "8807360.80"
+  },
+  "suma_detalle_gastos": {
+    "Asignado": "17122789.06",
+    "Modificado": "207323.11",
+    "Codificado": "17330112.17",
+    "Monto certificado": "8900755.25",
+    "Comprometido": "8900755.25",
+    "Devengado": "8841667.62",
+    "Pagado": "8746781.56"
+  },
+  "total_gastos_publicado": {
+    "Asignado": "15581092,32",
+    "Modificado": "207323,11",
+    "Codificado": "17330112,17",
+    "Monto certificado": "8900755,25",
+    "Comprometido": "8900755,25",
+    "Devengado": "8841667,62",
+    "Pagado": "8746781,56",
+    "Saldo por Comprometer": "8312538,91",
+    "Saldo por devengar": "8381993,05",
+    "Saldo por pagar": "153973,69",
+    "Porcentaje de ejecución": "56,14%"
+  },
+  "diferencia_asignado_detalle_menos_total": "1541696.74",
+  "diferencia_codificado_gastos_menos_ingresos": "157323.11",
+  "devengado_sobre_codificado_porcentaje": "51.02",
+  "pagado_sobre_codificado_porcentaje": "50.47",
+  "advertencia": "Cocientes reproducidos, no auditoría de exactitud o legalidad. El porcentaje publicado no se reemplaza en el archivo fuente."
+}

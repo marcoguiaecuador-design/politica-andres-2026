@@ -30,4 +30,4 @@ Los archivos de trabajo no se suben automáticamente. Cada conjunto debe revisar
 - perfiles o segmentación individual.
 
 ## Publicación
-El repositorio debe permanecer privado. Cualquier publicación externa requiere una revisión separada del contenido y de los permisos.
+La publicación externa requiere revisión separada del contenido y de los permisos. El propietario autorizó la publicación del observatorio el 23-XI-2026; el repositorio es actualmente público. El alcance de esa edición y su revisión están documentados en [PUBLICACION.md](PUBLICACION.md). Las restricciones para el resto de archivos de trabajo permanecen.

@@ -1,7 +1,7 @@
 # Contexto maestro — Proyecto Andrés 2026
 
 ## Naturaleza del proyecto
-Repositorio estrictamente privado para organizar documentación técnica, metodologías, formularios, automatizaciones y análisis anonimizados relacionados con el proyecto político y territorial de Andrés Ponce en Montúfar.
+Proyecto para organizar documentación técnica, metodologías, formularios, automatizaciones y análisis anonimizados relacionados con el proyecto político y territorial de Andrés Ponce en Montúfar.
 
 ## Líneas de trabajo
 - investigación territorial y electoral;
@@ -30,3 +30,7 @@ Antes de incorporar cualquier archivo local se debe revisar su contenido, elimin
 
 ## Estado inicial
 La carpeta local conserva los originales. GitHub comienza únicamente con documentación segura y reglas preventivas.
+
+## Publicación autorizada · 23-XI-2026
+
+El propietario solicitó publicar el observatorio en este repositorio, actualmente público. La edición web se limita al análisis de documentos públicos y los derivados revisados descritos en [PUBLICACION.md](docs/PUBLICACION.md). El expediente original y los respaldos permanecen locales. Se conservan las restricciones sobre contactos, encuestas, credenciales e información personal interna. Los nombres de candidatos y autoridades que identifican documentos públicos y las cifras agregadas de gasto público forman parte del análisis autorizado.
