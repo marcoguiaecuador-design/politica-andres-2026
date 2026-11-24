@@ -1,0 +1,1236 @@
+[
+  {
+    "ocid": "ocds-5wno2w-CDC-GADMM-001-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ESTUDIOS Y DISEÑOS DEFINITIVOS PARA EL ADOQUINADO DE VÍAS URBANAS Y CABECERAS PARROQUIALES DEL CANTÓN MONTÚFAR",
+    "categoria": "services",
+    "contratos": [
+      {
+        "id": "2118785-CDC-GADMM-001-2022",
+        "firma": "2022-04-27T00:00:00-05:00",
+        "valor": {
+          "amount": 40000,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2022-07-05T00:00:00-05:00",
+          "startDate": "2022-05-06T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3467346-DS-SO",
+        "descripcion": "SERVICIOS DE DELINEACION (PLANOS DETALLADOS, DIBUJOS, PLANOS E ILUSTRACIONES DE EDIFICIOS, ESTRUCTURAS, SISTEMAS O COMPONENTES DE ESPECIFICACIONES DE INGENIERIA Y ARQUITECTURA, HECHOS POR DELINEANTES DE ARQUITECTURA O TECNICOS DE INGENIERIA)",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CDC-GADMM-001-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-CDC-GADMM-001-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-CDC-GADMM-003-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "“ESTUDIOS, DE ADOQUINADO Y ALCANTARILLADO DE LOS EJES VIALES DE LA CABECERA CANTONAL DE MONTUFAR”.",
+    "categoria": "services",
+    "contratos": [
+      {
+        "id": "2110038-CDC-GADMM-003-2021",
+        "firma": "2022-01-10T00:00:00-05:00",
+        "valor": {
+          "amount": 39899.28,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2022-03-19T00:00:00-05:00",
+          "startDate": "2022-01-18T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3396978-DS-SO",
+        "descripcion": "SERVICIOS DE DELINEACION (PLANOS DETALLADOS, DIBUJOS, PLANOS E ILUSTRACIONES DE EDIFICIOS, ESTRUCTURAS, SISTEMAS O COMPONENTES DE ESPECIFICACIONES DE INGENIERIA Y ARQUITECTURA, HECHOS POR DELINEANTES DE ARQUITECTURA O TECNICOS DE INGENIERIA)",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CDC-GADMM-003-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-CDC-GADMM-003-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-CE-20190001660369-21655",
+    "anio_busqueda": 2019,
+    "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+    "categoria": "sin categoría publicada",
+    "contratos": [
+      {
+        "id": "CE-20190001660369-contract",
+        "firma": null,
+        "valor": null,
+        "estado_original": "terminated",
+        "periodo_programado": null,
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "8001-PE-C",
+        "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+        "cantidad": 101000,
+        "unidad": null
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20190001660369-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-CE-20190001660369-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-CE-20200001880493-21655",
+    "anio_busqueda": 2020,
+    "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+    "categoria": "sin categoría publicada",
+    "contratos": [
+      {
+        "id": "CE-20200001880493-contract",
+        "firma": null,
+        "valor": null,
+        "estado_original": "terminated",
+        "periodo_programado": null,
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "8001-PE-C",
+        "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+        "cantidad": 10000,
+        "unidad": null
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20200001880493-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-CE-20200001880493-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-CE-20200001946203-21655",
+    "anio_busqueda": 2020,
+    "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+    "categoria": "sin categoría publicada",
+    "contratos": [
+      {
+        "id": "CE-20200001946203-contract",
+        "firma": null,
+        "valor": null,
+        "estado_original": "terminated",
+        "periodo_programado": null,
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "8001-PE-C",
+        "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+        "cantidad": 45454,
+        "unidad": null
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20200001946203-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-CE-20200001946203-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-CE-20220002232814-21655",
+    "anio_busqueda": 2022,
+    "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+    "categoria": "sin categoría publicada",
+    "contratos": [
+      {
+        "id": "CE-20220002232814-contract",
+        "firma": null,
+        "valor": null,
+        "estado_original": "active",
+        "periodo_programado": null,
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "8001-PE-C",
+        "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+        "cantidad": 57000,
+        "unidad": null
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20220002232814-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-CE-20220002232814-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-COTO-GADMM-002-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO Y CAMBIO DE REDES DE ALCANTARILLADO Y AGUA POTABLE EN LAS CALLES RIO DAULE, RIO CHIMBO, RIO CHAMBO, TOMEBAMBA, RIO SAN GABRIEL, RIO GUAYAS Y YANUNCAY",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152624-COTO-GADMM-002-2022",
+        "firma": "2022-12-06T00:00:00-05:00",
+        "valor": {
+          "amount": 453546.19,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-04-13T00:00:00-05:00",
+          "startDate": "2022-12-14T00:00:00-05:00",
+          "durationInDays": 120
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3624633-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-COTO-GADMM-002-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-002-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-COTO-GADMM-003-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO Y ALCANTARILLADO DE LA CALLE 27 DE SEPTIEMBRE DESDE E-35 HASTA CALLE COLON, ADOQUINADO Y CAMBIO DE ALCANTARILLADO Y AGUA POTABLE EN LA CALLE RUMICHACA Y ALCANTARILLADO Y ADOQUINADO DE LA CALLE ROBERTO ANDINO DESDE ANTIGUO MERCADO AGROGANADERO HASTA CALLE RIO COFANES",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-COTO-GADMM-003-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-003-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-COTO-GADMM-004-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO Y ALCANTARILLADO DE LA CALLE 27 DE SEPTIEMBRE DESDE E-35 HASTA CALLE COLON, ADOQUINADO Y CAMBIO DE ALCANTARILLADO Y AGUA POTABLE EN LA CALLE RUMICHACA Y ALCANTARILLADO Y ADOQUINADO DE LA CALLE ROBERTO ANDINO DESDE ANTIGUO MERCADO AGROGANADERO HASTA CALLE RIO COFANES",
+    "categoria": "sin categoría publicada",
+    "contratos": [],
+    "unidades_adjudicadas": [],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-COTO-GADMM-004-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-004-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0004-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE EL EJIDO DESDE LA CALLE LOS PASTOS HASTA LA CALLE CUENCA",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3435118-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0004-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0004-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0009-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO SECTOR LA IGLESIA COMUNIDAD LA DELICIA BAJA",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2134065-MCO-GADMM-0009-2022",
+        "firma": "2022-08-19T00:00:00-05:00",
+        "valor": {
+          "amount": 24999.77,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2022-10-31T00:00:00-05:00",
+          "startDate": "2022-09-01T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3566824-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0009-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0009-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0010-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO DEL CAMINO PRINCIPAL DE LA COMUNIDAD DE CHILES ALTO",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2138321-MCO-GADMM-0010-2022",
+        "firma": "2022-09-19T00:00:00-05:00",
+        "valor": {
+          "amount": 32582.24,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2022-12-03T00:00:00-05:00",
+          "startDate": "2022-10-04T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3578289-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0010-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0010-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0013-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CAMBIO DE REDES DE AGUA POTABLE Y ALCANTARILLADO DE LAS CALLES OSWALDO NAVARRETE Y 24 DE JUNIO, JUNTO A LA IGLESIA DE CHUTAN BAJO",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152412-MCO-GADMM-0013-2022",
+        "firma": "2022-11-16T00:00:00-05:00",
+        "valor": {
+          "amount": 49996.48,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-03-07T00:00:00-05:00",
+          "startDate": "2022-12-07T00:00:00-05:00",
+          "durationInDays": 90
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3625386-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0013-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0013-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0014-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO DEL PERIMETRO PRINCIPAL DE LA COMUNDAD DEL CAPULÍ",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2150414-MCO-GADMM-0014-2022",
+        "firma": "2022-11-17T00:00:00-05:00",
+        "valor": {
+          "amount": 119999.01,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-04-14T00:00:00-05:00",
+          "startDate": "2022-12-15T00:00:00-05:00",
+          "durationInDays": 120
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3625670-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0014-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0014-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0015-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO Y CAMBIO DE ALCANTARILLADO Y RED DE AGUA POTABLE DE LA CALLE 28 DE OCTUBRE PARROQUIA LA PAZ",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2150283-MCO-GADMM-0015-2022",
+        "firma": "2022-11-30T00:00:00-05:00",
+        "valor": {
+          "amount": 219999.82,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-04-18T00:00:00-05:00",
+          "startDate": "2022-12-19T00:00:00-05:00",
+          "durationInDays": 120
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3626034-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0015-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0015-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0016-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE LUIS CHAMORRO DESDE NICANOR GAVILANEZ HASTA JESUS DEL GRAN PODER”",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2144546-MCO-GADMM-0016-2022",
+        "firma": "2022-11-17T00:00:00-05:00",
+        "valor": {
+          "amount": 39965.47,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-01-27T00:00:00-05:00",
+          "startDate": "2022-11-28T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3630312-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0016-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0016-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0017-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE SANTA ROSA DESDE CALLE COLÓN HASTA NICANOR GAVILANEZ",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152422-MCO-GADMM-0017-2022",
+        "firma": "2022-12-06T00:00:00-05:00",
+        "valor": {
+          "amount": 214200.09,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-04-13T00:00:00-05:00",
+          "startDate": "2022-12-14T00:00:00-05:00",
+          "durationInDays": 120
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3632159-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0017-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0017-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0018-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE LUIS ROJAS Y CALLE LUIS CHAMORRO HASTA CASA ADULTO MAYOR PARROQUIA PIARTAL",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2147819-MCO-GADMM-0018-2022",
+        "firma": "2022-11-17T00:00:00-05:00",
+        "valor": {
+          "amount": 56395.18,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-01-23T00:00:00-05:00",
+          "startDate": "2022-11-24T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3632526-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0018-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0018-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0019-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO Y CAMBIO DE RED DE AGUA POTABLE Y ALCANTARILLADO EN LA CALLE MANUELA SAENZ EN LA COOP. UNIÓN MONTUFAREÑA",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2150453-MCO-GADMM-0019-2022",
+        "firma": "2022-12-01T00:00:00-05:00",
+        "valor": {
+          "amount": 87998.42,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-02-19T00:00:00-05:00",
+          "startDate": "2022-12-06T00:00:00-05:00",
+          "durationInDays": 75
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3632785-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0019-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0019-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-002-2019-21655",
+    "anio_busqueda": 2019,
+    "objeto": "ADOQUINADO DE CALLE MONTÚFAR DESDE CALE JOSÉ B. AÚZ HASTA CALLE EZEQUIEL LANDÁZURI, UBICADO EN LA PARROQUIA GONZÁLES SUAREZ - CANTÓN MONTÚFAR",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "2778273-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-002-2019-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-002-2019-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-002-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ALCANTARILLADO Y ADOQUINADO CALLE RIO CHINCHIPE",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3196437-DS-SO",
+        "descripcion": "CONSTRUCCION DE REDES URBANAS DE ALCANTARILLADO",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-002-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-002-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0020-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE CARCHI PARROQUIA CRISTÓBAL COLÓN",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152596-MCO-GADMM-0020-2022",
+        "firma": "2022-12-07T00:00:00-05:00",
+        "valor": {
+          "amount": 103928.83,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-03-15T00:00:00-05:00",
+          "startDate": "2022-12-15T00:00:00-05:00",
+          "durationInDays": 90
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3632988-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0020-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0020-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0021-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE RIO APAQUI",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2150479-MCO-GADMM-0021-2022",
+        "firma": "2022-12-08T00:00:00-05:00",
+        "valor": {
+          "amount": 129465.2,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-03-14T00:00:00-05:00",
+          "startDate": "2022-12-14T00:00:00-05:00",
+          "durationInDays": 90
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3633349-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0021-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0021-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0022-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO CALLE HUGO GONZALEZ EN EL BARRIO SANTA MARTHA DE INDUJEL",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2147883-MCO-GADMM-0022-2022",
+        "firma": "2022-11-21T00:00:00-05:00",
+        "valor": {
+          "amount": 39990.85,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-01-23T00:00:00-05:00",
+          "startDate": "2022-11-24T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3634308-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0022-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0022-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0025-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ALCANTARILLADO Y ADOQUINADO DE LA URBANIZACIÓN MUNICIPAL DE LA CIUDAD DE SAN GABRIEL - FASE I",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152456-MCO-GADMM-0025-2022",
+        "firma": "2022-11-29T00:00:00-05:00",
+        "valor": {
+          "amount": 159990.56,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-04-13T00:00:00-05:00",
+          "startDate": "2022-12-14T00:00:00-05:00",
+          "durationInDays": 120
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3639066-DS-SO",
+        "descripcion": "SERVICIOS DE CONSTRUCCION CONDUCCIONES DE REDES URBANAS    (INCLUIDAS LAS OBRAS AUXILIARES COMO ESTACIONES DE BOMBEO).",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0025-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0025-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0026-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO COMUNIDAD EL TAMBO",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2150433-MCO-GADMM-0026-2022",
+        "firma": "2022-11-30T00:00:00-05:00",
+        "valor": {
+          "amount": 26015.1,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-01-23T00:00:00-05:00",
+          "startDate": "2022-12-09T00:00:00-05:00",
+          "durationInDays": 45
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3639581-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0026-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0026-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0027-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO COMUNIDAD EL COLORADO",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2149855-MCO-GADMM-0027-2022",
+        "firma": "2022-11-29T00:00:00-05:00",
+        "valor": {
+          "amount": 35481.9,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-02-02T00:00:00-05:00",
+          "startDate": "2022-12-19T00:00:00-05:00",
+          "durationInDays": 45
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3639607-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0027-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0027-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0028-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO COMUNIDAD DE HUAQUER",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152748-MCO-GADMM-0028-2022",
+        "firma": "2022-11-30T00:00:00-05:00",
+        "valor": {
+          "amount": 39239.41,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-02-05T00:00:00-05:00",
+          "startDate": "2022-12-07T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3639633-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0028-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0028-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0029-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO COMUNIDAD DE PIZAN",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2147639-MCO-GADMM-0029-2022",
+        "firma": "2022-12-02T00:00:00-05:00",
+        "valor": {
+          "amount": 33697.09,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-02-10T00:00:00-05:00",
+          "startDate": "2022-12-12T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3639671-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0029-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0029-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-003-2020-21655",
+    "anio_busqueda": 2020,
+    "objeto": "ADOQUINADO PASAJE LOS CEDROS DE COOPERATIVA OSWALDO VACA LARA",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3123756-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-003-2020-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-003-2020-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-0036-2022-21655",
+    "anio_busqueda": 2022,
+    "objeto": "ADOQUINADO DE LA CALLE PRINCIPAL DE LA COMUNIDAD SAN CRISTOBAL BAJO",
+    "categoria": "works",
+    "contratos": [
+      {
+        "id": "2152433-MCO-GADMM-0036-2022",
+        "firma": "2022-12-14T00:00:00-05:00",
+        "valor": {
+          "amount": 39999.99,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2023-02-21T00:00:00-05:00",
+          "startDate": "2022-12-23T00:00:00-05:00",
+          "durationInDays": 60
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "3671319-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0036-2022-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0036-2022-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-005-2020-21655",
+    "anio_busqueda": 2020,
+    "objeto": "CONSTRUCCIÓN DE ALCANTARILLADO Y ADOQUINADO CALLE ENRIQUE PINEDA DE LA PARROQUIA DE CHITÁN DE NAVARRETES",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3149507-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS),  OTRAS VIAS DE CIRCULACION  DE  VEHICULOS Y PEATONES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-005-2020-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-005-2020-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-006-2020-21655",
+    "anio_busqueda": 2020,
+    "objeto": "ALCANTARILLADO Y ADOQUINADO DE LAS CALLES DE LA COOPERATIVA CRISTOBAL COLÓN, CAICO, LOS CIPRES- CONDUCEN AL ESTADIO PASAJES 8 Y 9. EN CONVENIO CON EL GAD PARROQUIAL DE CRISTOBAL COLON",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3172457-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS),  OTRAS VIAS DE CIRCULACION  DE  VEHICULOS Y PEATONES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-006-2020-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-006-2020-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-009-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ALCANTARILLADO Y ADOQUINADO CALLE RIO COFANES (DESDE AV. LOS CIPRES HASTA NICOLAS MENCIAS) Y ROBERTO ANDINO DESDE NICOLAS MENCIAS HASTA PARQUE DE LA FAMILIA ETAPA I",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3284705-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-009-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-009-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-010-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ADOQUINADO QUE CONDUCE A LA UNIDAD EDUCATIVA PIARTAL, BLOQUE  1, HASTA EL CERRAMIENTO",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3293860-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-010-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-010-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-012-2019-21655",
+    "anio_busqueda": 2019,
+    "objeto": "ADOQUINADO DE LA PROLONGACION DE LA CARRERA BOLIVAR, VIA A PALUZ",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "2968036-DS-SO",
+        "descripcion": "CAMINOS",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-012-2019-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-012-2019-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-013-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ADOQUINADO Y CAMBIO DE RED DE AGUA POTABLE Y ALCANTARILLADO EN CALLE ALFONSO BASTIDAS DESDE LA PANAMERICANA E35 HASTA LA INTERSECCON CON LA CALLE JULIO R. VACA, CALLE HUMBERTO NAVARRETE Y CALLE REINALDO BASTIDAS",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3333916-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-013-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-013-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-014-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ADOQUINADO INGRESO A LA PARROQUIA LA PAZ CALLE PASTORA ALOMIA",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3335522-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-014-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-014-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-021-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ADOQUINADO DE LAS CALLES SAN PEDRO DE LOS CIPRES Y LOS OLIVOS",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3380389-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-021-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-021-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-022-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "CONSTRUCCIÓN DEL ADOQUINADO ORNAMENTAL E ILUMINACION DE LA CIRCULACION PRINCIPAL DEL CEMENTERIO MUNICIPAL",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3384594-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-022-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-022-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-023-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ADOQUINADO CALLE EL EJIDO DESDE LA CALLE LOS PASTOS HASTA LA CALLE CUENCA",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3405727-DS-SO",
+        "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-023-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-023-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-MCO-GADMM-025-2021-21655",
+    "anio_busqueda": 2021,
+    "objeto": "ADOQUINADO Y ALCANTARILLADO DE LAS CALLES MONTÚFAR Y SECUNDINO CHAMORRO ENTRE CRA. BOLÍVAR Y 5 DE JUNIO- I ETAPA",
+    "categoria": "works",
+    "contratos": [],
+    "unidades_adjudicadas": [
+      {
+        "id": "3421837-DS-SO",
+        "descripcion": "SERVICIOS DE CONSTRUCCION CONDUCCIONES DE REDES URBANAS    (INCLUIDAS LAS OBRAS AUXILIARES COMO ESTACIONES DE BOMBEO).",
+        "cantidad": 1,
+        "unidad": "Unidad"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-025-2021-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-025-2021-21655.html"
+  },
+  {
+    "ocid": "ocds-5wno2w-SIE-GADMM-004-2019-21655",
+    "anio_busqueda": 2019,
+    "objeto": "ADQUISICIÓN DE MATERIAL PETREO PARA ADOQUINADO DE CALLES: RIO ESMERALDAS, ROCAFUERTE (VIA CHILES), RIO CARCHI Y RIO COCA Y OBRAS DE ADMINISTRACION DIRECTA",
+    "categoria": "goods",
+    "contratos": [
+      {
+        "id": "2011072-SIE-GADMM-004-2019",
+        "firma": "2019-12-23T00:00:00-05:00",
+        "valor": {
+          "amount": 57100.7,
+          "currency": "USD"
+        },
+        "estado_original": "terminated",
+        "periodo_programado": {
+          "endDate": "2020-07-08T00:00:00-05:00",
+          "startDate": "2020-01-10T00:00:00-05:00",
+          "durationInDays": 180
+        },
+        "implementation": null
+      }
+    ],
+    "unidades_adjudicadas": [
+      {
+        "id": "2969845-DS-SO",
+        "descripcion": "SERVICIOS COMERCIALES AL POR MENOR DE ARTICULOS DE FERRETERIA Y HERRAMIENTAS DE MANO TIENDAS NO ESPECIALIZADAS",
+        "cantidad": 7100,
+        "unidad": "Metro Cubico"
+      }
+    ],
+    "longitud_ejecutada_verificada_m": null,
+    "superficie_instalada_verificada_m2": null,
+    "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-SIE-GADMM-004-2019-21655",
+    "archivo": "fuentes/record_ocds-5wno2w-SIE-GADMM-004-2019-21655.html"
+  }
+]

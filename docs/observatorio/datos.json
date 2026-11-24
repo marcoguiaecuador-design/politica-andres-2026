@@ -1,5 +1,5 @@
 {
-  "version": "1.11",
+  "version": "1.12",
   "corte": "2026-11-24",
   "ambito": "Montúfar · Carchi · Ecuador",
   "titulo": "Observación ciudadana de Montúfar · gestión municipal y planes",
@@ -734,6 +734,111 @@
       "url": "https://anda.inec.gob.ec/anda5/index.php/catalog/360",
       "estado": "Fuente metodológica oficial consultada 24-XI-2026",
       "detalle": "Permite distinguir ejercicios, ámbitos y categorías; no sustituye inventario georreferenciado actual de áreas verdes de Montúfar."
+    },
+    {
+      "id": "AD01",
+      "titulo": "SERCOP · ibarra2025 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783; ítem 15483260-RU-SO; USD 16.14/m²; firma 2025-11-13. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "AD02",
+      "titulo": "SERCOP · troncal2025 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-GADMLT-2025-001-2670; ítem 16163056-RU-SO; USD 24.26/m²; firma 2025-12-02. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "AD03",
+      "titulo": "SERCOP · urcuqui2025 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-GADMU-2025-001-3271; ítem 15555146-RU-SO; USD 30.6/m²; firma 2025-12-31. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "AD04",
+      "titulo": "SERCOP · quito2026 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-EPMMOP-2025-021-741823; ítem 16485630-RU-SO; USD 14.34/m²; firma 2026-03-05. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "ADRC",
+      "titulo": "Montúfar · rendición de cuentas 2021 · adoquinado reportado",
+      "url": "https://www.gadmontufar.gob.ec/documents/RendicionCuentas2021.pdf",
+      "estado": "Verificación limitada a extractos indexados",
+      "detalle": "Resultado reportado en rendición 2021 vinculado a meta de mantenimiento vial; no certifica total del mandato, obra nueva neta ni kilómetros lineales Extractos indexados de documentos oficiales; descarga directa bloqueada por problema de cadena de certificado y aperturas web fallidas. No se afirma cotejo visual del PDF íntegro."
+    },
+    {
+      "id": "ADACT",
+      "titulo": "Montúfar · acta enero 2022 · contraste de rendición 2021",
+      "url": "https://gadmontufar.gob.ec/documents/link/actaN%C2%B002parte_pertinente_ene2022.pdf",
+      "estado": "Extracto indexado; PDF íntegro no cotejado",
+      "detalle": "Contraste del resultado anual reportado de 12.795,44 m²; no longitud del período."
+    },
+    {
+      "id": "RS26",
+      "titulo": "RO EE 969 · ordenanza sustitutiva de tarifa de residuos de Montúfar",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZjM3NzU5ODctYzkxYy00MDRjLThlOTUtM2RiYzQ2MmU4ZjExLnBkZiJ9",
+      "estado": "PDF oficial archivado; tabla y artículos cotejados",
+      "detalle": "19-I-2026, pp. 35–46. Aprobación 26-XII-2025; sanción 29-XII-2025. Tabla p. 42. No se certifica liquidación individual ni ausencia exhaustiva de reformas."
+    },
+    {
+      "id": "RSRO",
+      "titulo": "Registro Oficial · ficha de publicación EE 969",
+      "url": "https://www.registroficial.gob.ec/edicion-especial-no-969-8/",
+      "estado": "Ficha oficial identifica ordenanza y fecha",
+      "detalle": "Publicación de la sustitutiva de tarifa de residuos no peligrosos de Montúfar, 19-I-2026."
+    },
+    {
+      "id": "RSBU",
+      "titulo": "Ministerio del Trabajo · anuncio oficial SBU 2026",
+      "url": "https://www.trabajo.gob.ec/despues-de-casi-una-decada-hay-consenso-gobierno-empleadores-y-trabajadores-acuerdan-fijar-el-salario-basico-unificado-de-2026-en-usd-482-no-hay-imposicion-hay-union/",
+      "estado": "Fuente oficial indexada; USD 482 para 2026",
+      "detalle": "Anuncio de 15-XII-2025. Se usa solo para contraste aritmético de los porcentajes publicados; no certifica cómo liquidó Rentas."
+    },
+    {
+      "id": "PDCOM",
+      "titulo": "Montúfar · página de comisiones del Concejo",
+      "url": "https://www.gadmontufar.gob.ec/comisiones.php",
+      "estado": "Portal revisado; informe específico del PDOT no identificado",
+      "detalle": "Búsqueda del informe de comisión solicitado. Consulta pública con cadena TLS municipal no validable; no se atribuyen hallazgos a un documento no obtenido."
+    },
+    {
+      "id": "PDSIG",
+      "titulo": "Montúfar · reporte SIGAD ejercicio fiscal 2025",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/TERRITORIAL/2025/Primer%20Trimestre/INFORME%20PDOT%202023-2027.pdf",
+      "estado": "Copia oficial archivada; portada cotejada visualmente",
+      "detalle": "Reporte de programación y avance de metas y presupuesto: ejercicio 2025; 31 metas, 32 programas/proyectos; envío 27-V-2026 y generación 28-V-2026. No es informe de comisión."
+    },
+    {
+      "id": "PDSIL",
+      "titulo": "Montúfar · Sistema de Información Local",
+      "url": "https://www.gadmontufar.gob.ec/sil.php",
+      "estado": "Portal institucional; distingue PDOT, indicadores e informes de evaluación",
+      "detalle": "Los reportes SIGAD/evaluación disponibles no se identifican como informe de fiscalización de comisión de concejales."
+    },
+    {
+      "id": "PDSOT23",
+      "titulo": "SOT · remediación del PUGS de Montúfar, 17-II-2023",
+      "url": "https://www.sot.gob.ec/2023/02/17/remediacion-gad-municipal-montufar/",
+      "estado": "Antecedente oficial de 2022–2023; expediente distinto",
+      "detalle": "Informa cumplimiento de plan de remediación y ratificación del estado de inocencia mediante Resolución SOT-INPU-2023-001. No se atribuye al PDOT de la administración 2023–2027."
+    },
+    {
+      "id": "PD26",
+      "titulo": "Montúfar · PDOT 2023–2027 alineado 2026 · archivo institucional",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/PDOT_2023-2027_GADMM_ALINEADO.2026_K.pdf",
+      "estado": "PDF institucional obtenido; no es informe de comisión",
+      "detalle": "Documento completo archivado para contrastar el informe de fiscalización solicitado. La descarga y el texto extraído no equivalen a auditoría integral ni validación de anexos."
+    },
+    {
+      "id": "VRP",
+      "titulo": "Prefectura del Carchi · PDOT 2023–2027 alineado · inventario vial",
+      "url": "https://cloud.carchi.gob.ec/s/ps6oBedNYxN2gEx?openfile=true",
+      "estado": "PDF oficial archivado; tabla 76 cotejada",
+      "detalle": "Tabla 76, p. impresa 216 / PDF 212: Montúfar 386,68 km, insumos Dirección de Obras Públicas provincial 2024. PDF completo grande; extracto disponible en la pregunta PT05. No certifica inventario 2026."
     }
   ],
   "propuestas": [
@@ -1328,6 +1433,14 @@
     {
       "fecha": "2026-11-24",
       "cambio": "Versión 1.11: nueva categoría Preguntas técnicas para debates; PT01 sobre áreas verdes, m²/hab, AM 059 y art. 424. Incluye lectura dentro del HTML, simulador identificado como ficticio y notas por consulta. No cambia las conclusiones de los seis planes ni la veeduría."
+    },
+    {
+      "fecha": "2026-11-24",
+      "cambio": "Versión 1.12: precios y matriz de adoquinado SERCOP, tasa de residuos y ordenanza 2026; revisión del informe PDOT de comisión abierta, sin hallazgos atribuidos mientras no se obtenga el documento. Se conservan planes y notas."
+    },
+    {
+      "fecha": "2026-11-24",
+      "cambio": "Se añade PT05 sobre vialidad rural: inventario provincial de Montúfar 386,68 km, base 2024, con desglose, fuente oficial y distinción de competencias. No se certifica actualización a noviembre de 2026."
     }
   ],
   "comparativo_cootad": [
@@ -3222,6 +3335,40 @@
         "nota": "El porcentaje se calcula sobre suelo útil urbanizable, no sobre habitantes. El mínimo de la mitad se refiere a la cesión conjunta indicada. No se afirma que el artículo haya sido reformado en 2026.",
         "refs": [
           "NX26 · art. 424, pp. PDF 139–140"
+        ]
+      },
+      {
+        "id": "RSORD",
+        "articulo": "Montúfar · ordenanza sustitutiva de tarifa de residuos · texto íntegro",
+        "encabezado": "Texto extraído del Registro Oficial EE 969 · pp. 35–46",
+        "texto": "Registro Oficial - Edición Especial Nº 969                                   Lunes 19 de enero de 2026\n\n\n\n\n  EL CONCEJO DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE\n                             MONTÚFAR\n                                   EXPOSICION DE MOTIVOS.\n\nEl GAD Municipal de Montúfar a través de la Dirección de Protección Ambiental para la Gestión Integral de\nDesechos Sólidos, en cumplimiento de las competencias que son de atribución de la Municipalidad\nMontúfar, en la prestación del servicio público de manejo de desechos sólidos, para lo cual se ha\ngenerado la normativa cantonal plasmada en la ORDENANZA PARA REGULAR LA TARIFA POR\nPRESTACIÓN DEL SERVICIO DE GESTIÓN INTEGRAL DE RESIDUOS SOLIDOS NO PELIGROSO EN EL\nCANTON MONTÚFAR. Esta ordenanza contiene la tasa que se cobra a la ciudadanía por el barrido,\nlimpieza, servicio de recolección, transporte, almacenamiento y disposición final de los desechos\nsólidos, valor que no se cobra de forma directa a través de sus ventanillas de recaudación, sino por medio\nde la Empresa Eléctrica Regional Norte S.A., en la planilla mensual de consumo de energía eléctrica.\n\nEn el mes de enero 2024 se suscribió el Convenio de Cooperación Interinstitucional entre\nEMELNORTE y los GADs cuya recaudación se realizará hasta el 31 de diciembre 2025.\n\nA través de Oficio Nro. EMELNORTE-PE-2025-1020-OF; Ibarra, 27 de octubre de 2025 suscrito\npor el Presidente Ejecutivo (E) mediante el cual comunica: La prohibición explícita de que la tasa de\nrecolección de basura sea cobrada o reflejada en la factura principal del servicio público de energía\neléctrica; Cualquier mecanismo de recaudación por cuenta de terceros debe realizarse a través de un\ndocumento separado y anexo, por otra vía que no altere la factura del servicio eléctrico; La Tasa de\nRecolección de Basura, bajo ninguna circunstancia, podrá estar vinculada directo o indirectamente,\na las tarifas o al consumo de energía; Las Empresas Eléctricas se abstendrán de compartir información\npersonal de los usuarios con los GADs en contravención a la normativa vigente, limitando la entrega\nde datos a lo estrictamente indispensable para la prestación del servicio eléctrico; Informar a los\nGADs con quienes se tiene vigencia convenios del cobro de la TRB, que deberán definir sus propios\nmecanismos de cobro una vez que finalicen los plazos de los mismos, en virtud que el sector eléctrico\ndejará de ser agente de recaudación de la TRB.\n\nEl Gobierno Nacional del Ecuador a través de un comunicado oficial emitido por la Ministra de\nEnergía y Minas Abg. Inés María Manzano Díaz, de fecha 09 de octubre del 2025 dispuso: “en\ncumplimiento de la normativa vigente y con el objetivo de garantizar mayor transparencia en el\nsistema eléctrico, ya no se cobrará la Tasa de Recolección de Basura (TRB) en las planilla de energía\neléctrica (…)” y señala que “los Gobiernos Autónomos que cumplen con lo establecido en la Ley”,\nuna vez que finalicen los plazos establecidos en los convenios “deberán definir sus propios\nmecanismos de cobro” “Dado que el sector eléctrico dejará de ser agente de recaudación de la TRB.\n\nEn ese sentido, la decisión del Ministerio de Energía y Minas, afecta al normal desarrollo y operación\ndel sistema de recolección, contenerización, transporte y disposición final de los desechos sólidos,\ncada uno de estos procesos son parte integral del servicio de gestión de desechos sólidos en el cantón\nMontúfar; este servicio es considerado un “servicio público esencial”, lo que significa que es\nindispensable para la vida social y no puede cesar sus actividades de forma unilateral; ya que la\ngestión inadecuada de residuos causa la contaminación del suelo, el aire y el agua, perjudicando el\nmedio ambiente, de igual manera la acumulación de basura en las calles es un foco de infección que\natrae plagas como roedores, moscas y cucarachas, que son vectores de enfermedades graves, esas\n\n\n                                                                                            Página 1 de 12\n                                                   35\n\n\nLunes 19 de enero de 2026                                    Edición Especial Nº 969 - Registro Oficial\n\n consideraciones de carácter ambiental y de salud, se complementan con las consideraciones legales y\n los derechos de los ciudadanos montufareños (as), ya que la Constitución ecuatoriana reconoce el\n derecho de las personas a un ambiente sano, ecológicamente equilibrado y libre de contaminación, y\n prohíbe la generación de daños ambientales.\n\n Por lo tanto, la nueva modalidad de generar el cobro de la Tasa de Recolección de Basura, obliga a\n revisar, determinar y gestionar dicho cobro por otros medios, para lo cual es menester generar una\n ORDENANZA SUSTITUTIVA PARA REGULAR LA TARIFA POR PRESTACIÓN DEL SERVICIO DE\n GESTIÓN INTEGRAL DE RESIDUOS SOLIDOS NO PELIGROSO EN EL CANTÓN MONTÚFAR. , con la\n finalidad de no interrumpir el servicio a la ciudadanía, ésta ordenanza está sujeta a consideraciones\n técnicas y legales, con la finalidad de que se pueda acceder a un cobro con el que los contribuyentes\n paguen una tasa por dicho servicio de manera regular y justa, considerando los valores que la\n administración municipal debe aportar en el costo operativo para llevar a cabo el sistema integral de\n desechos sólidos en cuanto a barrido, recolección, transporte, almacenamiento y disposición final se\n refiere; a su vez, sincerar los costos que la actual administración ha venido realizado, por lo que, para\n cumplir con la normativa y disposiciones actuales, es necesario impulsar un proyecto de reforma a la\n Ordenanza. Que permita continuar con a operación del servicio público mencionado.\n\n                                          CONSIDERANDO\n\n Que, el artículo 14 de la Constitución de la República reconoce a la población el derecho a vivir en un\n ambiente sano y ecológicamente equilibrado, que garantice la sostenibilidad y el buen vivir, Sumak\n Kawsay. Además, declara de interés público la preservación del ambiente, la conservación de los\n ecosistemas, la biodiversidad y la integridad del patrimonio genético del país, la prevención del daño\n ambiental y la recuperación de los espacios naturales degradados;\n\n Que, el artículo 15 de la Constitución de la República señala que el Estado promoverá, en el sector\n público y privado, el uso de tecnologías ambientalmente limpias y de energías alternativas no\n contaminantes y de bajo impacto;\n\n Que, el artículo 66, numeral 27 de la Constitución de la República garantiza a las personas el derecho\n a vivir en un ambiente sano, ecológicamente equilibrado, libre de contaminación y en armonía con\n la naturaleza;\n\n Que, el artículo 83, numeral 6 de la Constitución de la República establece que son deberes y\n responsabilidades de las ecuatorianas y los ecuatorianos, entre otros, el respetar los derechos de\n la naturaleza, preservar un ambiente sano y utilizar los recursos naturales de modo racional,\n sustentable y sostenible;\n\n Que, el artículo 240 de la Constitución de la República determina que los gobiernos autónomos\n descentralizados tendrán facultades legislativas en el ámbito de sus competencias y jurisdicciones y\n ejercerán las facultades ejecutivas en el ámbito de sus competencias y jurisdicciones territoriales.\n\n Que, el artículo 264, numeral 4 de la Constitución de la República establece que los gobiernos\n municipales tienen, entre varias competencias exclusivas, prestar entre otros servicios públicos, el de\n manejo de desechos sólidos.\n\n Que, el artículo 276, numeral 4 de la Constitución de la República señala que el régimen de desarrollo\n\n\n                                                   36                                       Página 2 de 12\n\n\nRegistro Oficial - Edición Especial Nº 969                                     Lunes 19 de enero de 2026\n\n tendrá entre otros los siguientes objetivos: recuperar y conservar la naturaleza y mantener un\n ambiente sano y sustentable que garantice a las personas y colectividades el acceso equitativo,\n permanente y de calidad al agua, aire y suelo, y a los beneficios de los recursos del subsuelo y del\n patrimonio natural;\n\n Que, el artículo 415 de la Constitución de la República establece que los gobiernos autónomos\n descentralizados desarrollarán programas de reducción, reciclaje y tratamiento.\n\n Que, el Código Orgánico de Organización Territorial, Autonomía y Descentralización (COOTAD)\n en sus Artículos 57 literales. a), y c) y, art. 568 literal d), otorga a a los Concejos de los Gobiernos\n Autónomos Descentralizados la facultad normativa y la de crear tasas por la prestación de los\n servicios públicos.\n\n Que, el artículo 224 del Código Orgánico Ambiental establece que la gestión integral de los residuos\n y desechos está sometida a la tutela estatal cuya finalidad es contribuir al desarrollo sostenible, a\n través de un conjunto de políticas intersectoriales y nacionales en todos los ámbitos de gestión, de\n conformidad con los principios y disposiciones del Sistema Único de Manejo Ambiental;\n\n Que, el artículo 100 de la Ley Orgánica de Salud, (Reformado por el num. 2, de la Disposición\n Reformatoria Primera del Código Orgánico del Ambiente, R.O. 983-S, 12-IV-2017), dispone que la\n recolección, transporte, tratamiento y disposición final de desechos es responsabilidad de los\n municipios que la realizarán de acuerdo con las leyes, reglamentos y ordenanzas que se dicten para el\n efecto, con observancia de las normas de bioseguridad y control determinadas por la Autoridad\n Ambiental Nacional. El Estado entregará los recursos necesarios para el cumplimiento de lo dispuesto\n en este artículo\n\n Que, en el tercer suplemento del Registro Oficial No. 418 de fecha 16 de enero 2015, se publicó la Ley\n Orgánica del Servicio Público de Energía Eléctrica, en el Registro Oficial, y en su Art. 60 (Reformado por\n el Art. 1 de la Ley s/n, R.O. 514-2S, 21-VI-2019), dispone: “En la factura correspondiente al consumo\n de servicio público de energía eléctrica, a los consumidores o usuarios finales, se incluirá, única y\n exclusivamente, los rubros correspondientes a los servicios que presta la empresa eléctrica, cuyo detalle\n constará en la regulación que para el efecto emita el ARCONEL. En el caso que un Gobierno\n Autónomo Descentralizado requiera que una empresa eléctrica de distribución y comercialización\n brinde el servicio de recaudación de las tasas por el servicio de recolección de basura, esta deberá\n hacerlo en forma separada a la factura por el servicio de energía eléctrica. De forma previa a este\n procedimiento, el gobierno autónomo descentralizado interesado deberá entregar a la empresa\n eléctrica el estudio técnico de fijación de tasas debidamente socializado con los usuarios, junto con el\n listado de los abonados que reciben el servicio de recolección de basura debidamente certificado por\n el funcionario municipal competente. En ningún caso las tasas por el servicio de recolección de basura\n podrán estar indexadas directa ni indirectamente a las tarifas del servicio público energía eléctrica.”;\n\n Que, la disposición transitoria (Agregada por la Ley s/n, R.O. 514-2S, 21-VI-2019), de la Ley Orgánica del\n Servicio Público de Energía Eléctrica, menciona que: “Los Gobiernos Autónomos Descentralizados\n que a la presente fecha se encuentren recaudando la tasa por el servicio de recolección de basura a\n través de alguna empresa eléctrica de distribución y comercialización deberán, en un plazo de 180\n días, actualizar las ordenanzas respectivas conforme lo dispuesto en esta Ley, en caso que así corresponda.\n Mientras realizan las reformas indicadas deberán continuar recaudando las tasas por el servicio de\n\n\n                                                                                              Página 3 de 12\n                                                    37\n\n\nLunes 19 de enero de 2026                                   Edición Especial Nº 969 - Registro Oficial\n\n recolección de basura por intermedio de las empresas eléctricas de distribución y comercialización\n del país.”;\n\n Que, con fecha 09 de octubre del 2025 el Gobierno Nacional del Ecuador a través de un comunicado\n oficial emitido por la Ministra de Energía y Minas, abogada Inés María Manzano Díaz, dispuso que:\n “en cumplimiento de la normativa vigente y con el objetivo de garantizar mayor transparencia en el\n sistema eléctrico, ya no se cobrará la Tasa de Recolección de Basura (TRB) en las planilla de energía\n eléctrica (…)” y señala que “los Gobiernos Autónomos que cumplen con lo establecido en la Ley”,\n una vez que finalicen los plazos establecidos en los convenios “deberán definir sus propios\n mecanismos de cobro” “Dado que el sector eléctrico dejará de ser agente de recaudación de la TRB.”;\n\n Que, es deber del GAD Municipal de Montúfar, precautelar y garantizar la operatividad del servicio\n de manejo de desechos sólidos en el cantón Montúfar, para lo cual debe asegurar la forma de recaudar\n los valores correspondientes a la tasa de recolección de basura, que permita mantener la capacidad de\n gestión de los desechos sólidos de manera eficaz, eficiente, oportuna e ininterrumpida;\n\n Que el Concejo Municipal en Sesiones Ordinarias del veinte y veintisiete de julio del 2017, aprobó\n la Ordenanza para la Gestión y el manejo integral de residuos y/o desechos sólidos en el Cantón\n Montúfar.\n\n Que el Concejo Municipal en Sesiones Ordinarias del trece y veinte de octubre del 2025, aprobó la\n Tercera Reforma para Regular la Tarifa por Prestación del Servicio Gestión Integral de residuos\n sólidos no peligrosos en el Cantón Montúfar.\n\n Que, es deber del Concejo Municipal, adecuar la normativa local, a las normas constitucionales y\n legales que rigen nuestro sistema jurídico, para garantizar la aplicación de un marco previsible a las\n personas, en observancia de la seguridad jurídica que rige nuestro estado constitucional de derechos y\n justicia.\n\n En uso de las atribuciones que le confiere el artículo 240 y 264 de la Constitución de la República del\n Ecuador, y el artículo 322 del Código Orgánico de Organización Territorial, Autonomía y\n Descentralización,\n\n                                               EXPIDE\n\n  ORDENANZA SUSTITUTIVA PARA REGULAR LA TARIFA POR PRESTACIÓN DEL\n SERVICIO DE GESTIÓN INTEGRAL DE RESIDUOS SOLIDOS NO PELIGROSO EN EL\n                          CANTON MONTÚFAR.\n\n                                            CAPITULO I\n\n                                         GENERALIDADES\n\n Art. 1.- Objeto.- La presente ordenanza tienen como objeto regular la tasa por servicio por prestación\n del servicio gestión integral de residuos sólidos no peligroso domiciliarios y comerciales en el Cantón\n Montúfar.\n\n Art. 2.- Ámbito.- Esta ordenanza tendrá su aplicación en la jurisdicción del cantón Montúfar, Provincia\n del Carchi.\n\n\n                                                  38\n                                                                                          Página 4 de 12\n\n\nRegistro Oficial - Edición Especial Nº 969                                   Lunes 19 de enero de 2026\n\n Art. 3.- Finalidad.- Las tarifas que se establecen en la presente ordenanza tienen por objeto retribuir\n el costo por la prestación del servicio de gestión integral de residuos sólidos, no peligrosos y desechos\n sanitarios, en todas sus fases, que realiza el Gobierno Autónomo Descentralizado Municipal de\n Montúfar.\n\n Art. 4.- Hecho Generador.- El hecho generador de las tarifas constituye el servicio de gestión\n integral de residuos sólidos no peligrosos, o de desechos sanitarios, que presta el Gobierno Autónomo\n Descentralizado Municipal de Montúfar a todas las personas naturales y jurídicas del Cantón\n Montúfar.\n\n Art. 5.- Sujeto Activo.- El ente acreedor de las tarifas por la prestación del servicio de gestión\n integral de residuos sólidos no peligrosos o de desechos sanitarios es, el Gobierno Autónomo\n Descentralizado Municipal de Montúfar.\n\n Art. 6.- Sujeto Pasivo.- Son sujetos pasivos de las tarifas reguladas en la presente Ordenanza, todas las\n personas naturales, jurídicas y sociedades de hecho que se beneficien con el servicio de gestión\n integral de residuos sólidos no peligrosos o desechos sanitarios, en las áreas urbana y rural del cantón\n Montúfar, a quienes a efectos de la presente ordenanza se denominará generadores.\n\n                                             CAPITULO II\n\n DE LA TARIFA POR GESTION INTEGRAL DE RESIDUOS SOLIDOS NO PELIGROSOS\n\n Art. 7.- Categorías de Generadores.- Para la aplicación de las tarifas por la prestación del servicio\n de gestión integral de residuos sólidos no peligrosos, los generadores se clasifican en las siguientes\n categorías:\n\n Los/as propietarios/as y arrendatarios/as de casas, edificios y lotes de terreno ubicados en la\n jurisdicción cantonal, destinados a residencias, o generadores domiciliarios;\n\n •   Categoría 1.- Sector Residencial San Gabriel\n •   Categoría 2.- Sector Comercial San Gabriel\n •   Categoría 3.- Sector Residencial Comunidades\n •   Categoría 4.- Sector Comercial Comunidades\n •   Categoría 5. Industrial Especial.\n • Otros. Las entidades oficiales y establecimientos de asistencia social y de beneficio Público,\n como:\n •           Instituciones Financieras.\n •           Instituciones Educativas.\n •           Instituciones Públicas.\n\n Art. 8.- Base Imponible General para la gestión de los residuos sólidos No Peligrosos.- El\n Gobierno Autónomo Descentralizado Municipal de Montúfar determinará, cada fin de la\n administración, el valor a ser considerado como base imponible para el cálculo de la tarifa por la\n\n\n\n                                                    39                                      Página 5 de 12\n\n\nLunes 19 de enero de 2026                                     Edición Especial Nº 969 - Registro Oficial\n\n prestación del servicio de gestión integral de residuos sólidos no peligrosos. Dicho valor será a su\n vez calculado, tomando en cuenta la siguiente fórmula:\n\n      (C&Gnp) =sumatoria de\n\n            COSTOS Y GASTOS RESIDUOS SÓLIDOS NO PELIGROSOS\n       + Personal Operativo Residuos Sólidos No Peligrosos (POnp)\n\n       + Operación y Mantenimiento (PO&np)\n\n       + Herramientas y Equipo de Protección Personal (H&EPPnp)\n\n       + Depreciación (Dnp)\n\n          (Personal Administración Gastos Ambientales + Gastos Educomunicacional) x\n\n       + (Toneladas año anterior Residuos No peligrosos/Total toneladas año anterior)\n\n\n\n La base imponible general corresponde a la sumatoria de todos los costos y gastos incurridos en la\n recolección y tratamiento de los residuos sólidos no peligrosos del año anterior, los cuales se\n subdividen en las siguientes actividades:\n\n a) Costo Personal Operativo Residuos Sólidos No Peligrosos (POnp): Correspondiente a\n personal en Barrido de Calles, Recolección y Transporte, Tratamiento de Desechos Orgánicos,\n Reciclaje y Relleno Sanitario.\n\n b) Costo Operación y Mantenimiento (PO&Mnp): Corresponde a los costos atribuibles a\n repuestos, combustibles, reparaciones, mantenimiento, de maquinaria e infraestructura, incluyendo\n instalaciones eléctricas, sanitarias, agua potable, vías y alcantarillado pluvial, utilizados para Barrido\n de Calles, Recolección y Transporte, Tratamiento de Desechos Orgánicos, Reciclaje y Relleno\n Sanitario, Disposición Final.\n\n c) Costo de Herramientas y Equipo de Protección Personal (H&EPPnp): Asociados a\n personal en Barrido de Calles, Recolección y Transporte, Tratamiento de Desechos Orgánicos,\n Reciclaje y Relleno Sanitario.\n\n d) Depreciación (Dnp): Costo Depreciación asociado a los activos que intervienen en los\n procesos de: Barrido de Calles, Recolección y Transporte, Tratamiento de Desechos Orgánicos,\n Reciclaje y Relleno Sanitario, Disposición Final.\n\n e)    Gastos Administrativos (ADMnp): Estos gastos son de aplicación general y se imputarán al\n Gasto de residuos sólidos no peligrosos de manera porcentual a la cantidad total de toneladas año de\n residuos sólidos no peligrosos dividido para la cantidad total de toneladas de residuos.\n\n Los rubros que comprenden estos gastos son:\n\n f) Personal Administración (PAnp): Comprende los sueldos y salarios del Director y del Técnico\n en Residuos.\n\n\n                                                    40\n                                                                                             Página 6 de 12\n\n\nRegistro Oficial - Edición Especial Nº 969                                  Lunes 19 de enero de 2026\n\n g)   Gastos Ambientales (Amnp): Comprende los gastos anuales atribuibles al plan de manejo\n ambiental de residuos sólidos.\n\n h) Gastos Programa Educomunicacional (EDUnp): Comprende los gastos anuales de\n implementación del programa atribuibles a residuos sólidos.\n\n Art. 9.- Determinación de Cantidad de Residuos No Peligrosos por Tipo de Categoría\n\n La cantidad de generación de residuos está determinada mediante el estudio de caracterización de\n residuos sólidos no peligrosos y sus proyecciones para cada categoría, más la absorción porcentual\n de residuos generados por barrido de calles, sobre esta base se determina los porcentajes de aplicación\n de cantidad de residuos por cada categoría, de acuerdo a la siguiente fórmula:\n\n Categorías. -\n\n Cantidad de Toneladas Año con Absorción Porcentual de Barrido de Calles =\n\n Total Toneladas Año Categoría Año Anterior + [(Total Toneladas Categoría Año Anterior\n\n /Total Toneladas Residuo Sólido No Peligroso Año Anterior)*(Total Toneladas Residuo Sólido No\n Peligroso por Barrido de Calles Año Anterior)]\n\n Art. 10.- Cálculo de Tarifa de la Gestión Integral de Residuos Sólidos para todas las Categorías.\n\n El Gobierno Autónomo Descentralizado del Cantón Montúfar determinará, de forma anual, el valor a\n ser considerado como base imponible para el cálculo de la tarifa por la prestación del servicio de\n gestión integral de residuos sólidos no peligrosos\n\n La tarifa base para la Categoría se calcula de acuerdo a la siguiente fórmula:\n\n Tarifa Categoría = Costo Total Anual de Residuos No Peligrosos de la Categoría del Año Anterior,\n dividido para la periodicidad de cobro (12 meses), dividido para, el número de abonados en\n Categoría Año anterior.\n\n Art. 11.- Porcentaje de Reducción de la Tarifa de Gestión Integral de Residuos Sólidos, por\n Consideraciones Sociales a las Categorías.\n\n -      Usuarios con discapacidad: Reducción de hasta un 50% en el valor a pagar.\n\n Art. 12.- Aplicación de la Reducción en la Tarifa.- El porcentaje a ser reducido en el cobro de la\n tarifa por la prestación del servicio GIRS se verá reflejado en la factura respectiva.\n\n Art. 13.- Cobro de la Tarifa por Prestación del Servicio de Gestión Integral de Residuos Sólidos.- El\n cobro de la tarifa por la prestación del servicio de gestión integral de residuos sólidos se realizará\n mediante facturación mensual formulada por el GAD Municipal, la cual será emitida a todos los\n usuarios del servicio, especificando el concepto y el valor correspondiente, de conformidad al catastro\n predial del sector urbano y rural del Cantón Montúfar que mantiene la institución municipal. El pago\n se podrá realizar de conformidad a la disposición general primera establecida en al presente\n ordenanza. El cobro se realizará el equivalente al porcentaje del Salario Básico Unificado, de\n conformidad al siguiente detalle:\n\n\n\n                                                  41\n                                                                                          Página 7 de 12\n\n\nLunes 19 de enero de 2026                                    Edición Especial Nº 969 - Registro Oficial\n\n               Sector         Número de       Pago USD      Pago USD            Total          Total\n                                Predios        Mensual        Anual             USD            USD\n                                                % SBU                         Mensual         Anual\n               Urbano            7333            0,42             24          14666,00        175992\n                Rural           11500           0,21 %            12            11500        138.000\n\n             Comercial                          0.53 %\n                Total           18833                                           26166         313992\n\n\n               Unidad cobro por mes                 Razón Social                        Tarifa mes.\n ESPECIAL          Factura mensual        ALPINA                                   1200,00 año USD\n                   Factura mensual        PANAVIAL                                      60,00 USD\n\n                   Factura mensual        Puentestar Rodríguez Marco Olivo.             40,00 USD\n\n                   Factura mensual        MONTUSAL AC                                   24,00 USD\n\n                   Factura mensual        Productos Lácteos González                    40,00 USD\n\n                   Factura mensual        Supermercado Bastidas                         45.00 USD\n\n\n                                    CATEGORIA                          Nº USUARIOS.\n\n                                      URBANO                               7333\n                                        RURAL                             11500.\n                                     COMERCIAL                              4\n                            INDUSTRIAL – ESPECIAL                           5\n                                        OTROS                               5\n                               TOTAL USUARIOS.                            18847\n\n\n Art. 14.- Facturación.- Ventanilla Única, el Municipio de Montúfar realizará la emisión mensual de\n facturas, por separado, que los usuarios deberán pagar en las ventanillas municipales, bancos u otros\n puntos de pago autorizados.\n\n Art. 15.- Catastro.- De acuerdo a la prestación del servicio de la gestión integral de Residuos Sólidos\n del Cantón Montúfar, la categorización se encontrará en el catastro generado de la Dirección de\n Planificación.\n\n\n                                                   42\n\n\nRegistro Oficial - Edición Especial Nº 969                                Lunes 19 de enero de 2026\n\n DISPOSICIONES GENERALES.\n\n PRIMERA.- Forma de Cobro.- El cobro de la tasa por concepto de servicio de Gestión Integral De\n Residuos Sólidos no Peligrosos en el Cantón Montúfar se cobrará de forma mensual. Sin embargo,\n los contribuyentes podrán pagar el valor total que se genere por el servicio de Gestión Integral de\n Residuos Sólidos no Peligrosos en el Cantón Montúfar, de forma anual, en una sola cuota, hasta el\n 31 de diciembre de cada año; el pago anual no generará intereses, ni recargo alguno por mora;\n aclarando que la exención de intereses o recargos se considerará durante el año fiscal vigente.\n\n SEGUNDA.- Normas supletorias.- En todo cuanto no se encuentre contemplado en esta Ordenanza\n se estará dispuesto en el Código Orgánico de Organización Territorial Autonomía y\n Descentralización; y demás leyes conexas que sean aplicables y no se contrapongan.\n\n DISPOSICIONES TRANSITORIAS:\n\n PRIMERA.- En casos excepcionales y previo informe técnico y aprobación de la autoridad\n competente, se podrá exonerar total o parcialmente el pago de la tasa de recolección de basura a\n aquellos usuarios que justifiquen estar en situación de vulnerabilidad o pobreza extrema, o que hayan\n sido afectados por desastres naturales o circunstancias imprevistas y excepcionales que les impidan\n cumplir con el pago de la tasa.\n\n Para acogerse a esta exoneración, los usuarios deberán presentar una solicitud escrita, acompañada\n de los documentos que certifiquen su situación o circunstancia excepcional.\n\n La Dirección de Planificación y Ordenamiento Territorial en coordinación con la Dirección de\n Protección Ambiental realizarán las inspecciones e informes técnicos necesarios para verificar la\n situación del usuario y determinar la procedencia de la exoneración y emitirán el respectivo informe.\n\n La exoneración del pago de la tasa de recolección de basura se aprobará por parte del Concejo\n Municipal, por un período determinado y podrá ser renovada previa solicitud del usuario y\n verificación de su situación actual.\n\n SEGUNDA.- Se establece un plazo máximo de sesenta días, contados a partir de la fecha de\n aprobación de la presente Ordenanza, para que el equipo técnico de la Dirección de Protección\n Ambiental del GAD Municipal de Montúfar, realicen el levantamiento y actualización de la\n información necesaria y registro de los locales comerciales que serán sujetos al cobro de la tasa\n diferenciada de recolección de basura. La información proporcionada será utilizada para la\n actualización del registro de contribuyentes y la determinación de la tasa de recolección de basura\n correspondiente.\n\n TERCERA.- La Dirección de Protección Ambiental, en coordinación con la Unidad de\n Comunicación, realizarán una difusión masiva de la presente ordenanza, en todo el cantón Montúfar,\n aclarando que la tasa por servicio de Gestión Integral De Residuos Sólidos no Peligrosos en el Cantón\n Montúfar, no corresponde a un nuevo tributo, sino al cambio de modalidad, tomando en cuenta que\n ya no se realizará el cobro a través de la carta de energía eléctrica.\n\n\n                                                  43\n                                                                                         Página 9 de 12\n\n\nLunes 19 de enero de 2026                                                Edición Especial Nº 969 - Registro Oficial\n\n DISPOSICIÓN DEROGATORIA\n\n DISPOSICIÓN DEROGATORIA ÚNICA.- Deróguense todas las disposiciones de igual o menor\n jerarquía que se contrapongan a la presente ordenanza; y todas las resoluciones y disposiciones que\n sobre esta materia se hubieren aprobado anteriormente, en especial la Tercera Reforma para Regular\n la Tarifa por Prestación del Servicio Gestión Integral de residuos sólidos no peligrosos en el Cantón\n Montúfar, aprobada en sesiones ordinarias llevadas a efecto los días trece y veinte de octubre del\n 2022.\n\n DISPOSICIÓN FINAL\n\n DISPOSICIÓN FINAL ÚNICA.- La presente ordenanza, entrará en vigencia a partir de su\n aprobación y sanción, sin perjuicio de la publicación en el dominio web institucional y en el Registro\n Oficial del Ecuador.\n\n Dado y firmado en la sala de sesiones del Gobierno Autónomo Descentralizado Municipal de\n Montúfar, a los veintiséis días del mes de diciembre el dos mil veinticinco.\n\n\n\n\n                                                            Firmado electrónicamente por:\n                                                            RAUL PORFIRIO\n                                                            LUCERO BENALCAZAR\n                                                            Validar únicamente con FirmaEC\n\n\n\n\n                            Msc. Raúl Lucero Benalcázar\n              ALCALDE DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                           MUNICIPAL DE MONTÚFAR\n\n\n\n                                                Firmado electrónicamente por:\n                                                JOSE ELIECER TIRIRA\n                                                CHULDE\n                                                Validar únicamente con FirmaEC\n\n\n\n\n                             Dr. Eliécer Tirira\n     SECRETARIO GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                      MUNICIPAL DE MONTÚFAR\n\n\n\n\n SECRETARIA GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n MUNICIPAL DE MONTÚFAR. CERTIFICADO DE DISCUSIÓN; CERTIFICO Que la\n ORDENANZA SUSTITUTIVA PARA REGULAR LA TARIFA POR PRESTACIÓN DEL SERVICIO\n DE GESTIÓN INTEGRAL DE RESIDUOS SOLIDOS NO PELIGROSO EN EL CANTON\n MONTÚFAR, fue discutida y aprobada por el Concejo del Gobierno Autónomo Descentralizado\n Municipal del Cantón Montúfar, en sesión ordinaria del 24 de diciembre del 2025 y sesión\n extraordinaria del 26 de diciembre del 2025 en primera y segunda instancia, respectivamente\n\n\n\n                                                   44                                               Página 10 de 12\n\n\nRegistro Oficial - Edición Especial Nº 969                                        Lunes 19 de enero de 2026\n\n San Gabriel a los veintiséis días del mes de diciembre del dos mil veinticinco. LO CERTIFICO.-\n\n\n\n                                                 Firmado electrónicamente por:\n                                                 JOSE ELIECER TIRIRA\n                                                 CHULDE\n                                                 Validar únicamente con FirmaEC\n\n\n\n\n                             Dr. Eliécer Tirira\n     SECRETARIO GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                      MUNICIPAL DE MONTÚFAR\n\n\n\n SECRETARÍA GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n MUNICIPAL DE MONTÚFAR. San Gabriel a veintiséis de diciembre del 2025, a las 10h30.\n VISTOS; La presente “ORDENANZA SUSTITUTIVA PARA REGULAR LA TARIFA POR\n PRESTACIÓN DEL SERVICIO DE GESTIÓN INTEGRAL DE RESIDUOS SOLIDOS NO\n PELIGROSO EN EL CANTON MONTÚFAR.”, amparado en lo prescrito en el Art. 322, inciso cuarto\n del Código Orgánico de Organización Territorial, Autonomía y Descentralización, “COOTAD”\n elévese a conocimiento del Ejecutivo del Gobierno Autónomo Descentralizado Municipal de\n Montúfar, para su sanción. - Cúmplase.-\n\n\n                                               Firmado electrónicamente por:\n                                               JOSE ELIECER TIRIRA\n                                               CHULDE\n                                               Validar únicamente con FirmaEC\n\n\n\n\n                             Dr. Eliécer Tirira\n     SECRETARIO GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                      MUNICIPAL DE MONTÚFAR\n\n\n\n SECRETARIA GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n MUNICIPAL DE MONTÚFAR. RAZÓN.- Siento como tal, que notifiqué personalmente al señor\n Alcalde del Gobierno Autónomo Descentralizado Municipal de Montúfar, con la providencia que\n antecede, el día de hoy viernes veintiséis de diciembre del 2025, a las 10H30 horas.\n\n Lo certifico:\n\n                                             Firmado electrónicamente por:\n                                             JOSE ELIECER TIRIRA\n                                             CHULDE\n                                             Validar únicamente con FirmaEC\n\n\n\n\n                             Dr. Eliécer Tirira\n     SECRETARIO GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                      MUNICIPAL DE MONTÚFAR\n\n\n                                                   45\n                                                                                             Página 11 de 12\n\n\nLunes 19 de enero de 2026                                               Edición Especial Nº 969 - Registro Oficial\n\n ALCALDÍA DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO MUNICIPAL DE\n MONTÚFAR. San Gabriel, a los veintinueve días del mes de diciembre del 2025, a las 11H50. En\n uso de las atribuciones que me confiere el Art. 322, inciso cuarto del Código Orgánico de\n Organización Territorial, Autonomía y Descentralización, “COOTAD” SANCIONO la presente\n ORDENANZA SUSTITUTIVA PARA REGULAR LA TARIFA POR PRESTACIÓN DEL SERVICIO\n DE GESTIÓN INTEGRAL DE RESIDUOS SOLIDOS NO PELIGROSO EN EL CANTON\n MONTÚFAR.-\n\n Cúmplase y Promúlguese.\n\n\n\n                                                        Firmado electrónicamente por:\n                                                        RAUL PORFIRIO\n                                                        LUCERO BENALCAZAR\n                                                        Validar únicamente con FirmaEC\n\n\n\n\n                               Msc. Raúl Lucero Benalcázar\n                 ALCALDE DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                              MUNICIPAL DE MONTÚFAR\n\n\n\n\n Sancionó y ordenó su promulgación la presente ORDENANZA SUSTITUTIVA PARA REGULAR\n LA TARIFA POR PRESTACIÓN DEL SERVICIO DE GESTIÓN INTEGRAL DE RESIDUOS\n SOLIDOS NO PELIGROSO EN EL CANTON MONTÚFAR el Msc. Raúl Lucero Benalcázar, Alcalde\n del Gobierno Autónomo Descentralizado Municipal de Montúfar, a los veintinueve días del mes de\n diciembre del año dos mil veinticinco-\n\n Lo certifico.\n\n\n                                            Firmado electrónicamente por:\n                                            JOSE ELIECER TIRIRA\n                                            CHULDE\n                                            Validar únicamente con FirmaEC\n\n\n\n\n                             Dr. Eliécer Tirira\n     SECRETARIO GENERAL DEL GOBIERNO AUTÓNOMO DESCENTRALIZADO\n                      MUNICIPAL DE MONTÚFAR\n\n\n\n\n                                                  46                                               Página 12 de 12\n",
+        "anterior": "",
+        "nota": "La tabla maquetada debe cotejarse en la página 42 del original. La explicación de PT04 conserva sus discrepancias; no sustituye un criterio de Rentas ni corrige el texto legal.",
+        "refs": [
+          "RS26 · pp. 35–46",
+          "RSRO · 19-I-2026"
+        ]
+      },
+      {
+        "id": "RSBASE",
+        "articulo": "COOTAD · artículos 566 y 568 · tasas por servicios",
+        "encabezado": "Extractos y explicación del COOTAD · compilación TCE octubre 2026",
+        "texto": "Art. 566: las tasas deben guardar relación con el costo de producción del servicio; se excluyen gastos generales sin relación directa y evidente. En servicios esenciales puede fijarse una tasa inferior al costo si los ingresos generales cubren la diferencia. Esta oración es síntesis.\n\nExtracto literal art. 566: «El monto de las tasas autorizadas por este Código se fijará por ordenanza.»\n\nArt. 568, extracto: «Las tasas serán reguladas mediante ordenanzas, cuya iniciativa es privativa del alcalde municipal o metropolitano, tramitada y aprobada por el respectivo concejo». Entre los servicios señala: «d) Recolección de basura y aseo público».",
+        "anterior": "",
+        "nota": "Que exista competencia para cobrar no demuestra que una liquidación individual o sus costos estén bien calculados. Fuente: NX26, pp. 190–191.",
+        "refs": [
+          "NX26 · arts. 566 y 568, pp. 190–191"
+        ]
+      },
+      {
+        "id": "VRBASE",
+        "articulo": "COOTAD · vialidad provincial, urbana y parroquial rural",
+        "encabezado": "Extractos y síntesis de competencias · compilación TCE octubre 2026",
+        "texto": "Art. 42 b, competencia provincial: «Planificar, construir y mantener el sistema vial de ámbito provincial, que no incluya las zonas urbanas».\n\nArt. 55 c, competencia municipal: «Planificar, construir y mantener la vialidad urbana».\n\nArt. 65 c, competencia parroquial rural: «Planificar y mantener, en coordinación con los gobiernos provinciales, la vialidad parroquial rural».\n\nEl art. 129 desarrolla el ejercicio de la competencia y la coordinación entre niveles, distinguiendo la red estatal, la provincial y la urbana. Esta última oración es síntesis: debe consultarse el artículo completo para un convenio o tramo específico.",
+        "anterior": "",
+        "nota": "La ubicación dentro del cantón no hace municipal toda vía. Los convenios se examinan individualmente, sin confundir obras ejecutadas con longitud total de la red.",
+        "refs": [
+          "NX26 · arts. 42 b, 55 c, 65 c y 129"
         ]
       }
     ],
@@ -6443,11 +6590,1699 @@
         "AV424"
       ],
       "alcance_fuentes": "El anexo original de autoría ministerial se obtuvo de una copia externa (Mariscal Sur), no de una descarga del ministerio. Fue cotejado visualmente en pp. 3–6 y contrastado con un expediente alojado por EPMMOP y el catastro regulatorio del Ministerio de Ambiente y Energía 2026. El catastro lista el AM 059 sin última reforma reportada; no es certificación exhaustiva de vigencia ni corrige la referencia de publicación. La revisión no identificó una derogación expresa, pero queda pendiente recuperar el acuerdo íntegro desde el emisor y la metodología aprobada."
+    },
+    {
+      "fecha": "2026-11-24",
+      "lectores": [],
+      "montufar": "La muestra aporta referencias para revisar APU y presupuestos de Montúfar. No fija el precio que el municipio deba contratar ni prueba sobreprecio: comparar fecha, ubicación, especificaciones, cantidades y alcance equivalentes.",
+      "comprobar": [
+        "APU y oferta adjudicada firmados; especificaciones, espesor, resistencia, cama de arena, transporte y colocación.",
+        "Contrato, órdenes de cambio, reajustes, planillas, cantidades realmente instaladas y actas de recepción.",
+        "Tratamiento del IVA y comparación de rubros homogéneos antes de sacar conclusiones."
+      ],
+      "evitar": [
+        "Presentar el rango como tarifa oficial o promedio nacional.",
+        "Confundir valor total de una obra mixta con precio unitario del adoquinado.",
+        "Identificar contratación con obra recibida o pago final."
+      ],
+      "alcance_fuentes": "Se conserva la investigación anterior íntegra localmente. La web incluye los resultados, la matriz de procesos y enlaces al registro original; los JSON brutos y sus huellas SHA-256 quedan archivados para reproducción.",
+      "id": "PT02",
+      "tema": "Adoquinado · precios SERCOP",
+      "pregunta": "¿Cuánto cuesta el m² de adoquinado en contratos de 2025–2026?",
+      "respuesta": "En cuatro rubros adjudicados asociados a contratos publicados por SERCOP se verificaron USD 14,34; 16,14; 24,26 y 30,60 por m². El rango de esta muestra es USD 14,34–30,60/m². Los espesores, resistencias y trabajos incluidos son diferentes: no existe un precio nacional único demostrado por esta muestra.",
+      "estado": "Cuatro ítems y vínculo adjudicación–contrato cotejados en JSON oficial archivado. No equivalen a precios finales pagados.",
+      "reglas": [
+        [
+          "Qué se verificó",
+          "Cada precio procede de awards.items.unit.value y cada adjudicación tiene al menos un contrato enlazado mediante awardID. La fecha mostrada es la de firma del contrato, no el año escrito en el código del proceso."
+        ],
+        [
+          "Qué incluye el rubro",
+          "Ibarra: adoquín hexagonal de 6 cm, resistencia 400 kg/cm² y cama de arena de 5 cm. La Troncal: suministro e instalación vehicular de 8 cm, 400 kg/cm², incluido transporte. Urcuquí: resistencia 300 kg/cm², cama de arena de 3 cm y emporado. Quito: adoquinado vial hexagonal, 300 kg/cm²; el texto del ítem no permite completar otros componentes."
+        ],
+        [
+          "IVA y costo integral",
+          "El tratamiento del IVA no se determina en estos campos. El precio de un rubro no es necesariamente el costo de una calle terminada: pueden requerirse excavación, subbase/base, drenaje, bordillos, redes, accesibilidad, transporte u otros componentes según diseño y APU. No sumarlos automáticamente si el rubro ya los incluye."
+        ]
+      ],
+      "tabla_tipo": "precios",
+      "refs": [
+        "AD01 · Ibarra, ítem 15483260-RU-SO",
+        "AD02 · La Troncal, ítem 16163056-RU-SO",
+        "AD03 · Urcuquí, ítem 15555146-RU-SO",
+        "AD04 · Quito, ítem 16485630-RU-SO"
+      ]
+    },
+    {
+      "fecha": "2026-11-24",
+      "lectores": [],
+      "montufar": "Para atribuir resultados al período político 2019–2023 se necesitan fecha de posesión, avance físico por fecha, tramos, longitud, ancho, costos y entidad ejecutora. Un contrato de estudio o una compra de adoquines no se cuenta como vía construida.",
+      "comprobar": [
+        "Cuadro municipal de obras ejecutadas y por administración directa, por tramo, fecha, longitud y ancho.",
+        "Planillas acumuladas finales, informes de fiscalización y actas provisional/definitiva.",
+        "Separar obra nueva, reposición y mantenimiento; evitar duplicar tramos o etapas."
+      ],
+      "evitar": [
+        "Búsqueda por años del proceso 2019–2023; las fechas de firma y ejecución pueden diferir del año del código. Atribución de gestión exige fecha de posesión y ejecución física.",
+        "Búsqueda por palabra adoquin/adoquinado y entidad municipal; no es censo de todas las obras de Prefectura, GAD parroquiales o mingas del territorio.",
+        "La API devolvió cero coincidencias 2023 en dos búsquedas; no se interpreta como cero ejecución en 2023.",
+        "Se detectaron repeticiones entre páginas y búsquedas; se deduplicó por OCID. No se declara exhaustividad.",
+        "Los estados terminated no sustituyen acta de recepción satisfactoria ni cantidades finales.",
+        "Los precios son rubros adjudicados vinculados a contratos, no certificación de pago final o APU completo firmado. No se confirma IVA por falta de ese campo.",
+        "La muestra tiene diferentes espesores, resistencias, ubicaciones y alcances. No se calcula promedio nacional.",
+        "No convertir m² a km usando un ancho arbitrario, ni dividir el precio total de una obra mixta por el precio del rubro de adoquín."
+      ],
+      "alcance_fuentes": "Los 43 procesos y sus registros de origen se pueden consultar en el detalle de esta ficha. Cada cantidad de una adjudicación conserva su unidad; no se transforma la unidad global de contratación en m² instalados.",
+      "id": "PT03",
+      "tema": "Adoquinado · Montúfar 2019–2023",
+      "pregunta": "¿Cuántos kilómetros de adoquinado se ejecutaron en Montúfar entre 2019 y 2023?",
+      "respuesta": "No se ha podido establecer un total verificable del período. Se identificaron y deduplicaron 43 procesos de SERCOP relacionados con adoquinado: 35 de obras, 2 de servicios, 1 de bienes y 5 sin categoría publicada. Los registros por sí solos no certifican longitudes instaladas, recepción satisfactoria ni ejecución durante una administración determinada.",
+      "estado": "Inventario documental disponible; total de kilómetros ejecutados pendiente de planillas y actas por tramo.",
+      "reglas": [
+        [
+          "Dato anual localizado",
+          "La rendición municipal 2021 reporta 12.795,44 m² vinculados a mantenimiento vial. Se contrastó en extractos indexados de dos documentos municipales; no se consiguió cotejar íntegramente esos PDF por problemas del servidor. Es un dato reportado con verificación limitada, no obra nueva neta ni total del mandato."
+        ],
+        [
+          "Búsqueda y cobertura",
+          "Se buscaron adoquin/adoquinado y entidad municipal por años 2019–2023, deduplicando por OCID. Las fechas de firma y ejecución pueden diferir del año del proceso. No es censo de obras de Prefectura, GAD parroquiales o mingas."
+        ],
+        [
+          "Conversión correcta",
+          "Longitud de un tramo (m) = superficie realmente adoquinada (m²) ÷ ancho efectivo de ese tramo (m), únicamente si geometría y mediciones lo justifican. Para kilómetros se divide entre 1.000. Sin ancho documentado no se hace la conversión."
+        ],
+        [
+          "Estados y ausencia de datos",
+          "terminated es el estado publicado en el registro, no un acta de recepción satisfactoria. Cero resultados de búsqueda en 2023 no demuestra cero obras ni cero ejecución."
+        ]
+      ],
+      "tabla_tipo": "procesos",
+      "refs": [
+        "ADRC · rendición 2021, dato reportado",
+        "ADACT · acta de contraste, enero 2022"
+      ]
+    },
+    {
+      "fecha": "2026-11-24",
+      "lectores": [
+        "RSORD",
+        "RSBASE"
+      ],
+      "montufar": "La tabla proyecta USD 313.992 anuales para urbano y rural (175.992 + 138.000). Es una proyección del texto, no recaudación efectiva ni costo total del sistema. No acredita equilibrio financiero. Faltan cédulas de ingresos, costos del servicio, catastro de beneficiarios, exoneraciones y cartera. No se deduce obligación individual solo por poseer un predio sin verificar el servicio y la situación jurídica.",
+      "comprobar": [
+        "Liquidación o instructivo de Rentas 2026, base SBU usada, criterio de redondeo y aclaración de la diferencia entre porcentajes y valores anuales.",
+        "Ordenanza consolidada y eventuales reformas posteriores; estudio técnico de costos, caracterización de residuos y socialización.",
+        "Catastro de usuarios efectivamente servidos, categorías, rutas y frecuencia; tratamiento de varios predios o varios usuarios en un inmueble.",
+        "Presupuesto codificado y recaudado 2026 de la tasa, subsidio municipal, cartera y costo por tonelada; no confundir proyección con ingreso real.",
+        "Aplicación de beneficios legales, exoneraciones y canal de revisión de una liquidación individual."
+      ],
+      "evitar": [
+        "Afirmar sin aclaración que se cobran exactamente USD 2 y USD 1 al mes en 2026.",
+        "Presentar 0,42 o 0,21 como dólares: la columna se refiere a % del SBU.",
+        "Aplicar tarifas sanitarias o industriales como tarifa residencial general.",
+        "Tratar una diferencia aritmética como prueba automática de ilegalidad o mala gestión."
+      ],
+      "alcance_fuentes": "Fuente principal: PDF íntegro del Registro Oficial alojado por la Corte Constitucional, con tabla cotejada visualmente. No se localizó una reforma posterior en las búsquedas efectuadas al 24-XI-2026; ello no certifica exhaustividad ni la tarifa aplicada en ventanilla. El portal municipal tuvo fallas de certificado y se consultaron páginas públicas con esa limitación registrada.",
+      "id": "PT04",
+      "tema": "Residuos sólidos · tasa municipal",
+      "pregunta": "¿Qué tasa de residuos sólidos regula Montúfar y cómo se cobra?",
+      "respuesta": "La ordenanza sustitutiva de tarifa fue aprobada el 26-XII-2025, sancionada el 29-XII-2025 y publicada en el Registro Oficial, Edición Especial 969, de 19-I-2026. Establece facturación municipal mensual. Su tabla contiene valores anuales de USD 24 para urbano y USD 12 para rural, junto con porcentajes del SBU que no coinciden exactamente con esos valores al aplicarlos al SBU 2026. No se certifica aquí el importe efectivamente liquidado a cada usuario.",
+      "estado": "Texto y tabla del Registro Oficial cotejados; liquidación municipal vigente y criterio de redondeo pendientes de obtener.",
+      "reglas": [
+        [
+          "Qué servicio financia",
+          "Los arts. 1–6 vinculan la tasa a la gestión integral y a quienes se benefician del servicio en áreas urbanas y rurales. No es un precio de compraventa ni debe confundirse con el impuesto predial, aunque se use el catastro para emitir la facturación."
+        ],
+        [
+          "Quién tiene competencia",
+          "COOTAD art. 55 d: manejo de desechos sólidos y saneamiento ambiental como competencia municipal. Art. 568: la tasa se regula mediante ordenanza de iniciativa del alcalde, aprobada por el Concejo. Art. 566: relación con el costo del servicio; excluye gastos generales sin relación directa y evidente y permite tasas inferiores al costo en servicios esenciales si el presupuesto cubre la diferencia."
+        ],
+        [
+          "Cómo se calcula según el texto",
+          "Art. 8 enumera personal operativo, operación y mantenimiento, equipos de protección, depreciación y gastos relacionados. Art. 9 distribuye generación por categorías y barrido. Art. 10 presenta costo anual de la categoría del año anterior ÷ 12 ÷ abonados de esa categoría. Debe solicitarse el estudio de costos para reproducirlo."
+        ],
+        [
+          "Dónde y cuándo pagar",
+          "Arts. 13–14: facturas mensuales emitidas por el municipio, pagaderas en ventanillas municipales, bancos u otros puntos autorizados. La disposición general primera permite pagar el total anual hasta el 31 de diciembre sin intereses ni recargos dentro del mismo ejercicio fiscal; no es una amnistía general de años anteriores."
+        ],
+        [
+          "Cambio de mecanismo",
+          "La transitoria tercera dice que no es un tributo nuevo, sino cambio de modalidad: ya no se recauda mediante la carta de energía eléctrica. Esa declaración no demuestra por sí sola que cada usuario pague el mismo importe anterior."
+        ],
+        [
+          "Beneficios del texto nuevo",
+          "Art. 11: reducción de hasta el 50% para usuarios con discapacidad, reflejada en factura (art. 12). Transitoria primera: exoneración excepcional total o parcial por vulnerabilidad, pobreza extrema, desastres u otras circunstancias, con solicitud, informes y aprobación del Concejo por plazo determinado. No es automática. No trasladar sin examen las rebajas de una ordenanza anterior; revisar también los beneficios de leyes superiores aplicables a cada caso."
+        ],
+        [
+          "Qué reemplaza",
+          "La derogatoria se refiere expresamente a la tercera reforma de octubre de 2022 y a disposiciones anteriores sobre la materia. El considerando menciona octubre de 2025 para ese antecedente: hay una discordancia de fecha que debe aclararse con el expediente. No se afirma que toda la ordenanza ambiental de gestión de residuos haya quedado derogada."
+        ]
+      ],
+      "tabla_tipo": "residuos",
+      "refs": [
+        "RS26 · ordenanza, pp. 35–46; tabla p. 42",
+        "RSRO · publicación oficial 19-I-2026",
+        "RSBU · SBU 2026 USD 482",
+        "NX26 · arts. 55 d, 566 y 568"
+      ]
+    },
+    {
+      "id": "PT05",
+      "tema": "Vialidad rural · inventario y competencias",
+      "pregunta": "¿Cuántos kilómetros de vialidad rural registra el inventario para Montúfar?",
+      "respuesta": "La tabla 76 del PDOT provincial del Carchi 2023–2027 registra 386,68 km de red vial provincial en Montúfar. La fuente de base es la Línea Base del Plan de Desarrollo Vial Integral y la Dirección de Obras Públicas provincial, con elaboración de 2024. Es el total documentado de ese inventario; no se certifica que sea el total actualizado a noviembre de 2026 de todos los caminos rurales existentes.",
+      "fecha": "2026-11-24",
+      "estado": "Tabla 76 cotejada en PDF oficial de la Prefectura; corte de los insumos 2024, actualización 2026 pendiente.",
+      "reglas": [
+        [
+          "Qué mide",
+          "Longitud de la red vial provincial inventariada que se ubica en el cantón. No se confunde el territorio con la entidad responsable ni se suman sin depuración redes estatal, urbana y provincial."
+        ],
+        [
+          "Año y documento",
+          "Se consultó la versión alineada del PDOT provincial 2023–2027 publicada en la nube oficial del Carchi. La tabla cita insumos de 2024. La fecha de consulta o de modificación del PDF no actualiza por sí sola la fecha del inventario."
+        ],
+        [
+          "Cómo leer las superficies",
+          "DTSB y pavimento flexible están publicados como categorías distintas. No se renombra todo el DTSB como carpeta asfáltica. Los 3,19 km adoquinados son existencias de la red inventariada, no una certificación de obras nuevas municipales de 2019–2023."
+        ],
+        [
+          "Competencias",
+          "COOTAD art. 42 b: sistema vial de ámbito provincial que no incluya zonas urbanas. Art. 55 c: vialidad urbana municipal. Art. 65 c: el GAD parroquial rural planifica y mantiene vialidad parroquial rural en coordinación con el provincial. Art. 129 desarrolla la coordinación y distingue la red estatal. Intervenir mediante convenio no cambia automáticamente la titularidad de la red."
+        ],
+        [
+          "Inventario frente a gestión",
+          "386,68 km de red no significan 386,68 km asfaltados ni construidos por una administración. Mantenimiento reiterado de un mismo tramo tampoco incrementa la extensión de la red."
+        ]
+      ],
+      "tabla_tipo": "vialidad",
+      "lectores": [
+        "VRBASE"
+      ],
+      "montufar": "Para usar el número en una decisión actual se debe solicitar a la Prefectura un inventario georreferenciado 2026 por tramo, superficie, estado y jurisdicción, y cruzarlo con los perímetros urbanos y la red estatal. No se restan o agregan longitudes de planes con coberturas diferentes sin identificar los tramos.",
+      "comprobar": [
+        "Inventario 2026 con códigos únicos, geometrías y fecha de levantamiento de cada tramo.",
+        "Separación de red provincial rural, red estatal y red urbana conforme a sus límites vigentes.",
+        "Cambios de superficie, nuevas aperturas, duplicaciones y caminos no incluidos en la base de 2024.",
+        "Convenios y actas por obra para atribuir intervenciones, además de longitud de la red."
+      ],
+      "evitar": [
+        "Presentar 386,68 km como dato levantado en noviembre de 2026.",
+        "Confundir longitud existente con obra ejecutada o mantenida durante un mandato.",
+        "Atribuir toda la red rural exclusivamente al municipio.",
+        "Sumar categorías funcionales superpuestas de vías que sirven a varios destinos."
+      ],
+      "refs": [
+        "VRP · tabla 76, p. impresa 216 / PDF 212",
+        "NX26 · arts. 42 b, 55 c, 65 c y 129"
+      ],
+      "alcance_fuentes": "Se obtuvo el PDF completo de 538 páginas desde la nube oficial de la Prefectura (265,7 MB). Se conserva íntegro localmente y se facilita un extracto de la página de la tabla para consulta ágil. El total de las siete superficies de Montúfar suma 386,68 km; no se extrapolan porcentajes de otros cantones."
     }
   ],
+  "adoquinado": {
+    "fecha_consulta": "2026-11-24",
+    "fuente_precios": "API oficial SERCOP OCDS; rubros de adjudicaciones vinculadas por awardID a contratos publicados",
+    "muestra": [
+      {
+        "caso": "ibarra2025",
+        "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO DE SAN MIGUEL DE IBARRA",
+        "ocid": "ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+        "adjudicacion": "2025-10-01T18:18:30-05:00",
+        "contrato": "2025-11-13T00:00:00-05:00",
+        "monto_contrato": {
+          "amount": 4371285.94,
+          "currency": "USD"
+        },
+        "item": "15483260-RU-SO",
+        "descripcion": "ADOQUINADO VEHICULAR HEXAGONAL GRIS F´C=400Kg/CM2; E = 6 CM (INCLUYE CAMA DE ARENA E = 5 CM)",
+        "cantidad": 2279.61,
+        "unidad": "Metro Cuadrado",
+        "precio_unitario": {
+          "amount": 16.14,
+          "currency": "USD"
+        },
+        "nivel": "Rubro adjudicado asociado a contrato registrado",
+        "iva": "No determinado por estos campos del OCDS",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+        "archivo": "fuentes/ibarra2025_record.html"
+      },
+      {
+        "caso": "troncal2025",
+        "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL LA TRONCAL",
+        "ocid": "ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+        "adjudicacion": "2025-11-25T09:25:45-05:00",
+        "contrato": "2025-12-02T00:00:00-05:00",
+        "monto_contrato": {
+          "amount": 108379.17,
+          "currency": "USD"
+        },
+        "item": "16163056-RU-SO",
+        "descripcion": "Suministro e instalación de adoquin de hormigón vibroprensado (vehicular), e=8cm f´c=400 kg/cm2 (inc. Transporte)",
+        "cantidad": 2054,
+        "unidad": "Metro Cuadrado",
+        "precio_unitario": {
+          "amount": 24.26,
+          "currency": "USD"
+        },
+        "nivel": "Rubro adjudicado asociado a contrato registrado",
+        "iva": "No determinado por estos campos del OCDS",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+        "archivo": "fuentes/troncal2025_record.html"
+      },
+      {
+        "caso": "urcuqui2025",
+        "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+        "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+        "adjudicacion": "2025-12-12T15:24:15-05:00",
+        "contrato": "2025-12-31T00:00:00-05:00",
+        "monto_contrato": {
+          "amount": 1459862.57,
+          "currency": "USD"
+        },
+        "item": "15555146-RU-SO",
+        "descripcion": "ADOQUINADO (FC300 KGCM2) INCLUYE CAMA DE ARENA E3CM Y EMPORADO",
+        "cantidad": 195.64,
+        "unidad": "Metro Cuadrado",
+        "precio_unitario": {
+          "amount": 30.6,
+          "currency": "USD"
+        },
+        "nivel": "Rubro adjudicado asociado a contrato registrado",
+        "iva": "No determinado por estos campos del OCDS",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+        "archivo": "fuentes/urcuqui2025_record.html"
+      },
+      {
+        "caso": "quito2026",
+        "entidad": "Empresa Publica Metropolitana de Movilidad y Obras Publicas",
+        "ocid": "ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+        "adjudicacion": "2026-02-06T14:59:49-05:00",
+        "contrato": "2026-03-05T00:00:00-05:00",
+        "monto_contrato": {
+          "amount": 290106.29,
+          "currency": "USD"
+        },
+        "item": "16485630-RU-SO",
+        "descripcion": "ADOQUINADO VIAL HEXAGONAL BLOQUES DE HORMIGÓN f 'c=300Kg/cm2.",
+        "cantidad": 1111,
+        "unidad": "Metro Cuadrado",
+        "precio_unitario": {
+          "amount": 14.34,
+          "currency": "USD"
+        },
+        "nivel": "Rubro adjudicado asociado a contrato registrado",
+        "iva": "No determinado por estos campos del OCDS",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+        "archivo": "fuentes/quito2026_record.html"
+      }
+    ],
+    "rango_muestra_usd_m2": [
+      14.34,
+      30.6
+    ],
+    "precio_nacional_unico": null,
+    "iva_verificado": false,
+    "procesos_montufar_descargados": 43,
+    "categorias_montufar": {
+      "services": 2,
+      "sin categoría publicada": 5,
+      "works": 35,
+      "goods": 1
+    },
+    "total_km_ejecutados_2019_2023": null,
+    "dato_municipal_2021": {
+      "superficie_reportada_m2": 12795.44,
+      "alcance": "Resultado reportado en rendición 2021 vinculado a meta de mantenimiento vial; no certifica total del mandato, obra nueva neta ni kilómetros lineales",
+      "fuente": "https://www.gadmontufar.gob.ec/documents/RendicionCuentas2021.pdf",
+      "contraste": "https://gadmontufar.gob.ec/documents/link/actaN%C2%B002parte_pertinente_ene2022.pdf",
+      "metodo": "Extractos indexados de documentos oficiales; descarga directa bloqueada por problema de cadena de certificado y aperturas web fallidas. No se afirma cotejo visual del PDF íntegro."
+    },
+    "limites": [
+      "Búsqueda por años del proceso 2019–2023; las fechas de firma y ejecución pueden diferir del año del código. Atribución de gestión exige fecha de posesión y ejecución física.",
+      "Búsqueda por palabra adoquin/adoquinado y entidad municipal; no es censo de todas las obras de Prefectura, GAD parroquiales o mingas del territorio.",
+      "La API devolvió cero coincidencias 2023 en dos búsquedas; no se interpreta como cero ejecución en 2023.",
+      "Se detectaron repeticiones entre páginas y búsquedas; se deduplicó por OCID. No se declara exhaustividad.",
+      "Los estados terminated no sustituyen acta de recepción satisfactoria ni cantidades finales.",
+      "Los precios son rubros adjudicados vinculados a contratos, no certificación de pago final o APU completo firmado. No se confirma IVA por falta de ese campo.",
+      "La muestra tiene diferentes espesores, resistencias, ubicaciones y alcances. No se calcula promedio nacional.",
+      "No convertir m² a km usando un ancho arbitrario, ni dividir el precio total de una obra mixta por el precio del rubro de adoquín."
+    ],
+    "procesos_montufar": [
+      {
+        "ocid": "ocds-5wno2w-CDC-GADMM-001-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ESTUDIOS Y DISEÑOS DEFINITIVOS PARA EL ADOQUINADO DE VÍAS URBANAS Y CABECERAS PARROQUIALES DEL CANTÓN MONTÚFAR",
+        "categoria": "services",
+        "contratos": [
+          {
+            "id": "2118785-CDC-GADMM-001-2022",
+            "firma": "2022-04-27T00:00:00-05:00",
+            "valor": {
+              "amount": 40000,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2022-07-05T00:00:00-05:00",
+              "startDate": "2022-05-06T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3467346-DS-SO",
+            "descripcion": "SERVICIOS DE DELINEACION (PLANOS DETALLADOS, DIBUJOS, PLANOS E ILUSTRACIONES DE EDIFICIOS, ESTRUCTURAS, SISTEMAS O COMPONENTES DE ESPECIFICACIONES DE INGENIERIA Y ARQUITECTURA, HECHOS POR DELINEANTES DE ARQUITECTURA O TECNICOS DE INGENIERIA)",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CDC-GADMM-001-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-CDC-GADMM-001-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-CDC-GADMM-003-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "“ESTUDIOS, DE ADOQUINADO Y ALCANTARILLADO DE LOS EJES VIALES DE LA CABECERA CANTONAL DE MONTUFAR”.",
+        "categoria": "services",
+        "contratos": [
+          {
+            "id": "2110038-CDC-GADMM-003-2021",
+            "firma": "2022-01-10T00:00:00-05:00",
+            "valor": {
+              "amount": 39899.28,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2022-03-19T00:00:00-05:00",
+              "startDate": "2022-01-18T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3396978-DS-SO",
+            "descripcion": "SERVICIOS DE DELINEACION (PLANOS DETALLADOS, DIBUJOS, PLANOS E ILUSTRACIONES DE EDIFICIOS, ESTRUCTURAS, SISTEMAS O COMPONENTES DE ESPECIFICACIONES DE INGENIERIA Y ARQUITECTURA, HECHOS POR DELINEANTES DE ARQUITECTURA O TECNICOS DE INGENIERIA)",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CDC-GADMM-003-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-CDC-GADMM-003-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-CE-20190001660369-21655",
+        "anio_busqueda": 2019,
+        "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+        "categoria": "sin categoría publicada",
+        "contratos": [
+          {
+            "id": "CE-20190001660369-contract",
+            "firma": null,
+            "valor": null,
+            "estado_original": "terminated",
+            "periodo_programado": null,
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "8001-PE-C",
+            "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+            "cantidad": 101000,
+            "unidad": null
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20190001660369-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-CE-20190001660369-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-CE-20200001880493-21655",
+        "anio_busqueda": 2020,
+        "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+        "categoria": "sin categoría publicada",
+        "contratos": [
+          {
+            "id": "CE-20200001880493-contract",
+            "firma": null,
+            "valor": null,
+            "estado_original": "terminated",
+            "periodo_programado": null,
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "8001-PE-C",
+            "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+            "cantidad": 10000,
+            "unidad": null
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20200001880493-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-CE-20200001880493-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-CE-20200001946203-21655",
+        "anio_busqueda": 2020,
+        "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+        "categoria": "sin categoría publicada",
+        "contratos": [
+          {
+            "id": "CE-20200001946203-contract",
+            "firma": null,
+            "valor": null,
+            "estado_original": "terminated",
+            "periodo_programado": null,
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "8001-PE-C",
+            "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+            "cantidad": 45454,
+            "unidad": null
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20200001946203-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-CE-20200001946203-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-CE-20220002232814-21655",
+        "anio_busqueda": 2022,
+        "objeto": "Orden de compra para adquirir los siguientes productos:  ADOQUINES HEXAGONALES DE CONCRETO  400 KG/CM2 DE RESISITENCIA",
+        "categoria": "sin categoría publicada",
+        "contratos": [
+          {
+            "id": "CE-20220002232814-contract",
+            "firma": null,
+            "valor": null,
+            "estado_original": "active",
+            "periodo_programado": null,
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "8001-PE-C",
+            "descripcion": "ADOQUINES HEXAGONALES DE CONCRETO 400 KG/CM2 DE RESISTENCIA",
+            "cantidad": 57000,
+            "unidad": null
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-CE-20220002232814-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-CE-20220002232814-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-COTO-GADMM-002-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO Y CAMBIO DE REDES DE ALCANTARILLADO Y AGUA POTABLE EN LAS CALLES RIO DAULE, RIO CHIMBO, RIO CHAMBO, TOMEBAMBA, RIO SAN GABRIEL, RIO GUAYAS Y YANUNCAY",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152624-COTO-GADMM-002-2022",
+            "firma": "2022-12-06T00:00:00-05:00",
+            "valor": {
+              "amount": 453546.19,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-04-13T00:00:00-05:00",
+              "startDate": "2022-12-14T00:00:00-05:00",
+              "durationInDays": 120
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3624633-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-COTO-GADMM-002-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-002-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-COTO-GADMM-003-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO Y ALCANTARILLADO DE LA CALLE 27 DE SEPTIEMBRE DESDE E-35 HASTA CALLE COLON, ADOQUINADO Y CAMBIO DE ALCANTARILLADO Y AGUA POTABLE EN LA CALLE RUMICHACA Y ALCANTARILLADO Y ADOQUINADO DE LA CALLE ROBERTO ANDINO DESDE ANTIGUO MERCADO AGROGANADERO HASTA CALLE RIO COFANES",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-COTO-GADMM-003-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-003-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-COTO-GADMM-004-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO Y ALCANTARILLADO DE LA CALLE 27 DE SEPTIEMBRE DESDE E-35 HASTA CALLE COLON, ADOQUINADO Y CAMBIO DE ALCANTARILLADO Y AGUA POTABLE EN LA CALLE RUMICHACA Y ALCANTARILLADO Y ADOQUINADO DE LA CALLE ROBERTO ANDINO DESDE ANTIGUO MERCADO AGROGANADERO HASTA CALLE RIO COFANES",
+        "categoria": "sin categoría publicada",
+        "contratos": [],
+        "unidades_adjudicadas": [],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-COTO-GADMM-004-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-004-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0004-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE EL EJIDO DESDE LA CALLE LOS PASTOS HASTA LA CALLE CUENCA",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3435118-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0004-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0004-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0009-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO SECTOR LA IGLESIA COMUNIDAD LA DELICIA BAJA",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2134065-MCO-GADMM-0009-2022",
+            "firma": "2022-08-19T00:00:00-05:00",
+            "valor": {
+              "amount": 24999.77,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2022-10-31T00:00:00-05:00",
+              "startDate": "2022-09-01T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3566824-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0009-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0009-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0010-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO DEL CAMINO PRINCIPAL DE LA COMUNIDAD DE CHILES ALTO",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2138321-MCO-GADMM-0010-2022",
+            "firma": "2022-09-19T00:00:00-05:00",
+            "valor": {
+              "amount": 32582.24,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2022-12-03T00:00:00-05:00",
+              "startDate": "2022-10-04T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3578289-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0010-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0010-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0013-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CAMBIO DE REDES DE AGUA POTABLE Y ALCANTARILLADO DE LAS CALLES OSWALDO NAVARRETE Y 24 DE JUNIO, JUNTO A LA IGLESIA DE CHUTAN BAJO",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152412-MCO-GADMM-0013-2022",
+            "firma": "2022-11-16T00:00:00-05:00",
+            "valor": {
+              "amount": 49996.48,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-03-07T00:00:00-05:00",
+              "startDate": "2022-12-07T00:00:00-05:00",
+              "durationInDays": 90
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3625386-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0013-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0013-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0014-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO DEL PERIMETRO PRINCIPAL DE LA COMUNDAD DEL CAPULÍ",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2150414-MCO-GADMM-0014-2022",
+            "firma": "2022-11-17T00:00:00-05:00",
+            "valor": {
+              "amount": 119999.01,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-04-14T00:00:00-05:00",
+              "startDate": "2022-12-15T00:00:00-05:00",
+              "durationInDays": 120
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3625670-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0014-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0014-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0015-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO Y CAMBIO DE ALCANTARILLADO Y RED DE AGUA POTABLE DE LA CALLE 28 DE OCTUBRE PARROQUIA LA PAZ",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2150283-MCO-GADMM-0015-2022",
+            "firma": "2022-11-30T00:00:00-05:00",
+            "valor": {
+              "amount": 219999.82,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-04-18T00:00:00-05:00",
+              "startDate": "2022-12-19T00:00:00-05:00",
+              "durationInDays": 120
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3626034-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0015-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0015-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0016-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE LUIS CHAMORRO DESDE NICANOR GAVILANEZ HASTA JESUS DEL GRAN PODER”",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2144546-MCO-GADMM-0016-2022",
+            "firma": "2022-11-17T00:00:00-05:00",
+            "valor": {
+              "amount": 39965.47,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-01-27T00:00:00-05:00",
+              "startDate": "2022-11-28T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3630312-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0016-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0016-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0017-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE SANTA ROSA DESDE CALLE COLÓN HASTA NICANOR GAVILANEZ",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152422-MCO-GADMM-0017-2022",
+            "firma": "2022-12-06T00:00:00-05:00",
+            "valor": {
+              "amount": 214200.09,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-04-13T00:00:00-05:00",
+              "startDate": "2022-12-14T00:00:00-05:00",
+              "durationInDays": 120
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3632159-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0017-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0017-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0018-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE LUIS ROJAS Y CALLE LUIS CHAMORRO HASTA CASA ADULTO MAYOR PARROQUIA PIARTAL",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2147819-MCO-GADMM-0018-2022",
+            "firma": "2022-11-17T00:00:00-05:00",
+            "valor": {
+              "amount": 56395.18,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-01-23T00:00:00-05:00",
+              "startDate": "2022-11-24T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3632526-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0018-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0018-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0019-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO Y CAMBIO DE RED DE AGUA POTABLE Y ALCANTARILLADO EN LA CALLE MANUELA SAENZ EN LA COOP. UNIÓN MONTUFAREÑA",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2150453-MCO-GADMM-0019-2022",
+            "firma": "2022-12-01T00:00:00-05:00",
+            "valor": {
+              "amount": 87998.42,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-02-19T00:00:00-05:00",
+              "startDate": "2022-12-06T00:00:00-05:00",
+              "durationInDays": 75
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3632785-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0019-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0019-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-002-2019-21655",
+        "anio_busqueda": 2019,
+        "objeto": "ADOQUINADO DE CALLE MONTÚFAR DESDE CALE JOSÉ B. AÚZ HASTA CALLE EZEQUIEL LANDÁZURI, UBICADO EN LA PARROQUIA GONZÁLES SUAREZ - CANTÓN MONTÚFAR",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "2778273-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-002-2019-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-002-2019-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-002-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ALCANTARILLADO Y ADOQUINADO CALLE RIO CHINCHIPE",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3196437-DS-SO",
+            "descripcion": "CONSTRUCCION DE REDES URBANAS DE ALCANTARILLADO",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-002-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-002-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0020-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE CARCHI PARROQUIA CRISTÓBAL COLÓN",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152596-MCO-GADMM-0020-2022",
+            "firma": "2022-12-07T00:00:00-05:00",
+            "valor": {
+              "amount": 103928.83,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-03-15T00:00:00-05:00",
+              "startDate": "2022-12-15T00:00:00-05:00",
+              "durationInDays": 90
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3632988-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0020-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0020-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0021-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE RIO APAQUI",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2150479-MCO-GADMM-0021-2022",
+            "firma": "2022-12-08T00:00:00-05:00",
+            "valor": {
+              "amount": 129465.2,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-03-14T00:00:00-05:00",
+              "startDate": "2022-12-14T00:00:00-05:00",
+              "durationInDays": 90
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3633349-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0021-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0021-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0022-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO CALLE HUGO GONZALEZ EN EL BARRIO SANTA MARTHA DE INDUJEL",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2147883-MCO-GADMM-0022-2022",
+            "firma": "2022-11-21T00:00:00-05:00",
+            "valor": {
+              "amount": 39990.85,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-01-23T00:00:00-05:00",
+              "startDate": "2022-11-24T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3634308-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0022-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0022-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0025-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ALCANTARILLADO Y ADOQUINADO DE LA URBANIZACIÓN MUNICIPAL DE LA CIUDAD DE SAN GABRIEL - FASE I",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152456-MCO-GADMM-0025-2022",
+            "firma": "2022-11-29T00:00:00-05:00",
+            "valor": {
+              "amount": 159990.56,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-04-13T00:00:00-05:00",
+              "startDate": "2022-12-14T00:00:00-05:00",
+              "durationInDays": 120
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3639066-DS-SO",
+            "descripcion": "SERVICIOS DE CONSTRUCCION CONDUCCIONES DE REDES URBANAS    (INCLUIDAS LAS OBRAS AUXILIARES COMO ESTACIONES DE BOMBEO).",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0025-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0025-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0026-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO COMUNIDAD EL TAMBO",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2150433-MCO-GADMM-0026-2022",
+            "firma": "2022-11-30T00:00:00-05:00",
+            "valor": {
+              "amount": 26015.1,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-01-23T00:00:00-05:00",
+              "startDate": "2022-12-09T00:00:00-05:00",
+              "durationInDays": 45
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3639581-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0026-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0026-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0027-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO COMUNIDAD EL COLORADO",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2149855-MCO-GADMM-0027-2022",
+            "firma": "2022-11-29T00:00:00-05:00",
+            "valor": {
+              "amount": 35481.9,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-02-02T00:00:00-05:00",
+              "startDate": "2022-12-19T00:00:00-05:00",
+              "durationInDays": 45
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3639607-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0027-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0027-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0028-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO COMUNIDAD DE HUAQUER",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152748-MCO-GADMM-0028-2022",
+            "firma": "2022-11-30T00:00:00-05:00",
+            "valor": {
+              "amount": 39239.41,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-02-05T00:00:00-05:00",
+              "startDate": "2022-12-07T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3639633-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0028-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0028-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0029-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO COMUNIDAD DE PIZAN",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2147639-MCO-GADMM-0029-2022",
+            "firma": "2022-12-02T00:00:00-05:00",
+            "valor": {
+              "amount": 33697.09,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-02-10T00:00:00-05:00",
+              "startDate": "2022-12-12T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3639671-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0029-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0029-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-003-2020-21655",
+        "anio_busqueda": 2020,
+        "objeto": "ADOQUINADO PASAJE LOS CEDROS DE COOPERATIVA OSWALDO VACA LARA",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3123756-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-003-2020-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-003-2020-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-0036-2022-21655",
+        "anio_busqueda": 2022,
+        "objeto": "ADOQUINADO DE LA CALLE PRINCIPAL DE LA COMUNIDAD SAN CRISTOBAL BAJO",
+        "categoria": "works",
+        "contratos": [
+          {
+            "id": "2152433-MCO-GADMM-0036-2022",
+            "firma": "2022-12-14T00:00:00-05:00",
+            "valor": {
+              "amount": 39999.99,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2023-02-21T00:00:00-05:00",
+              "startDate": "2022-12-23T00:00:00-05:00",
+              "durationInDays": 60
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "3671319-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-0036-2022-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0036-2022-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-005-2020-21655",
+        "anio_busqueda": 2020,
+        "objeto": "CONSTRUCCIÓN DE ALCANTARILLADO Y ADOQUINADO CALLE ENRIQUE PINEDA DE LA PARROQUIA DE CHITÁN DE NAVARRETES",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3149507-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS),  OTRAS VIAS DE CIRCULACION  DE  VEHICULOS Y PEATONES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-005-2020-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-005-2020-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-006-2020-21655",
+        "anio_busqueda": 2020,
+        "objeto": "ALCANTARILLADO Y ADOQUINADO DE LAS CALLES DE LA COOPERATIVA CRISTOBAL COLÓN, CAICO, LOS CIPRES- CONDUCEN AL ESTADIO PASAJES 8 Y 9. EN CONVENIO CON EL GAD PARROQUIAL DE CRISTOBAL COLON",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3172457-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS),  OTRAS VIAS DE CIRCULACION  DE  VEHICULOS Y PEATONES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-006-2020-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-006-2020-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-009-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ALCANTARILLADO Y ADOQUINADO CALLE RIO COFANES (DESDE AV. LOS CIPRES HASTA NICOLAS MENCIAS) Y ROBERTO ANDINO DESDE NICOLAS MENCIAS HASTA PARQUE DE LA FAMILIA ETAPA I",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3284705-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-009-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-009-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-010-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ADOQUINADO QUE CONDUCE A LA UNIDAD EDUCATIVA PIARTAL, BLOQUE  1, HASTA EL CERRAMIENTO",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3293860-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-010-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-010-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-012-2019-21655",
+        "anio_busqueda": 2019,
+        "objeto": "ADOQUINADO DE LA PROLONGACION DE LA CARRERA BOLIVAR, VIA A PALUZ",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "2968036-DS-SO",
+            "descripcion": "CAMINOS",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-012-2019-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-012-2019-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-013-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ADOQUINADO Y CAMBIO DE RED DE AGUA POTABLE Y ALCANTARILLADO EN CALLE ALFONSO BASTIDAS DESDE LA PANAMERICANA E35 HASTA LA INTERSECCON CON LA CALLE JULIO R. VACA, CALLE HUMBERTO NAVARRETE Y CALLE REINALDO BASTIDAS",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3333916-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-013-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-013-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-014-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ADOQUINADO INGRESO A LA PARROQUIA LA PAZ CALLE PASTORA ALOMIA",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3335522-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-014-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-014-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-021-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ADOQUINADO DE LAS CALLES SAN PEDRO DE LOS CIPRES Y LOS OLIVOS",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3380389-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-021-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-021-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-022-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "CONSTRUCCIÓN DEL ADOQUINADO ORNAMENTAL E ILUMINACION DE LA CIRCULACION PRINCIPAL DEL CEMENTERIO MUNICIPAL",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3384594-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-022-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-022-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-023-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ADOQUINADO CALLE EL EJIDO DESDE LA CALLE LOS PASTOS HASTA LA CALLE CUENCA",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3405727-DS-SO",
+            "descripcion": "SERVICIOS GENERALES DE CONSTRUCCION  EN CARRETERAS (EXCEPTO CARRETERAS SOBREELEVADAS), CALLES",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-023-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-023-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-MCO-GADMM-025-2021-21655",
+        "anio_busqueda": 2021,
+        "objeto": "ADOQUINADO Y ALCANTARILLADO DE LAS CALLES MONTÚFAR Y SECUNDINO CHAMORRO ENTRE CRA. BOLÍVAR Y 5 DE JUNIO- I ETAPA",
+        "categoria": "works",
+        "contratos": [],
+        "unidades_adjudicadas": [
+          {
+            "id": "3421837-DS-SO",
+            "descripcion": "SERVICIOS DE CONSTRUCCION CONDUCCIONES DE REDES URBANAS    (INCLUIDAS LAS OBRAS AUXILIARES COMO ESTACIONES DE BOMBEO).",
+            "cantidad": 1,
+            "unidad": "Unidad"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-MCO-GADMM-025-2021-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-025-2021-21655.html"
+      },
+      {
+        "ocid": "ocds-5wno2w-SIE-GADMM-004-2019-21655",
+        "anio_busqueda": 2019,
+        "objeto": "ADQUISICIÓN DE MATERIAL PETREO PARA ADOQUINADO DE CALLES: RIO ESMERALDAS, ROCAFUERTE (VIA CHILES), RIO CARCHI Y RIO COCA Y OBRAS DE ADMINISTRACION DIRECTA",
+        "categoria": "goods",
+        "contratos": [
+          {
+            "id": "2011072-SIE-GADMM-004-2019",
+            "firma": "2019-12-23T00:00:00-05:00",
+            "valor": {
+              "amount": 57100.7,
+              "currency": "USD"
+            },
+            "estado_original": "terminated",
+            "periodo_programado": {
+              "endDate": "2020-07-08T00:00:00-05:00",
+              "startDate": "2020-01-10T00:00:00-05:00",
+              "durationInDays": 180
+            },
+            "implementation": null
+          }
+        ],
+        "unidades_adjudicadas": [
+          {
+            "id": "2969845-DS-SO",
+            "descripcion": "SERVICIOS COMERCIALES AL POR MENOR DE ARTICULOS DE FERRETERIA Y HERRAMIENTAS DE MANO TIENDAS NO ESPECIALIZADAS",
+            "cantidad": 7100,
+            "unidad": "Metro Cubico"
+          }
+        ],
+        "longitud_ejecutada_verificada_m": null,
+        "superficie_instalada_verificada_m2": null,
+        "razon": "El registro no acredita por sí solo la longitud o superficie instalada mediante planillas y actas. Las compras de material no se convierten en obra instalada.",
+        "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-SIE-GADMM-004-2019-21655",
+        "archivo": "fuentes/record_ocds-5wno2w-SIE-GADMM-004-2019-21655.html"
+      }
+    ]
+  },
+  "pdot_revision": {
+    "estado": "Informe de la comisión de concejales: no localizado ni identificado inequívocamente",
+    "fecha": "2026-11-24",
+    "alcance": "El usuario identifica como emisor a una comisión de concejales. Falta número, fecha, comisión firmante y copia íntegra. La afirmación de que el PDOT actual está mal elaborado queda como cuestión por verificar; no como conclusión del observatorio.",
+    "busqueda": [
+      "Portales municipales de comisiones, Concejo, gaceta, evaluación del PDOT y rendición de cuentas.",
+      "Búsquedas de informe/fiscalización/PDOT con referencia a Montúfar, concejales, 2024–2026 y administración actual.",
+      "Distinción frente a reportes SIGAD, evaluaciones municipales, ordenanzas de aprobación/alineación y antecedentes de SOT."
+    ],
+    "documentos": [
+      [
+        "Informe de comisión solicitado",
+        "Pendiente",
+        "Sin copia ni identificación inequívoca; no es posible validar sus conclusiones, metodología o anexos."
+      ],
+      [
+        "Reporte municipal SIGAD ejercicio 2025",
+        "Disponible localmente",
+        "31 metas y 32 programas/proyectos; generado 28-V-2026 y reportes enviados 27-V-2026. No es informe de comisión ni auditoría independiente."
+      ],
+      [
+        "Antecedente SOT 2022–2023",
+        "Documento oficial distinto",
+        "Remediación del componente urbanístico del PUGS y resolución de cierre; no prueba deficiencias del PDOT 2023–2027."
+      ],
+      [
+        "Ordenanza PDOT/PUGS y alineación 2026",
+        "Instrumentos de contraste",
+        "Verificar versión aprobada, anexos, publicación y modificaciones antes de comparar cifras o metas. La aprobación no equivale a certificación técnica de cada dato."
+      ],
+      [
+        "PDOT alineado 2026, archivo municipal",
+        "Copia institucional obtenida",
+        "Archivo PDOT_2023-2027_GADMM_ALINEADO.2026_K.pdf: disponible para contraste. No sustituye el informe de comisión ni acredita por sí solo calidad técnica."
+      ]
+    ],
+    "revisar": [
+      [
+        "Identidad y procedimiento",
+        "Número, fecha, firmas, competencia de la comisión, sesión de conocimiento y decisión del Concejo."
+      ],
+      [
+        "Versión examinada",
+        "PDOT/PUGS exactos, anexos cartográficos, fecha de corte y relación con actualización 2025 y alineación 2026."
+      ],
+      [
+        "Sustento estadístico",
+        "Fuente INEC u otra, año, universo urbano/rural, población y denominadores; reproducir cada diferencia con página y tabla."
+      ],
+      [
+        "Metas y presupuesto",
+        "Línea base, indicador, fórmula, metas anuales, competencia, programas y concordancia POA/presupuesto."
+      ],
+      [
+        "Contratación y recepción",
+        "TDR, productos entregados, informe técnico, administrador/fiscalizador, observaciones y acta de recepción de la consultoría."
+      ],
+      [
+        "Garantía de contraste",
+        "Separar dato comprobado, interpretación de la comisión, respuesta técnica municipal, corrección adoptada y pendiente."
+      ],
+      [
+        "Resultado jurídico",
+        "Distinguir recomendación, observación, decisión del Concejo, sanción firme y responsabilidad individual. No inferirlas entre sí."
+      ]
+    ],
+    "refs": [
+      "PDCOM · portal revisado",
+      "PDSIL · evaluaciones disponibles",
+      "PDSIG · reporte fiscal 2025",
+      "PDSOT23 · antecedente distinto",
+      "M · ordenanza 2025",
+      "IM · alineación publicada en 2026",
+      "PD26 · PDOT institucional alineado 2026"
+    ],
+    "pendiente": "Obtener de Secretaría General el informe íntegro de la comisión, anexos, acta y resolución del Concejo; de Planificación, versión examinada y respuestas técnicas. No se ha enviado ninguna solicitud."
+  },
+  "vialidad_rural": {
+    "total_km": 386.68,
+    "corte_base": "2024",
+    "documento": "PDOT provincial del Carchi 2023–2027, versión alineada",
+    "tabla": "76",
+    "pagina_impresa": 216,
+    "pagina_pdf": 212,
+    "capas": [
+      [
+        "Adoquín",
+        3.19
+      ],
+      [
+        "Doble tratamiento superficial bituminoso (DTSB)",
+        56.9
+      ],
+      [
+        "Empedrado",
+        277.42
+      ],
+      [
+        "Lastre",
+        1.56
+      ],
+      [
+        "Mixto",
+        6.39
+      ],
+      [
+        "Pavimento flexible",
+        0.51
+      ],
+      [
+        "Suelo natural",
+        40.71
+      ]
+    ],
+    "alcance": "Red vial provincial inventariada dentro del cantón Montúfar; no incluye automáticamente toda vía urbana, estatal, sendero o camino no inventariado. No es medición actualizada a noviembre de 2026."
+  },
   "publicacion": {
     "fecha": "2026-11-24",
-    "edicion": "1.11 · Preguntas técnicas",
+    "edicion": "1.12 · Consultas y veeduría",
     "alcance": "Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub."
   }
 }

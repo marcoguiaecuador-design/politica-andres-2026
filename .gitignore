@@ -49,3 +49,6 @@ secrets*
 Thumbs.db
 .DS_Store
 ~$*
+
+# Extracto visual de fuente pública revisado para consulta
+!docs/observatorio/vialidad_rural/extracto_tabla76.pdf

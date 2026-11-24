@@ -1,0 +1,39 @@
+{
+  "total_km": 386.68,
+  "corte_base": "2024",
+  "documento": "PDOT provincial del Carchi 2023–2027, versión alineada",
+  "tabla": "76",
+  "pagina_impresa": 216,
+  "pagina_pdf": 212,
+  "capas": [
+    [
+      "Adoquín",
+      3.19
+    ],
+    [
+      "Doble tratamiento superficial bituminoso (DTSB)",
+      56.9
+    ],
+    [
+      "Empedrado",
+      277.42
+    ],
+    [
+      "Lastre",
+      1.56
+    ],
+    [
+      "Mixto",
+      6.39
+    ],
+    [
+      "Pavimento flexible",
+      0.51
+    ],
+    [
+      "Suelo natural",
+      40.71
+    ]
+  ],
+  "alcance": "Red vial provincial inventariada dentro del cantón Montúfar; no incluye automáticamente toda vía urbana, estatal, sendero o camino no inventariado. No es medición actualizada a noviembre de 2026."
+}

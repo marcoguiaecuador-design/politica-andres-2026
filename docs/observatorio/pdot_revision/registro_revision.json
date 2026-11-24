@@ -1,0 +1,77 @@
+{
+  "estado": "Informe de la comisión de concejales: no localizado ni identificado inequívocamente",
+  "fecha": "2026-11-24",
+  "alcance": "El usuario identifica como emisor a una comisión de concejales. Falta número, fecha, comisión firmante y copia íntegra. La afirmación de que el PDOT actual está mal elaborado queda como cuestión por verificar; no como conclusión del observatorio.",
+  "busqueda": [
+    "Portales municipales de comisiones, Concejo, gaceta, evaluación del PDOT y rendición de cuentas.",
+    "Búsquedas de informe/fiscalización/PDOT con referencia a Montúfar, concejales, 2024–2026 y administración actual.",
+    "Distinción frente a reportes SIGAD, evaluaciones municipales, ordenanzas de aprobación/alineación y antecedentes de SOT."
+  ],
+  "documentos": [
+    [
+      "Informe de comisión solicitado",
+      "Pendiente",
+      "Sin copia ni identificación inequívoca; no es posible validar sus conclusiones, metodología o anexos."
+    ],
+    [
+      "Reporte municipal SIGAD ejercicio 2025",
+      "Disponible localmente",
+      "31 metas y 32 programas/proyectos; generado 28-V-2026 y reportes enviados 27-V-2026. No es informe de comisión ni auditoría independiente."
+    ],
+    [
+      "Antecedente SOT 2022–2023",
+      "Documento oficial distinto",
+      "Remediación del componente urbanístico del PUGS y resolución de cierre; no prueba deficiencias del PDOT 2023–2027."
+    ],
+    [
+      "Ordenanza PDOT/PUGS y alineación 2026",
+      "Instrumentos de contraste",
+      "Verificar versión aprobada, anexos, publicación y modificaciones antes de comparar cifras o metas. La aprobación no equivale a certificación técnica de cada dato."
+    ],
+    [
+      "PDOT alineado 2026, archivo municipal",
+      "Copia institucional obtenida",
+      "Archivo PDOT_2023-2027_GADMM_ALINEADO.2026_K.pdf: disponible para contraste. No sustituye el informe de comisión ni acredita por sí solo calidad técnica."
+    ]
+  ],
+  "revisar": [
+    [
+      "Identidad y procedimiento",
+      "Número, fecha, firmas, competencia de la comisión, sesión de conocimiento y decisión del Concejo."
+    ],
+    [
+      "Versión examinada",
+      "PDOT/PUGS exactos, anexos cartográficos, fecha de corte y relación con actualización 2025 y alineación 2026."
+    ],
+    [
+      "Sustento estadístico",
+      "Fuente INEC u otra, año, universo urbano/rural, población y denominadores; reproducir cada diferencia con página y tabla."
+    ],
+    [
+      "Metas y presupuesto",
+      "Línea base, indicador, fórmula, metas anuales, competencia, programas y concordancia POA/presupuesto."
+    ],
+    [
+      "Contratación y recepción",
+      "TDR, productos entregados, informe técnico, administrador/fiscalizador, observaciones y acta de recepción de la consultoría."
+    ],
+    [
+      "Garantía de contraste",
+      "Separar dato comprobado, interpretación de la comisión, respuesta técnica municipal, corrección adoptada y pendiente."
+    ],
+    [
+      "Resultado jurídico",
+      "Distinguir recomendación, observación, decisión del Concejo, sanción firme y responsabilidad individual. No inferirlas entre sí."
+    ]
+  ],
+  "refs": [
+    "PDCOM · portal revisado",
+    "PDSIL · evaluaciones disponibles",
+    "PDSIG · reporte fiscal 2025",
+    "PDSOT23 · antecedente distinto",
+    "M · ordenanza 2025",
+    "IM · alineación publicada en 2026",
+    "PD26 · PDOT institucional alineado 2026"
+  ],
+  "pendiente": "Obtener de Secretaría General el informe íntegro de la comisión, anexos, acta y resolución del Concejo; de Planificación, versión examinada y respuestas técnicas. No se ha enviado ninguna solicitud."
+}

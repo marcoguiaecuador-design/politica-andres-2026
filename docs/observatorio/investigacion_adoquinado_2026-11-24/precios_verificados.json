@@ -1,0 +1,525 @@
+[
+  {
+    "caso": "ibarra2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO DE SAN MIGUEL DE IBARRA",
+    "ocid": "ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+    "adjudicacion": "2025-10-01T18:18:30-05:00",
+    "contrato": "2025-11-13T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 4371285.94,
+      "currency": "USD"
+    },
+    "item": "15483261-RU-SO",
+    "descripcion": "Adoquinado con adoquín ortogonal (e=6cm) (incluye emporado)",
+    "cantidad": 15.95,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 24.21,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+    "archivo": "fuentes/ibarra2025_record.html"
+  },
+  {
+    "caso": "ibarra2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO DE SAN MIGUEL DE IBARRA",
+    "ocid": "ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+    "adjudicacion": "2025-10-01T18:18:30-05:00",
+    "contrato": "2025-11-13T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 4371285.94,
+      "currency": "USD"
+    },
+    "item": "15483260-RU-SO",
+    "descripcion": "ADOQUINADO VEHICULAR HEXAGONAL GRIS F´C=400Kg/CM2; E = 6 CM (INCLUYE CAMA DE ARENA E = 5 CM)",
+    "cantidad": 2279.61,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 16.14,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+    "archivo": "fuentes/ibarra2025_record.html"
+  },
+  {
+    "caso": "troncal2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL LA TRONCAL",
+    "ocid": "ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+    "adjudicacion": "2025-11-25T09:25:45-05:00",
+    "contrato": "2025-12-02T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 108379.17,
+      "currency": "USD"
+    },
+    "item": "16163058-RU-SO",
+    "descripcion": "Suministro e instalación de adoquin de hormigón vibroprensado rojo/amarillo (vehicular), e=8cm f´c=400 kg/cm2 (inc. Transporte)",
+    "cantidad": 82,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 24.63,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+    "archivo": "fuentes/troncal2025_record.html"
+  },
+  {
+    "caso": "troncal2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL LA TRONCAL",
+    "ocid": "ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+    "adjudicacion": "2025-11-25T09:25:45-05:00",
+    "contrato": "2025-12-02T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 108379.17,
+      "currency": "USD"
+    },
+    "item": "16163056-RU-SO",
+    "descripcion": "Suministro e instalación de adoquin de hormigón vibroprensado (vehicular), e=8cm f´c=400 kg/cm2 (inc. Transporte)",
+    "cantidad": 2054,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 24.26,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+    "archivo": "fuentes/troncal2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15555146-RU-SO",
+    "descripcion": "ADOQUINADO (FC300 KGCM2) INCLUYE CAMA DE ARENA E3CM Y EMPORADO",
+    "cantidad": 195.64,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 30.6,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15555145-RU-SO",
+    "descripcion": "READOQUINADO (MATERIAL EXISTENTE)",
+    "cantidad": 782.57,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 4.74,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15555142-RU-SO",
+    "descripcion": "DESADOQUINADO",
+    "cantidad": 978.21,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 2.63,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15555067-RU-SO",
+    "descripcion": "SUMINISTRO E INSTALACION DE ADOQUIN E10CM FC300 KGCM2 (EN LECHO DE SECADO)",
+    "cantidad": 190.44,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 21.06,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554923-RU-SO",
+    "descripcion": "ADOQUINADO (FC300 KGCM2) INCLUYE CAMA DE ARENA E3CM Y EMPORADO",
+    "cantidad": 67.49,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 30.6,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554922-RU-SO",
+    "descripcion": "READOQUINADO (MATERIAL EXISTENTE)",
+    "cantidad": 269.96,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 4.74,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554919-RU-SO",
+    "descripcion": "DESADOQUINADO",
+    "cantidad": 337.45,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 2.63,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554873-RU-SO",
+    "descripcion": "ADOQUINADO (FC300 KGCM2) INCLUYE CAMA DE ARENA E3CM Y EMPORADO",
+    "cantidad": 640.21,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 30.6,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554872-RU-SO",
+    "descripcion": "READOQUINADO (MATERIAL EXISTENTE)",
+    "cantidad": 2560.83,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 4.74,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554869-RU-SO",
+    "descripcion": "DESADOQUINADO",
+    "cantidad": 3201.04,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 2.63,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554812-RU-SO",
+    "descripcion": "ADOQUINADO (FC300 KGCM2) INCLUYE CAMA DE ARENA E3CM Y EMPORADO",
+    "cantidad": 189.53,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 30.6,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554811-RU-SO",
+    "descripcion": "READOQUINADO (MATERIAL EXISTENTE)",
+    "cantidad": 758.11,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 4.74,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "urcuqui2025",
+    "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+    "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "adjudicacion": "2025-12-12T15:24:15-05:00",
+    "contrato": "2025-12-31T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 1459862.57,
+      "currency": "USD"
+    },
+    "item": "15554809-RU-SO",
+    "descripcion": "DESADOQUINADO",
+    "cantidad": 947.63,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 2.63,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+    "archivo": "fuentes/urcuqui2025_record.html"
+  },
+  {
+    "caso": "quito2026",
+    "entidad": "Empresa Publica Metropolitana de Movilidad y Obras Publicas",
+    "ocid": "ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "adjudicacion": "2026-02-06T14:59:49-05:00",
+    "contrato": "2026-03-05T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 290106.29,
+      "currency": "USD"
+    },
+    "item": "16485634-RU-SO",
+    "descripcion": "ADOQUINADO VIAL HEXAGONAL HORM. COLOR 22x24x8cm (AZUL O ROJO) f 'c=400Kg/cm2, PARA LINEAS.",
+    "cantidad": 935,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 15.55,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "archivo": "fuentes/quito2026_record.html"
+  },
+  {
+    "caso": "quito2026",
+    "entidad": "Empresa Publica Metropolitana de Movilidad y Obras Publicas",
+    "ocid": "ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "adjudicacion": "2026-02-06T14:59:49-05:00",
+    "contrato": "2026-03-05T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 290106.29,
+      "currency": "USD"
+    },
+    "item": "16485630-RU-SO",
+    "descripcion": "ADOQUINADO VIAL HEXAGONAL BLOQUES DE HORMIGÓN f 'c=300Kg/cm2.",
+    "cantidad": 1111,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 14.34,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "archivo": "fuentes/quito2026_record.html"
+  },
+  {
+    "caso": "quito2026",
+    "entidad": "Empresa Publica Metropolitana de Movilidad y Obras Publicas",
+    "ocid": "ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "adjudicacion": "2026-02-06T14:59:49-05:00",
+    "contrato": "2026-03-05T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 290106.29,
+      "currency": "USD"
+    },
+    "item": "16485751-RU-SO",
+    "descripcion": "ADOQUINADO VIAL HEXAGONAL HORM. COLOR 22x24x8cm (AZUL O ROJO) f 'c=400Kg/cm2, PARA LINEAS.",
+    "cantidad": 1131,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 15.55,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "archivo": "fuentes/quito2026_record.html"
+  },
+  {
+    "caso": "quito2026",
+    "entidad": "Empresa Publica Metropolitana de Movilidad y Obras Publicas",
+    "ocid": "ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "adjudicacion": "2026-02-06T14:59:49-05:00",
+    "contrato": "2026-03-05T00:00:00-05:00",
+    "monto_contrato": {
+      "amount": 290106.29,
+      "currency": "USD"
+    },
+    "item": "16485749-RU-SO",
+    "descripcion": "ADOQUINADO VIAL HEXAGONAL BLOQUES DE HORMIGÓN f 'c=300Kg/cm2.",
+    "cantidad": 1528,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 14.34,
+      "currency": "USD"
+    },
+    "nivel": "Rubro adjudicado asociado a contrato registrado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+    "archivo": "fuentes/quito2026_record.html"
+  },
+  {
+    "caso": "santalucia2026",
+    "entidad": "Gobierno Municipal de Santa Lucia",
+    "ocid": "ocds-5wno2w-LICO-GADMCSL-2026-007-100696",
+    "adjudicacion": "2026-08-04T15:04:40-05:00",
+    "contrato": null,
+    "monto_contrato": null,
+    "item": "20320451-RU-SO",
+    "descripcion": "ADOQUINES EXAGONALES DE CONCRETO 300 KG/CM2M2 DE RESISITENCIA",
+    "cantidad": 3287,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 25.6,
+      "currency": "USD"
+    },
+    "nivel": "Solo adjudicación; contrato no publicado en el registro consultado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMCSL-2026-007-100696",
+    "archivo": "fuentes/santalucia2026_record.html"
+  },
+  {
+    "caso": "santalucia2026",
+    "entidad": "Gobierno Municipal de Santa Lucia",
+    "ocid": "ocds-5wno2w-LICO-GADMCSL-2026-007-100696",
+    "adjudicacion": "2026-08-04T15:04:40-05:00",
+    "contrato": null,
+    "monto_contrato": null,
+    "item": "20320461-RU-SO",
+    "descripcion": "ADOQUINES DE BARRO COMUN",
+    "cantidad": 760,
+    "unidad": "Metro Cuadrado",
+    "precio_unitario": {
+      "amount": 5.03,
+      "currency": "USD"
+    },
+    "nivel": "Solo adjudicación; contrato no publicado en el registro consultado",
+    "iva": "No determinado por estos campos del OCDS",
+    "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMCSL-2026-007-100696",
+    "archivo": "fuentes/santalucia2026_record.html"
+  }
+]

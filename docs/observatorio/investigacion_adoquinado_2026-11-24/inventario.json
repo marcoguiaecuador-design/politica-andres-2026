@@ -1,0 +1,336 @@
+{
+  "fecha": "2026-11-24",
+  "formato": "Los archivos .html de la API contienen JSON original; extensión conservada del descargador.",
+  "fuentes": [
+    {
+      "archivo": "fuentes/ibarra2025_busqueda.html",
+      "bytes": 542,
+      "sha256": "73518c171c00457e2ed74a08168bc59a488495b1095668cc17ee528721119de9"
+    },
+    {
+      "archivo": "fuentes/ibarra2025_record.html",
+      "bytes": 983489,
+      "sha256": "7efb206cd0e50575dfcf3490016ada35cb4358b60e3ea43884ffd01d1525cc33"
+    },
+    {
+      "archivo": "fuentes/montufar2019_p1.html",
+      "bytes": 2321,
+      "sha256": "ec5f4fdc04a26b3dcd926b72ab6700c66b4296979ff9d66db14167ca3493110b"
+    },
+    {
+      "archivo": "fuentes/montufar2020_p1.html",
+      "bytes": 2833,
+      "sha256": "c0a94585d3fee24bbbb84e42a2c605e6dcf391cda86abb79dc9e8626d322bc3a"
+    },
+    {
+      "archivo": "fuentes/montufar2021_p1.html",
+      "bytes": 5155,
+      "sha256": "a3bfc268d0002ff4e7f2e772c67ae9dbc3e794cad23e288937d564ba70e6ea0f"
+    },
+    {
+      "archivo": "fuentes/montufar2022.html",
+      "bytes": 5136,
+      "sha256": "4e5fe11ff91469e1071c96c1b5a05957f5166cb37970ffefee156c201499c824"
+    },
+    {
+      "archivo": "fuentes/montufar2022_adoquinado_p1.html",
+      "bytes": 5103,
+      "sha256": "9dfc7e6cca1eb369a4f95482a2d119275d7a812aaad70d7cd59a0ad32ca99b09"
+    },
+    {
+      "archivo": "fuentes/montufar2022_adoquinado_p2.html",
+      "bytes": 4738,
+      "sha256": "67e46d03d0f0b77f158894cf5231ab6a7d761d6ec9be4c592c34f331fcb0dd75"
+    },
+    {
+      "archivo": "fuentes/montufar2022_adoquinado_p3.html",
+      "bytes": 1241,
+      "sha256": "2b6818091993ab0fec2603366127a694f24ddd7385284a38c2b921caa385fd75"
+    },
+    {
+      "archivo": "fuentes/montufar2022_p2.html",
+      "bytes": 4776,
+      "sha256": "bda2ac94d6c1ac7f73444e91ed75b0a6dfe9aa341a317a4bc40e78e9858763e6"
+    },
+    {
+      "archivo": "fuentes/montufar2022_p3.html",
+      "bytes": 1743,
+      "sha256": "27798ea7745a1f957a7f7d9aecff4902e2653fb7070a4b65d67f282e3bf24d9f"
+    },
+    {
+      "archivo": "fuentes/montufar2023_adoqu_p1.html",
+      "bytes": 40,
+      "sha256": "bead0567ba135487713234d472c3bc724efd6774936d2f0ed0051c4f82259272"
+    },
+    {
+      "archivo": "fuentes/montufar2023_p1.html",
+      "bytes": 40,
+      "sha256": "bead0567ba135487713234d472c3bc724efd6774936d2f0ed0051c4f82259272"
+    },
+    {
+      "archivo": "fuentes/quito2025_busqueda.html",
+      "bytes": 510,
+      "sha256": "dd3c8edc8dc960173b4220f17ad1ffc7c989aff557d0eb66ad7b464c32fd7dc1"
+    },
+    {
+      "archivo": "fuentes/quito2026_busqueda.html",
+      "bytes": 40,
+      "sha256": "bead0567ba135487713234d472c3bc724efd6774936d2f0ed0051c4f82259272"
+    },
+    {
+      "archivo": "fuentes/quito2026_record.html",
+      "bytes": 325608,
+      "sha256": "3ba7febc7ca39ae25f2cc4d91ba0298efb365662d2c34aef7dd28a6f56b9d891"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-CDC-GADMM-001-2022-21655.html",
+      "bytes": 7079,
+      "sha256": "8d15188004a19d8c8f5921ab0dd78b18458d14a2eb9d9bceed42711c9f3a0fcc"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-CDC-GADMM-003-2021-21655.html",
+      "bytes": 7092,
+      "sha256": "68c3dd26af72872467c08c6e1ecd5f0910a9726c1cf9ee45a2d2e09eb773c083"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-CE-20190001660369-21655.html",
+      "bytes": 5155,
+      "sha256": "60a1a16247cce2d3895fccde3a7d45a05e62c7198543bf216a7f9eddbf7e182b"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-CE-20200001880493-21655.html",
+      "bytes": 5000,
+      "sha256": "4785b8a1930652f3c68f2167c23273693650dcc76125494d610456289c51a1fb"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-CE-20200001946203-21655.html",
+      "bytes": 5028,
+      "sha256": "35951f2a0444aee486d906c2ef0d21033ccceea4fe67e9bcfb0acbc7dbb77a65"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-CE-20220002232814-21655.html",
+      "bytes": 5074,
+      "sha256": "d5a76be1470905a7c728c8b5abf3c9e9a281b8d448c1f1315549aab31cc4ffe3"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-002-2022-21655.html",
+      "bytes": 9360,
+      "sha256": "177a149a36b918b534c5d049e2e3f519bf5d99007284ff133f61c7562a442211"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-003-2022-21655.html",
+      "bytes": 5340,
+      "sha256": "9743a49f3a6657690c0dd44c7cc25990bd41b2977e0f1a28756d248c6fe6a0d4"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-COTO-GADMM-004-2022-21655.html",
+      "bytes": 2648,
+      "sha256": "7f51d045efce055e2384b91b008f56851d6c5819613c4dd5e5b8be3aab5cfcbb"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0004-2022-21655.html",
+      "bytes": 13171,
+      "sha256": "b3f9eb76d214f7fe74a5a5304b90e1e432e5714db94674a823603cde51a35405"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0009-2022-21655.html",
+      "bytes": 10140,
+      "sha256": "8c29c0c5630345e840fea59a91c82ab824da0b8426329b7359f6ab3c5321ecaa"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0010-2022-21655.html",
+      "bytes": 10585,
+      "sha256": "092e1506f1798782e9936cc3bb66f661916aadbad14545b46f2a3ba24525392c"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0013-2022-21655.html",
+      "bytes": 13266,
+      "sha256": "73fa01c6ce5c6812a283f02468a8819ef3ceb8b90b54eddd0d1425b2aa86eb82"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0014-2022-21655.html",
+      "bytes": 13179,
+      "sha256": "4604e77f7b2d18a85bf8eb22ee77a99d7ed146e57eb96b77442390686392900c"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0015-2022-21655.html",
+      "bytes": 11972,
+      "sha256": "1642b1cc0919bbf3712abd20ea815d384ebe89b7720621bf56ac2d5548b3fd7c"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0016-2022-21655.html",
+      "bytes": 10616,
+      "sha256": "84a7d8fe96971c4f9eb044e4111e08545024126ee1bedf97b09bbf505c8bb79c"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0017-2022-21655.html",
+      "bytes": 14081,
+      "sha256": "9e2c89e26c4e6a77983f9c9221551d2f50e77097abbf4b52ec3687da345a5649"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0018-2022-21655.html",
+      "bytes": 14570,
+      "sha256": "6a9d2cafc4a13e85ca8fba8f29f8bb404c9f35bd9756aeb8337089471670de42"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0019-2022-21655.html",
+      "bytes": 14162,
+      "sha256": "956556d38faf83b1973e35de19cd5d1adc194ed5b9bb2c90225db0de702241ad"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-002-2019-21655.html",
+      "bytes": 14029,
+      "sha256": "534e25098126db0f96fcbf4bf484d21f0bc3bab2b0530e672a7f867cfd692b90"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-002-2021-21655.html",
+      "bytes": 13212,
+      "sha256": "915bbbf4db5f563ef7bd4b0c14a075b1c38f48b674527e49d47c41a19d2e12bc"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0020-2022-21655.html",
+      "bytes": 13528,
+      "sha256": "474915a9c6bc7cdf40684576486f5b7730a624ff2405ee579a8c301b2a1f2327"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0021-2022-21655.html",
+      "bytes": 13943,
+      "sha256": "4a3fee4df0966ae975c2f54cb4d89a541b19b572c9aa6ed08ebdbece3beb480b"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0022-2022-21655.html",
+      "bytes": 11134,
+      "sha256": "a421c394a108e94309977b8e9756df4bf491ee19af9e889dd255d15cae4dd4a7"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0025-2022-21655.html",
+      "bytes": 13324,
+      "sha256": "594f3caff725c4949e3def165b41c2959a38deae047167f53cb3a2c548106242"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0026-2022-21655.html",
+      "bytes": 10156,
+      "sha256": "df1a047414e4b9343ef5a449ffc496615348cf422ae645eb3476f052debf28de"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0027-2022-21655.html",
+      "bytes": 10645,
+      "sha256": "3d19a6d93ce50a38de8d8346411d54b367f5aad8d869543688fe382c8cc3b7d7"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0028-2022-21655.html",
+      "bytes": 11589,
+      "sha256": "5cc1819ea39e16b07a8546183f8f85293028b19cde3fbd5316a87bff727946de"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0029-2022-21655.html",
+      "bytes": 11132,
+      "sha256": "6467e9279a14edd28ab73214bd232273ad7dd21772e650aed6628a5853d5c1e0"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-003-2020-21655.html",
+      "bytes": 16238,
+      "sha256": "ff6938595e148f501c3a66682b534d6ccdfd42936e2375eee5d1bd639efbffd2"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-0036-2022-21655.html",
+      "bytes": 10575,
+      "sha256": "768d9e59323fd7371346f8adb23f4d596b452bf75d9039438893261a71ca8cc3"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-005-2020-21655.html",
+      "bytes": 10120,
+      "sha256": "e401ac6b60d58ab3d89dfc873269b545d893e566918f62d6fe1112323970c65b"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-006-2020-21655.html",
+      "bytes": 12881,
+      "sha256": "e8155869c9d02f45dcc7a24903f16bb494e31c8cd64170517133de1fe851bbe5"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-009-2021-21655.html",
+      "bytes": 33209,
+      "sha256": "850d67c7f736e0f5632032b2a5506ff33fe9920d9436c2be07d5f92d839a580e"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-010-2021-21655.html",
+      "bytes": 20125,
+      "sha256": "3af4106cc748fe93f4d0f04e14bd3124eb66e296fc604c8202a82ada86e0942f"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-012-2019-21655.html",
+      "bytes": 12798,
+      "sha256": "da0e24b4a6fd69bd75b171c19ba315d212e68c181c3bea807956cb9a576727fc"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-013-2021-21655.html",
+      "bytes": 26776,
+      "sha256": "e0a6f320c937ca6ae92aa1a36b1ad003384e089ddc3d54db6e26e984580eacb1"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-014-2021-21655.html",
+      "bytes": 17910,
+      "sha256": "9f09c4798cb734d5b9653818262a8e2eb6cfdad81f33bd9c9a1c6742eba9588c"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-021-2021-21655.html",
+      "bytes": 17962,
+      "sha256": "ca47e9acf4e3598ba387981fc098c58e2c1ed1016c6985e84b33a74f5531343a"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-022-2021-21655.html",
+      "bytes": 12934,
+      "sha256": "07e3020371df43308345cec336da7b815c7d1f23039533b992dd94de50b01cb4"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-023-2021-21655.html",
+      "bytes": 12406,
+      "sha256": "e20b88ee19c7789ae69323fd485d7ace43a92ac72840f6ccac6f94e592a62439"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-MCO-GADMM-025-2021-21655.html",
+      "bytes": 13019,
+      "sha256": "5caf0d201fa994dceb1a73d31d2993fac4f5b68a82fbbb957e61529e223519f3"
+    },
+    {
+      "archivo": "fuentes/record_ocds-5wno2w-SIE-GADMM-004-2019-21655.html",
+      "bytes": 7712,
+      "sha256": "c9f5b65ec5bbdacbdc56fd3fb91fe9d966a633c8e361a9b0b64f0e2c4236f9b7"
+    },
+    {
+      "archivo": "fuentes/santalucia2026.html",
+      "bytes": 600,
+      "sha256": "cb4018ef56387aa7de845b5df6e68b3bb102e31611abb0e64aeca4e554344762"
+    },
+    {
+      "archivo": "fuentes/santalucia2026_record.html",
+      "bytes": 192271,
+      "sha256": "b0baf1f12676bb9bc96307d65dbf612a606507a6a6bf95d2285def143b4bf55e"
+    },
+    {
+      "archivo": "fuentes/santarosa2022.html",
+      "bytes": 22073,
+      "sha256": "54fd92d8ac4fa2b82284b28e385836948dadd9473e6079bd5b60a8e9a406472c"
+    },
+    {
+      "archivo": "fuentes/troncal2025.html",
+      "bytes": 502,
+      "sha256": "a850d0dcc516fb30bddd45acf42e6ec00f3ae017693864e8a763f3fd8f19607f"
+    },
+    {
+      "archivo": "fuentes/troncal2025_record.html",
+      "bytes": 70324,
+      "sha256": "75acd5162c24b1e7dffc99382c5ece9c6623bbd30f0021aa16562f0afc9005e6"
+    },
+    {
+      "archivo": "fuentes/urcuqui2025_busqueda.html",
+      "bytes": 673,
+      "sha256": "87988e14821a69bef61cb33d5f5031cd002d16eb6d3958d38a5ddd6f575f3d64"
+    },
+    {
+      "archivo": "fuentes/urcuqui2025_record.html",
+      "bytes": 555787,
+      "sha256": "8a31ed10abd5ed6f74a321cd7c61c309de005be69f1041334cad714eeb58027c"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "fecha": "2026-11-24",
-  "version": "1.11",
+  "version": "1.12",
   "alcance": "Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub.",
   "fuentes": [
     {
@@ -709,6 +709,111 @@
       "url": "https://anda.inec.gob.ec/anda5/index.php/catalog/360",
       "estado": "Fuente metodológica oficial consultada 24-XI-2026",
       "detalle": "Permite distinguir ejercicios, ámbitos y categorías; no sustituye inventario georreferenciado actual de áreas verdes de Montúfar."
+    },
+    {
+      "id": "AD01",
+      "titulo": "SERCOP · ibarra2025 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783; ítem 15483260-RU-SO; USD 16.14/m²; firma 2025-11-13. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "AD02",
+      "titulo": "SERCOP · troncal2025 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-GADMLT-2025-001-2670; ítem 16163056-RU-SO; USD 24.26/m²; firma 2025-12-02. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "AD03",
+      "titulo": "SERCOP · urcuqui2025 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-GADMU-2025-001-3271; ítem 15555146-RU-SO; USD 30.6/m²; firma 2025-12-31. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "AD04",
+      "titulo": "SERCOP · quito2026 · precio unitario de adoquinado",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+      "estado": "JSON oficial archivado; ítem adjudicado enlazado a contrato",
+      "detalle": "OCID ocds-5wno2w-LICO-EPMMOP-2025-021-741823; ítem 16485630-RU-SO; USD 14.34/m²; firma 2026-03-05. IVA no determinado. No es pago final."
+    },
+    {
+      "id": "ADRC",
+      "titulo": "Montúfar · rendición de cuentas 2021 · adoquinado reportado",
+      "url": "https://www.gadmontufar.gob.ec/documents/RendicionCuentas2021.pdf",
+      "estado": "Verificación limitada a extractos indexados",
+      "detalle": "Resultado reportado en rendición 2021 vinculado a meta de mantenimiento vial; no certifica total del mandato, obra nueva neta ni kilómetros lineales Extractos indexados de documentos oficiales; descarga directa bloqueada por problema de cadena de certificado y aperturas web fallidas. No se afirma cotejo visual del PDF íntegro."
+    },
+    {
+      "id": "ADACT",
+      "titulo": "Montúfar · acta enero 2022 · contraste de rendición 2021",
+      "url": "https://gadmontufar.gob.ec/documents/link/actaN%C2%B002parte_pertinente_ene2022.pdf",
+      "estado": "Extracto indexado; PDF íntegro no cotejado",
+      "detalle": "Contraste del resultado anual reportado de 12.795,44 m²; no longitud del período."
+    },
+    {
+      "id": "RS26",
+      "titulo": "RO EE 969 · ordenanza sustitutiva de tarifa de residuos de Montúfar",
+      "url": "https://esacc.corteconstitucional.gob.ec/storage/api/v1/10_DWL_FL/eyJjYXJwZXRhIjoicm8iLCJ1dWlkIjoiZjM3NzU5ODctYzkxYy00MDRjLThlOTUtM2RiYzQ2MmU4ZjExLnBkZiJ9",
+      "estado": "PDF oficial archivado; tabla y artículos cotejados",
+      "detalle": "19-I-2026, pp. 35–46. Aprobación 26-XII-2025; sanción 29-XII-2025. Tabla p. 42. No se certifica liquidación individual ni ausencia exhaustiva de reformas."
+    },
+    {
+      "id": "RSRO",
+      "titulo": "Registro Oficial · ficha de publicación EE 969",
+      "url": "https://www.registroficial.gob.ec/edicion-especial-no-969-8/",
+      "estado": "Ficha oficial identifica ordenanza y fecha",
+      "detalle": "Publicación de la sustitutiva de tarifa de residuos no peligrosos de Montúfar, 19-I-2026."
+    },
+    {
+      "id": "RSBU",
+      "titulo": "Ministerio del Trabajo · anuncio oficial SBU 2026",
+      "url": "https://www.trabajo.gob.ec/despues-de-casi-una-decada-hay-consenso-gobierno-empleadores-y-trabajadores-acuerdan-fijar-el-salario-basico-unificado-de-2026-en-usd-482-no-hay-imposicion-hay-union/",
+      "estado": "Fuente oficial indexada; USD 482 para 2026",
+      "detalle": "Anuncio de 15-XII-2025. Se usa solo para contraste aritmético de los porcentajes publicados; no certifica cómo liquidó Rentas."
+    },
+    {
+      "id": "PDCOM",
+      "titulo": "Montúfar · página de comisiones del Concejo",
+      "url": "https://www.gadmontufar.gob.ec/comisiones.php",
+      "estado": "Portal revisado; informe específico del PDOT no identificado",
+      "detalle": "Búsqueda del informe de comisión solicitado. Consulta pública con cadena TLS municipal no validable; no se atribuyen hallazgos a un documento no obtenido."
+    },
+    {
+      "id": "PDSIG",
+      "titulo": "Montúfar · reporte SIGAD ejercicio fiscal 2025",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/TERRITORIAL/2025/Primer%20Trimestre/INFORME%20PDOT%202023-2027.pdf",
+      "estado": "Copia oficial archivada; portada cotejada visualmente",
+      "detalle": "Reporte de programación y avance de metas y presupuesto: ejercicio 2025; 31 metas, 32 programas/proyectos; envío 27-V-2026 y generación 28-V-2026. No es informe de comisión."
+    },
+    {
+      "id": "PDSIL",
+      "titulo": "Montúfar · Sistema de Información Local",
+      "url": "https://www.gadmontufar.gob.ec/sil.php",
+      "estado": "Portal institucional; distingue PDOT, indicadores e informes de evaluación",
+      "detalle": "Los reportes SIGAD/evaluación disponibles no se identifican como informe de fiscalización de comisión de concejales."
+    },
+    {
+      "id": "PDSOT23",
+      "titulo": "SOT · remediación del PUGS de Montúfar, 17-II-2023",
+      "url": "https://www.sot.gob.ec/2023/02/17/remediacion-gad-municipal-montufar/",
+      "estado": "Antecedente oficial de 2022–2023; expediente distinto",
+      "detalle": "Informa cumplimiento de plan de remediación y ratificación del estado de inocencia mediante Resolución SOT-INPU-2023-001. No se atribuye al PDOT de la administración 2023–2027."
+    },
+    {
+      "id": "PD26",
+      "titulo": "Montúfar · PDOT 2023–2027 alineado 2026 · archivo institucional",
+      "url": "https://gadmontufar.gob.ec/documents/PDOT/PDOT_2023-2027_GADMM_ALINEADO.2026_K.pdf",
+      "estado": "PDF institucional obtenido; no es informe de comisión",
+      "detalle": "Documento completo archivado para contrastar el informe de fiscalización solicitado. La descarga y el texto extraído no equivalen a auditoría integral ni validación de anexos."
+    },
+    {
+      "id": "VRP",
+      "titulo": "Prefectura del Carchi · PDOT 2023–2027 alineado · inventario vial",
+      "url": "https://cloud.carchi.gob.ec/s/ps6oBedNYxN2gEx?openfile=true",
+      "estado": "PDF oficial archivado; tabla 76 cotejada",
+      "detalle": "Tabla 76, p. impresa 216 / PDF 212: Montúfar 386,68 km, insumos Dirección de Obras Públicas provincial 2024. PDF completo grande; extracto disponible en la pregunta PT05. No certifica inventario 2026."
     }
   ]
 }

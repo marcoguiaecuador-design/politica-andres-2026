@@ -1,0 +1,129 @@
+{
+  "fecha_consulta": "2026-11-24",
+  "fuente_precios": "API oficial SERCOP OCDS; rubros de adjudicaciones vinculadas por awardID a contratos publicados",
+  "muestra": [
+    {
+      "caso": "ibarra2025",
+      "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO DE SAN MIGUEL DE IBARRA",
+      "ocid": "ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+      "adjudicacion": "2025-10-01T18:18:30-05:00",
+      "contrato": "2025-11-13T00:00:00-05:00",
+      "monto_contrato": {
+        "amount": 4371285.94,
+        "currency": "USD"
+      },
+      "item": "15483260-RU-SO",
+      "descripcion": "ADOQUINADO VEHICULAR HEXAGONAL GRIS F´C=400Kg/CM2; E = 6 CM (INCLUYE CAMA DE ARENA E = 5 CM)",
+      "cantidad": 2279.61,
+      "unidad": "Metro Cuadrado",
+      "precio_unitario": {
+        "amount": 16.14,
+        "currency": "USD"
+      },
+      "nivel": "Rubro adjudicado asociado a contrato registrado",
+      "iva": "No determinado por estos campos del OCDS",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADM-IBARRA-2025-001-2783",
+      "archivo": "fuentes/ibarra2025_record.html"
+    },
+    {
+      "caso": "troncal2025",
+      "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL LA TRONCAL",
+      "ocid": "ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+      "adjudicacion": "2025-11-25T09:25:45-05:00",
+      "contrato": "2025-12-02T00:00:00-05:00",
+      "monto_contrato": {
+        "amount": 108379.17,
+        "currency": "USD"
+      },
+      "item": "16163056-RU-SO",
+      "descripcion": "Suministro e instalación de adoquin de hormigón vibroprensado (vehicular), e=8cm f´c=400 kg/cm2 (inc. Transporte)",
+      "cantidad": 2054,
+      "unidad": "Metro Cuadrado",
+      "precio_unitario": {
+        "amount": 24.26,
+        "currency": "USD"
+      },
+      "nivel": "Rubro adjudicado asociado a contrato registrado",
+      "iva": "No determinado por estos campos del OCDS",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMLT-2025-001-2670",
+      "archivo": "fuentes/troncal2025_record.html"
+    },
+    {
+      "caso": "urcuqui2025",
+      "entidad": "GOBIERNO AUTONOMO DESCENTRALIZADO MUNICIPAL DE SAN MIGUEL DE URCUQUÍ",
+      "ocid": "ocds-5wno2w-LICO-GADMU-2025-001-3271",
+      "adjudicacion": "2025-12-12T15:24:15-05:00",
+      "contrato": "2025-12-31T00:00:00-05:00",
+      "monto_contrato": {
+        "amount": 1459862.57,
+        "currency": "USD"
+      },
+      "item": "15555146-RU-SO",
+      "descripcion": "ADOQUINADO (FC300 KGCM2) INCLUYE CAMA DE ARENA E3CM Y EMPORADO",
+      "cantidad": 195.64,
+      "unidad": "Metro Cuadrado",
+      "precio_unitario": {
+        "amount": 30.6,
+        "currency": "USD"
+      },
+      "nivel": "Rubro adjudicado asociado a contrato registrado",
+      "iva": "No determinado por estos campos del OCDS",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-GADMU-2025-001-3271",
+      "archivo": "fuentes/urcuqui2025_record.html"
+    },
+    {
+      "caso": "quito2026",
+      "entidad": "Empresa Publica Metropolitana de Movilidad y Obras Publicas",
+      "ocid": "ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+      "adjudicacion": "2026-02-06T14:59:49-05:00",
+      "contrato": "2026-03-05T00:00:00-05:00",
+      "monto_contrato": {
+        "amount": 290106.29,
+        "currency": "USD"
+      },
+      "item": "16485630-RU-SO",
+      "descripcion": "ADOQUINADO VIAL HEXAGONAL BLOQUES DE HORMIGÓN f 'c=300Kg/cm2.",
+      "cantidad": 1111,
+      "unidad": "Metro Cuadrado",
+      "precio_unitario": {
+        "amount": 14.34,
+        "currency": "USD"
+      },
+      "nivel": "Rubro adjudicado asociado a contrato registrado",
+      "iva": "No determinado por estos campos del OCDS",
+      "url": "https://datosabiertos.compraspublicas.gob.ec/PLATAFORMA/api/record?ocid=ocds-5wno2w-LICO-EPMMOP-2025-021-741823",
+      "archivo": "fuentes/quito2026_record.html"
+    }
+  ],
+  "rango_muestra_usd_m2": [
+    14.34,
+    30.6
+  ],
+  "precio_nacional_unico": null,
+  "iva_verificado": false,
+  "procesos_montufar_descargados": 43,
+  "categorias_montufar": {
+    "services": 2,
+    "sin categoría publicada": 5,
+    "works": 35,
+    "goods": 1
+  },
+  "total_km_ejecutados_2019_2023": null,
+  "dato_municipal_2021": {
+    "superficie_reportada_m2": 12795.44,
+    "alcance": "Resultado reportado en rendición 2021 vinculado a meta de mantenimiento vial; no certifica total del mandato, obra nueva neta ni kilómetros lineales",
+    "fuente": "https://www.gadmontufar.gob.ec/documents/RendicionCuentas2021.pdf",
+    "contraste": "https://gadmontufar.gob.ec/documents/link/actaN%C2%B002parte_pertinente_ene2022.pdf",
+    "metodo": "Extractos indexados de documentos oficiales; descarga directa bloqueada por problema de cadena de certificado y aperturas web fallidas. No se afirma cotejo visual del PDF íntegro."
+  },
+  "limites": [
+    "Búsqueda por años del proceso 2019–2023; las fechas de firma y ejecución pueden diferir del año del código. Atribución de gestión exige fecha de posesión y ejecución física.",
+    "Búsqueda por palabra adoquin/adoquinado y entidad municipal; no es censo de todas las obras de Prefectura, GAD parroquiales o mingas del territorio.",
+    "La API devolvió cero coincidencias 2023 en dos búsquedas; no se interpreta como cero ejecución en 2023.",
+    "Se detectaron repeticiones entre páginas y búsquedas; se deduplicó por OCID. No se declara exhaustividad.",
+    "Los estados terminated no sustituyen acta de recepción satisfactoria ni cantidades finales.",
+    "Los precios son rubros adjudicados vinculados a contratos, no certificación de pago final o APU completo firmado. No se confirma IVA por falta de ese campo.",
+    "La muestra tiene diferentes espesores, resistencias, ubicaciones y alcances. No se calcula promedio nacional.",
+    "No convertir m² a km usando un ancho arbitrario, ni dividir el precio total de una obra mixta por el precio del rubro de adoquín."
+  ]
+}
