@@ -24,3 +24,7 @@ Los archivos derivados incluidos son la lectura revisada de Gabriel Jácome, dos
 5. Quienes tengan datos guardados en su navegador deben exportar sus notas antes de importar el nuevo `datos.json`; esta importación sustituye su copia de trabajo. La página no sincroniza cambios entre usuarios.
 
 La publicación inicial conserva versión 1.10 y la corrección del Eje 1, sin una nueva revisión sustantiva de los hallazgos ni de la vigencia jurídica. Las cantidades de fichas no representan calidad o cumplimiento.
+
+## Revisión 24-XI-2026 · versión 1.11
+
+Se incorpora una cuarta categoría de Preguntas técnicas para debates, con PT01 sobre áreas verdes. Se conservan los seis análisis y la veeduría. Las nuevas fuentes externas se enlazan en su origen: el anexo ministerial es una copia externa cotejada y su alcance se identifica expresamente. El catastro institucional 2026 y un expediente de EPMMOP sirven para contraste, sin certificación exhaustiva de vigencia. Se preservan notas al migrar y se añade un ejemplo ficticio de m²/hab; no se publica un déficit real de Montúfar.

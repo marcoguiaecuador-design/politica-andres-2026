@@ -1,6 +1,6 @@
 {
-  "version": "1.10",
-  "corte": "2026-11-23",
+  "version": "1.11",
+  "corte": "2026-11-24",
   "ambito": "Montúfar · Carchi · Ecuador",
   "titulo": "Observación ciudadana de Montúfar · gestión municipal y planes",
   "alcance": "Primera revisión del documento 2027–2031 facilitado por el usuario. Análisis neutral de política pública; no constituye preparación estratégica de campaña ni dictamen jurídico definitivo. Fecha de referencia del foro: martes 24 de noviembre de 2026, indicada por el usuario; no verificada con convocatoria.",
@@ -699,6 +699,41 @@
       "url": "https://www.ecuadorencifras.gob.ec/censo-de-poblacion-y-vivienda/",
       "estado": "Fuente oficial consultada el 23-XI-2026",
       "detalle": "Publica documentación y resultados del censo 2022, posteriores a 2010. No se calcula aquí nueva población cantonal a partir de cifras del plan."
+    },
+    {
+      "id": "AV059",
+      "titulo": "AM 059 · anexo de arbolado urbano · copia de documento ministerial",
+      "url": "https://mariscalsur.org/wp-content/uploads/2019/09/VAB001_Normativa-Nacional-Manejo-Arboles-Urbanos.pdf",
+      "estado": "Copia externa de fuente normativa primaria; cotejo visual de pp. 3–6, 24-XI-2026",
+      "detalle": "Autoría Ministerio del Ambiente. Cap. V: 9 m²/hab, referencia parroquial y deber de propender. Cap. VI: efecto en permiso de corta y supuestos de poda. No se presenta el alojamiento como oficial ni se certifica publicación registral. Contraste AVEC y AVCAT."
+    },
+    {
+      "id": "AVCAT",
+      "titulo": "Ministerio de Ambiente y Energía · catastro regulatorio 2026",
+      "url": "https://www.ambienteyenergia.gob.ec/wp-content/uploads/2026/08/catastro_regulatorio_2dotri2026final.pdf",
+      "estado": "Fuente institucional 2026 consultada 24-XI-2026",
+      "detalle": "Fila 181 identifica AM 059 de 18-V-2016 sobre árboles urbanos. No informa reforma posterior. La columna de publicación registra «En proceso»: no se transforma ese campo en certificación de vigencia o derogación."
+    },
+    {
+      "id": "AVEC",
+      "titulo": "EPMMOP · expediente ambiental que reproduce el AM 059",
+      "url": "https://epmmop.quito.gob.ec/wp-content/uploads/2026/07/Registro_Ambiental_-final-revMT-signed-signed.pdf",
+      "estado": "Copia alojada por entidad pública; contraste de texto, no norma de Montúfar",
+      "detalle": "Sección 4.4.6 y p. PDF 25 (impresa 20) reproducen referencia de 9 m²/hab y circunscripción parroquial para corta de árboles. El expediente no sustituye el acuerdo original."
+    },
+    {
+      "id": "AVINE",
+      "titulo": "INEC · boletín histórico de Índice Verde Urbano basado en cartografía 2010",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Sitios/sitio_verde/boletin.pdf",
+      "estado": "Referencia estadística histórica, no ley ni dato vigente de Montúfar",
+      "detalle": "Define m²/hab y cita 9 m² como referencia atribuida a OMS. No se adopta su cifra nacional como actual ni se certifica el documento OMS de origen."
+    },
+    {
+      "id": "AVMET",
+      "titulo": "INEC · catálogo metodológico Índice Verde Urbano 2012",
+      "url": "https://anda.inec.gob.ec/anda5/index.php/catalog/360",
+      "estado": "Fuente metodológica oficial consultada 24-XI-2026",
+      "detalle": "Permite distinguir ejercicios, ámbitos y categorías; no sustituye inventario georreferenciado actual de áreas verdes de Montúfar."
     }
   ],
   "propuestas": [
@@ -1289,6 +1324,10 @@
     {
       "fecha": "2026-11-23",
       "cambio": "Versión 1.10: Gabriel Jácome incorporado tras cotejo visual del escaneo; lectura revisada de propuestas y conjunto de seis planes aportados completo. Se preservan notas, análisis y veeduría; se agrega lector constitucional art. 228."
+    },
+    {
+      "fecha": "2026-11-24",
+      "cambio": "Versión 1.11: nueva categoría Preguntas técnicas para debates; PT01 sobre áreas verdes, m²/hab, AM 059 y art. 424. Incluye lectura dentro del HTML, simulador identificado como ficticio y notas por consulta. No cambia las conclusiones de los seis planes ni la veeduría."
     }
   ],
   "comparativo_cootad": [
@@ -3160,6 +3199,30 @@
           "CEP · art. 228"
         ],
         "encabezado": "Texto constitucional · artículo 228"
+      },
+      {
+        "id": "AV059",
+        "articulo": "AM 059 · anexo, capítulos V y VI · áreas verdes y arbolado",
+        "encabezado": "Extractos normativos · cotejados en copia externa del documento ministerial",
+        "texto": "Capítulo V, p. 4 del anexo: «El arbolado urbano será distribuido equitativa y proporcionalmente en toda el área de jurisdicción municipal. Para el cumplimiento de del parámetro internacional emitido por la OMS, de mantener 9 m2 de espacio verde por habitante, se tomará como referencia la circunscripción parroquial.»\n\n«La metodología para el cálculo del parámetro internacional emitido por la OMS al que se hace referencia anteriormente, será aprobada por la Autoridad Ambiental Nacional. Para su elaboración podrá coordinar con el Instituto Nacional de estadísticas y Censos (INEC).»\n\nEl párrafo siguiente dispone que cada GAD municipal o metropolitano deberá propender al cumplimiento de esos parámetros y elaborar materiales o manuales técnicos de manejo del arbolado. Esta última oración es síntesis, no cita literal. El capítulo VI, pp. 5–6, conecta el permiso de corta con el parámetro parroquial y contempla supuestos de poda ante riesgo o afectación.",
+        "anterior": "",
+        "nota": "No es una asignación privada de terreno ni una cuota en m³. Acuerdo suscrito 18-V-2016, identificado en catastro ministerial 2026. Copia externa cotejada; expediente oficial de contraste AVEC. Ver alcance y pendientes de vigencia en PT01.",
+        "refs": [
+          "AV059 · pp. 3–6",
+          "AVCAT · fila 181",
+          "AVEC · p. PDF 25"
+        ]
+      },
+      {
+        "id": "AV424",
+        "articulo": "COOTAD · artículo 424 · cesión de suelo en urbanizaciones",
+        "encabezado": "Extracto del COOTAD · compilación TCE octubre 2026",
+        "texto": "Art. 424, segundo inciso: «Se entregará como mínimo el quince por ciento (15%) calculado del área útil urbanizable del terreno o predio a urbanizar en calidad de áreas verdes y equipamiento comunitario, de acuerdo a lo establecido por la planificación municipal, destinando exclusivamente para áreas verdes al menos el cincuenta por ciento de la superficie entregada.»\n\nSíntesis del resto del artículo: regula cesión gratuita y obligatoria en los supuestos de urbanización indicados; contiene excepción para determinados fraccionamientos rurales sin destino de urbanización/lotización; limita la entrega conjunta de áreas verdes, comunitarias y vías al 35% del área útil urbanizable; y permite, en predios inferiores a 3.000 m², optar por compensación dineraria según ordenanza y avalúo, con fondo destinado a los fines previstos. Ver texto íntegro en la fuente para un caso concreto.",
+        "anterior": "",
+        "nota": "El porcentaje se calcula sobre suelo útil urbanizable, no sobre habitantes. El mínimo de la mitad se refiere a la cesión conjunta indicada. No se afirma que el artículo haya sido reformado en 2026.",
+        "refs": [
+          "NX26 · art. 424, pp. PDF 139–140"
+        ]
       }
     ],
     "verificacion": "No se certificó el texto final promulgado del proyecto de noviembre ni el estado judicial completo al corte. El sistema público de seguimiento devolvió HTTP 403 en las consultas de expediente. La reforma fiscal, su reglamento y lineamientos sí fueron consultados; la guía no reemplaza un criterio jurídico sobre un acto concreto. Complemento 23-XI-2026: se cotejaron reformas de septiembre sobre tránsito (55 f y 130) y educación ambiental (54 x); hay extractos y fuentes en el lector. La función 54 w se identifica en compilación TCE, con ley de origen pendiente de cotejo. No se certifica aquí una codificación exhaustiva al día."
@@ -6317,9 +6380,74 @@
     "conjunto_aportado_completo": true,
     "alcance": "Se han analizado los seis planes facilitados por el usuario, quien los identifica como el conjunto de candidatos. No se certifica aquí la nómina oficial ni la inscripción de cada versión ante CNE."
   },
+  "preguntas_tecnicas": [
+    {
+      "id": "PT01",
+      "tema": "Áreas verdes y espacio público",
+      "pregunta": "¿Cuánta área verde corresponde por habitante y se mide en m² o m³?",
+      "respuesta": "Se mide en metros cuadrados por habitante (m²/hab): superficie, no volumen. El parámetro de 9 m²/hab aparece en el anexo del Acuerdo Ministerial 059 sobre arbolado urbano. La norma dispone que el GAD debe propender a su cumplimiento y toma como referencia la circunscripción parroquial; no es una cuota en m³ ni un artículo del COOTAD que asigne un terreno individual a cada persona.",
+      "fecha": "2026-11-24",
+      "estado": "Texto del anexo cotejado visualmente; contraste institucional 2026. Norma local específica y metodología aplicable pendientes de verificación integral.",
+      "reglas": [
+        [
+          "Unidad correcta",
+          "m²/hab = superficie de áreas verdes computables ÷ población del mismo ámbito y fecha. Los m³ sirven para volumen de tierra, agua u otros materiales; no sustituyen este índice."
+        ],
+        [
+          "Parámetro ambiental",
+          "El capítulo V del anexo del AM 059 recoge 9 m²/hab y establece distribución equitativa del arbolado, referencia parroquial y elaboración de metodología por la autoridad ambiental. Debe distinguirse el deber de propender al parámetro de una afirmación automática de incumplimiento basada en cualquier inventario."
+        ],
+        [
+          "Efecto específico sobre corta de árboles",
+          "El capítulo VI también relaciona el permiso de corta urbana con el parámetro por parroquia y prevé supuestos de poda por riesgo o afectación. No se usa un índice agregado para autorizar automáticamente tala: cada caso necesita el procedimiento y evaluación correspondientes."
+        ],
+        [
+          "Regla diferente: cesión en urbanizaciones",
+          "El art. 424 COOTAD exige, en los supuestos que regula, al menos 15% del área útil urbanizable para áreas verdes y equipamiento comunitario, con al menos la mitad de esa entrega destinada exclusivamente a área verde. Tiene excepciones y reglas de compensación. Es un porcentaje de suelo del proyecto, no una cantidad de m² por habitante."
+        ],
+        [
+          "Ejemplo de cesión, no de índice verde",
+          "Para 10.000 m² útiles urbanizables, aplicar el mínimo del 15% da 1.500 m² de cesión conjunta; al menos 750 m² corresponderían a área verde. El cálculo ilustrativo no sustituye la ordenanza ni resuelve la aplicación a un predio concreto."
+        ],
+        [
+          "Referencia estadística",
+          "El INEC cita 9 m²/hab como parámetro atribuido a la OMS. Sus ejercicios de 2010 y 2012 utilizan definiciones distintas de áreas incluidas; sus cifras históricas no son un inventario vigente de Montúfar. No se certifica aquí una norma OMS original ni se adoptan 15 o 50 m²/hab como obligación nacional universal."
+        ]
+      ],
+      "montufar": "No se ha calculado un índice vigente para San Gabriel o sus parroquias ni un déficit cantonal certificado. Faltan inventario georreferenciado y clasificación de áreas computables, acceso, población del mismo perímetro y fecha, metodología ambiental aplicable, y ordenanza/PUGS vigente en su parte operativa. No se divide sin más toda la superficie de bosques, páramos o terrenos rurales por la población urbana.",
+      "comprobar": [
+        "Inventario de parques y áreas verdes, con polígonos, superficie, acceso y clasificación; no duplicar áreas superpuestas.",
+        "Población y delimitación de cada ámbito medido, con fuente y fecha; no mezclar cabecera urbana con todo el cantón.",
+        "Metodología aprobada o aplicable: distinguir verde vegetal, área permeable, parque/plaza y espacio público total.",
+        "Norma local operativa, cesiones recibidas y compensaciones; distinguir obligación urbanística e indicador poblacional.",
+        "Accesibilidad, distribución, mantenimiento y estado de uso: una razón alta de m²/hab no garantiza acceso equitativo."
+      ],
+      "evitar": [
+        "Decir 9 metros cúbicos por habitante.",
+        "Afirmar que el COOTAD fija 9 m²/hab: su art. 424 regula otra base.",
+        "Tratar el 15% de cesión como 15 m²/hab o como todo área verde.",
+        "Confundir una recomendación citada por el INEC con el texto y alcance de una norma nacional.",
+        "Usar el promedio de todo el cantón para probar que cada barrio tiene acceso suficiente.",
+        "Usar borradores ministeriales de 2022 o 2024 como norma vigente sin acuerdo aprobatorio y ámbito verificados."
+      ],
+      "refs": [
+        "AV059 · anexo, capítulos V y VI, pp. PDF 3–6",
+        "AVCAT · fila 181",
+        "AVEC · p. PDF 25 / impresa 20",
+        "AVINE · referencia histórica",
+        "AVMET · metodología 2012",
+        "NX26 · art. 424, pp. PDF 139–140"
+      ],
+      "lectores": [
+        "AV059",
+        "AV424"
+      ],
+      "alcance_fuentes": "El anexo original de autoría ministerial se obtuvo de una copia externa (Mariscal Sur), no de una descarga del ministerio. Fue cotejado visualmente en pp. 3–6 y contrastado con un expediente alojado por EPMMOP y el catastro regulatorio del Ministerio de Ambiente y Energía 2026. El catastro lista el AM 059 sin última reforma reportada; no es certificación exhaustiva de vigencia ni corrige la referencia de publicación. La revisión no identificó una derogación expresa, pero queda pendiente recuperar el acuerdo íntegro desde el emisor y la metodología aprobada."
+    }
+  ],
   "publicacion": {
-    "fecha": "2026-11-23",
-    "edicion": "1.10 · Eje 1 corregido",
+    "fecha": "2026-11-24",
+    "edicion": "1.11 · Preguntas técnicas",
     "alcance": "Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub."
   }
 }

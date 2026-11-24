@@ -15,13 +15,13 @@ def preparar(origen, repo):
     d=json.loads(txt)
     fuentes={s['id']:s for s in d['fuentes']}
     for s in d['fuentes']:s.pop('local',None)
-    d['publicacion']={'fecha':'2026-11-23','edicion':'1.10 · Eje 1 corregido','alcance':'Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub.'}
+    d['publicacion']={'fecha':d['corte'],'edicion':d['version']+' · Preguntas técnicas','alcance':'Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub.'}
     t=(origen/'plantilla.html').read_text()
     # En la web, las fuentes se consultan en su origen, no en copias locales ausentes.
     t=t.replace("KEY='montufar-analisis-andres-v1'","KEY='montufar-observatorio-web-v1'")
     t=t.replace('data.fuentes.filter(f=>localurl(f.local)).map','data.fuentes.map')
     t=t.replace('<a href="${esc(localurl(f.local))}" target="_blank" rel="noopener">Abrir copia archivada</a> · ','')
-    t=t.replace('<div id="notice"','<div class="callout small noprint"><strong>Edición para compartir · 23-XI-2026</strong><p>Incluye los seis planes aportados y el Eje 1 corregido. Las fuentes originales se abren en su sitio de publicación. Las notas y ediciones se guardan solo en este navegador: exportarlas no actualiza GitHub.</p><p><a href="datos.json" download>Descargar versión publicada de los datos</a> · <a href="https://github.com/marcoguiaecuador-design/politica-andres-2026">Repositorio e historial de revisiones</a></p></div><div id="notice"')
+    t=t.replace('<div id="notice"','<div class="callout small noprint"><strong>Edición para compartir · 24-XI-2026</strong><p>Incluye los seis planes aportados, el Eje 1 corregido y la sección Preguntas técnicas para debates. Las fuentes originales se abren en su sitio de publicación. Las notas y ediciones se guardan solo en este navegador: exportarlas no actualiza GitHub.</p><p><a href="datos.json" download>Descargar versión publicada de los datos</a> · <a href="https://github.com/marcoguiaecuador-design/politica-andres-2026">Repositorio e historial de revisiones</a></p></div><div id="notice"')
     t=re.sub(r'<p class="small muted space">Se archiva la copia local aportada del informe DPC-0001-2026.*?</p><p>.*?</p>', '<p class="small muted space">La copia íntegra aportada del informe DPC-0001-2026 y el OCR se conservan en el expediente local; no se redistribuyen en esta edición. La identificación se contrasta con LOTAIP. No se certifican aquí firma digital ni hallazgos completos.</p>',t,flags=re.S)
     t=t.replace('Conserve el HTML junto a sus carpetas: las copias archivadas son enlaces relativos. Guardar HTML actualizado integra datos y notas, pero no incorpora los PDF dentro del archivo. Las fuentes originales siguen enlazadas para cotejo.','Esta edición enlaza las fuentes públicas originales. Los PDF, respaldos y OCR bruto se conservan en el expediente local. Guardar HTML actualizado integra datos y notas, pero no publica una revisión en GitHub.')
     planes={'fabian_robles':'PF','javier_proano':'PJ','ruben_castillo':'PC','raul_lucero_actual':'PNL','gabriel_jacome':'PG'}
@@ -48,7 +48,7 @@ def preparar(origen, repo):
         for c in json.loads((origen/'datos.json').read_text())['investigacion']['contratos']:
             if 'S.A.S.' not in c['proveedor']:content=content.replace(c['proveedor'],'Proveedor persona natural · consultar registro oficial')
         p.write_text(content)
-    manifest={'fecha':'2026-11-23','version':d['version'],'alcance':d['publicacion']['alcance'],'fuentes':d['fuentes']}
+    manifest={'fecha':d['corte'],'version':d['version'],'alcance':d['publicacion']['alcance'],'fuentes':d['fuentes']}
     (out/'fuentes_publicacion.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2))
     (repo/'docs/index.html').write_text('<!doctype html><html lang="es"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Observatorio de Montúfar</title><meta http-equiv="refresh" content="0;url=observatorio/informe.html"><p><a href="observatorio/informe.html">Abrir observatorio de Montúfar</a></p></html>')
     (repo/'docs/.nojekyll').touch()

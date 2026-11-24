@@ -1,6 +1,6 @@
 {
-  "fecha": "2026-11-23",
-  "version": "1.10",
+  "fecha": "2026-11-24",
+  "version": "1.11",
   "alcance": "Edición para compartir: análisis y fuentes públicas; originales, OCR bruto y respaldos permanecen localmente. Proveedores personas naturales anonimizados. Las notas son locales y no se sincronizan con GitHub.",
   "fuentes": [
     {
@@ -674,6 +674,41 @@
       "url": "https://www.ecuadorencifras.gob.ec/censo-de-poblacion-y-vivienda/",
       "estado": "Fuente oficial consultada el 23-XI-2026",
       "detalle": "Publica documentación y resultados del censo 2022, posteriores a 2010. No se calcula aquí nueva población cantonal a partir de cifras del plan."
+    },
+    {
+      "id": "AV059",
+      "titulo": "AM 059 · anexo de arbolado urbano · copia de documento ministerial",
+      "url": "https://mariscalsur.org/wp-content/uploads/2019/09/VAB001_Normativa-Nacional-Manejo-Arboles-Urbanos.pdf",
+      "estado": "Copia externa de fuente normativa primaria; cotejo visual de pp. 3–6, 24-XI-2026",
+      "detalle": "Autoría Ministerio del Ambiente. Cap. V: 9 m²/hab, referencia parroquial y deber de propender. Cap. VI: efecto en permiso de corta y supuestos de poda. No se presenta el alojamiento como oficial ni se certifica publicación registral. Contraste AVEC y AVCAT."
+    },
+    {
+      "id": "AVCAT",
+      "titulo": "Ministerio de Ambiente y Energía · catastro regulatorio 2026",
+      "url": "https://www.ambienteyenergia.gob.ec/wp-content/uploads/2026/08/catastro_regulatorio_2dotri2026final.pdf",
+      "estado": "Fuente institucional 2026 consultada 24-XI-2026",
+      "detalle": "Fila 181 identifica AM 059 de 18-V-2016 sobre árboles urbanos. No informa reforma posterior. La columna de publicación registra «En proceso»: no se transforma ese campo en certificación de vigencia o derogación."
+    },
+    {
+      "id": "AVEC",
+      "titulo": "EPMMOP · expediente ambiental que reproduce el AM 059",
+      "url": "https://epmmop.quito.gob.ec/wp-content/uploads/2026/07/Registro_Ambiental_-final-revMT-signed-signed.pdf",
+      "estado": "Copia alojada por entidad pública; contraste de texto, no norma de Montúfar",
+      "detalle": "Sección 4.4.6 y p. PDF 25 (impresa 20) reproducen referencia de 9 m²/hab y circunscripción parroquial para corta de árboles. El expediente no sustituye el acuerdo original."
+    },
+    {
+      "id": "AVINE",
+      "titulo": "INEC · boletín histórico de Índice Verde Urbano basado en cartografía 2010",
+      "url": "https://www.ecuadorencifras.gob.ec/documentos/web-inec/Sitios/sitio_verde/boletin.pdf",
+      "estado": "Referencia estadística histórica, no ley ni dato vigente de Montúfar",
+      "detalle": "Define m²/hab y cita 9 m² como referencia atribuida a OMS. No se adopta su cifra nacional como actual ni se certifica el documento OMS de origen."
+    },
+    {
+      "id": "AVMET",
+      "titulo": "INEC · catálogo metodológico Índice Verde Urbano 2012",
+      "url": "https://anda.inec.gob.ec/anda5/index.php/catalog/360",
+      "estado": "Fuente metodológica oficial consultada 24-XI-2026",
+      "detalle": "Permite distinguir ejercicios, ámbitos y categorías; no sustituye inventario georreferenciado actual de áreas verdes de Montúfar."
     }
   ]
 }
